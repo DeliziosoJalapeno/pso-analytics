@@ -1,0 +1,23 @@
+name: CI
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run check
+      - name: packages/ui imports only itself
+        run: |
+          if grep -rnE "from '(\.\./\.\./|@pso-analytics|@sorc/shared)" packages/ui/src; then
+            echo "packages/ui must not import from outside the package"; exit 1
+          fi

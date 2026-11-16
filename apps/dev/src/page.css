@@ -1,0 +1,10 @@
+/* The PSO app supplies these; the dev site mimics them so the dashboard looks as it does on PSO. */
+:root {
+  color-scheme: dark;
+  --font-ui: system-ui, -apple-system, 'Segoe UI', sans-serif;
+  background: #08130f;
+  color: #f4ead5;
+  font-family: var(--font-ui);
+}
+body { margin: 0; }
+.dev-banner { margin: 0; padding: 6px 16px; background: #1a3128; color: #ead497; font-size: 13px; }

@@ -1,0 +1,556 @@
+{
+  "releasedThrough": "2026-09-30",
+  "dataAvailable": true,
+  "totalGames": 1800,
+  "generatedAt": 1793367094969,
+  "totalPlayerGames": 3600,
+  "avatars": [
+    {
+      "avatarKeys": [
+        "seer"
+      ],
+      "colors": null,
+      "metaShare": 0.09194444444444444,
+      "rate": {
+        "playerGames": 331,
+        "matches": 320,
+        "wins": 161,
+        "winRate": 0.486404833836858
+      }
+    },
+    {
+      "avatarKeys": [
+        "sorcerer"
+      ],
+      "colors": null,
+      "metaShare": 0.085,
+      "rate": {
+        "playerGames": 306,
+        "matches": 297,
+        "wins": 163,
+        "winRate": 0.5326797385620915
+      }
+    },
+    {
+      "avatarKeys": [
+        "battlemage"
+      ],
+      "colors": null,
+      "metaShare": 0.08444444444444445,
+      "rate": {
+        "playerGames": 304,
+        "matches": 293,
+        "wins": 166,
+        "winRate": 0.5460526315789473
+      }
+    },
+    {
+      "avatarKeys": [
+        "deathspeaker"
+      ],
+      "colors": null,
+      "metaShare": 0.08,
+      "rate": {
+        "playerGames": 288,
+        "matches": 274,
+        "wins": 134,
+        "winRate": 0.4652777777777778
+      }
+    },
+    {
+      "avatarKeys": [
+        "enchantress"
+      ],
+      "colors": null,
+      "metaShare": 0.07833333333333334,
+      "rate": {
+        "playerGames": 282,
+        "matches": 270,
+        "wins": 133,
+        "winRate": 0.4716312056737589
+      }
+    },
+    {
+      "avatarKeys": [
+        "pathfinder"
+      ],
+      "colors": null,
+      "metaShare": 0.07833333333333334,
+      "rate": {
+        "playerGames": 282,
+        "matches": 276,
+        "wins": 156,
+        "winRate": 0.5531914893617021
+      }
+    },
+    {
+      "avatarKeys": [
+        "elementalist"
+      ],
+      "colors": null,
+      "metaShare": 0.07583333333333334,
+      "rate": {
+        "playerGames": 273,
+        "matches": 262,
+        "wins": 127,
+        "winRate": 0.4652014652014652
+      }
+    },
+    {
+      "avatarKeys": [
+        "avatar of air"
+      ],
+      "colors": null,
+      "metaShare": 0.04583333333333333,
+      "rate": {
+        "playerGames": 165,
+        "matches": 165,
+        "wins": 84,
+        "winRate": 0.509090909090909
+      }
+    },
+    {
+      "avatarKeys": [
+        "avatar of earth"
+      ],
+      "colors": null,
+      "metaShare": 0.04555555555555556,
+      "rate": {
+        "playerGames": 164,
+        "matches": 159,
+        "wins": 75,
+        "winRate": 0.4573170731707317
+      }
+    },
+    {
+      "avatarKeys": [
+        "avatar of water"
+      ],
+      "colors": null,
+      "metaShare": 0.045,
+      "rate": {
+        "playerGames": 162,
+        "matches": 161,
+        "wins": 78,
+        "winRate": 0.48148148148148145
+      }
+    },
+    {
+      "avatarKeys": [
+        "druid"
+      ],
+      "colors": null,
+      "metaShare": 0.04388888888888889,
+      "rate": {
+        "playerGames": 158,
+        "matches": 157,
+        "wins": 78,
+        "winRate": 0.4936708860759494
+      }
+    },
+    {
+      "avatarKeys": [
+        "archimago"
+      ],
+      "colors": null,
+      "metaShare": 0.043611111111111114,
+      "rate": {
+        "playerGames": 157,
+        "matches": 153,
+        "wins": 74,
+        "winRate": 0.4713375796178344
+      }
+    },
+    {
+      "avatarKeys": [
+        "geomancer"
+      ],
+      "colors": null,
+      "metaShare": 0.042777777777777776,
+      "rate": {
+        "playerGames": 154,
+        "matches": 152,
+        "wins": 72,
+        "winRate": 0.4675324675324675
+      }
+    },
+    {
+      "avatarKeys": [
+        "waveshaper"
+      ],
+      "colors": null,
+      "metaShare": 0.04138888888888889,
+      "rate": {
+        "playerGames": 149,
+        "matches": 147,
+        "wins": 78,
+        "winRate": 0.5234899328859061
+      }
+    },
+    {
+      "avatarKeys": [
+        "flamecaller"
+      ],
+      "colors": null,
+      "metaShare": 0.04083333333333333,
+      "rate": {
+        "playerGames": 147,
+        "matches": 144,
+        "wins": 76,
+        "winRate": 0.5170068027210885
+      }
+    },
+    {
+      "avatarKeys": [
+        "avatar of fire"
+      ],
+      "colors": null,
+      "metaShare": 0.03861111111111111,
+      "rate": {
+        "playerGames": 139,
+        "matches": 137,
+        "wins": 74,
+        "winRate": 0.5323741007194245
+      }
+    },
+    {
+      "avatarKeys": [
+        "sparkmage"
+      ],
+      "colors": null,
+      "metaShare": 0.03861111111111111,
+      "rate": {
+        "playerGames": 139,
+        "matches": 136,
+        "wins": 71,
+        "winRate": 0.5107913669064749
+      }
+    }
+  ],
+  "combinations": [
+    {
+      "avatarKeys": [
+        "seer"
+      ],
+      "colors": [
+        "air",
+        "earth",
+        "fire",
+        "water"
+      ],
+      "metaShare": 0.09194444444444444,
+      "rate": {
+        "playerGames": 331,
+        "matches": 320,
+        "wins": 161,
+        "winRate": 0.486404833836858
+      }
+    },
+    {
+      "avatarKeys": [
+        "sorcerer"
+      ],
+      "colors": [
+        "air",
+        "earth",
+        "fire",
+        "water"
+      ],
+      "metaShare": 0.085,
+      "rate": {
+        "playerGames": 306,
+        "matches": 297,
+        "wins": 163,
+        "winRate": 0.5326797385620915
+      }
+    },
+    {
+      "avatarKeys": [
+        "battlemage"
+      ],
+      "colors": [
+        "air",
+        "earth",
+        "fire",
+        "water"
+      ],
+      "metaShare": 0.08444444444444445,
+      "rate": {
+        "playerGames": 304,
+        "matches": 293,
+        "wins": 166,
+        "winRate": 0.5460526315789473
+      }
+    },
+    {
+      "avatarKeys": [
+        "deathspeaker"
+      ],
+      "colors": [
+        "air",
+        "earth",
+        "fire",
+        "water"
+      ],
+      "metaShare": 0.08,
+      "rate": {
+        "playerGames": 288,
+        "matches": 274,
+        "wins": 134,
+        "winRate": 0.4652777777777778
+      }
+    },
+    {
+      "avatarKeys": [
+        "enchantress"
+      ],
+      "colors": [
+        "air",
+        "earth",
+        "fire",
+        "water"
+      ],
+      "metaShare": 0.07833333333333334,
+      "rate": {
+        "playerGames": 282,
+        "matches": 270,
+        "wins": 133,
+        "winRate": 0.4716312056737589
+      }
+    },
+    {
+      "avatarKeys": [
+        "pathfinder"
+      ],
+      "colors": [
+        "air",
+        "earth",
+        "fire",
+        "water"
+      ],
+      "metaShare": 0.07833333333333334,
+      "rate": {
+        "playerGames": 282,
+        "matches": 276,
+        "wins": 156,
+        "winRate": 0.5531914893617021
+      }
+    },
+    {
+      "avatarKeys": [
+        "elementalist"
+      ],
+      "colors": [
+        "air",
+        "earth",
+        "fire",
+        "water"
+      ],
+      "metaShare": 0.07583333333333334,
+      "rate": {
+        "playerGames": 273,
+        "matches": 262,
+        "wins": 127,
+        "winRate": 0.4652014652014652
+      }
+    },
+    {
+      "avatarKeys": [
+        "avatar of air"
+      ],
+      "colors": [
+        "air",
+        "earth",
+        "fire",
+        "water"
+      ],
+      "metaShare": 0.04583333333333333,
+      "rate": {
+        "playerGames": 165,
+        "matches": 165,
+        "wins": 84,
+        "winRate": 0.509090909090909
+      }
+    },
+    {
+      "avatarKeys": [
+        "avatar of earth"
+      ],
+      "colors": [
+        "air",
+        "earth",
+        "fire",
+        "water"
+      ],
+      "metaShare": 0.04555555555555556,
+      "rate": {
+        "playerGames": 164,
+        "matches": 159,
+        "wins": 75,
+        "winRate": 0.4573170731707317
+      }
+    },
+    {
+      "avatarKeys": [
+        "avatar of water"
+      ],
+      "colors": [
+        "air",
+        "earth",
+        "fire",
+        "water"
+      ],
+      "metaShare": 0.045,
+      "rate": {
+        "playerGames": 162,
+        "matches": 161,
+        "wins": 78,
+        "winRate": 0.48148148148148145
+      }
+    },
+    {
+      "avatarKeys": [
+        "druid"
+      ],
+      "colors": [
+        "air",
+        "earth",
+        "fire",
+        "water"
+      ],
+      "metaShare": 0.04388888888888889,
+      "rate": {
+        "playerGames": 158,
+        "matches": 157,
+        "wins": 78,
+        "winRate": 0.4936708860759494
+      }
+    },
+    {
+      "avatarKeys": [
+        "archimago"
+      ],
+      "colors": [
+        "air",
+        "earth",
+        "fire",
+        "water"
+      ],
+      "metaShare": 0.043611111111111114,
+      "rate": {
+        "playerGames": 157,
+        "matches": 153,
+        "wins": 74,
+        "winRate": 0.4713375796178344
+      }
+    },
+    {
+      "avatarKeys": [
+        "geomancer"
+      ],
+      "colors": [
+        "air",
+        "earth",
+        "fire",
+        "water"
+      ],
+      "metaShare": 0.042777777777777776,
+      "rate": {
+        "playerGames": 154,
+        "matches": 152,
+        "wins": 72,
+        "winRate": 0.4675324675324675
+      }
+    },
+    {
+      "avatarKeys": [
+        "waveshaper"
+      ],
+      "colors": [
+        "air",
+        "earth",
+        "fire",
+        "water"
+      ],
+      "metaShare": 0.04138888888888889,
+      "rate": {
+        "playerGames": 149,
+        "matches": 147,
+        "wins": 78,
+        "winRate": 0.5234899328859061
+      }
+    },
+    {
+      "avatarKeys": [
+        "flamecaller"
+      ],
+      "colors": [
+        "air",
+        "earth",
+        "fire",
+        "water"
+      ],
+      "metaShare": 0.04083333333333333,
+      "rate": {
+        "playerGames": 147,
+        "matches": 144,
+        "wins": 76,
+        "winRate": 0.5170068027210885
+      }
+    },
+    {
+      "avatarKeys": [
+        "avatar of fire"
+      ],
+      "colors": [
+        "air",
+        "earth",
+        "fire",
+        "water"
+      ],
+      "metaShare": 0.03861111111111111,
+      "rate": {
+        "playerGames": 139,
+        "matches": 137,
+        "wins": 74,
+        "winRate": 0.5323741007194245
+      }
+    },
+    {
+      "avatarKeys": [
+        "sparkmage"
+      ],
+      "colors": [
+        "air",
+        "earth",
+        "fire",
+        "water"
+      ],
+      "metaShare": 0.03861111111111111,
+      "rate": {
+        "playerGames": 139,
+        "matches": 136,
+        "wins": 71,
+        "winRate": 0.5107913669064749
+      }
+    }
+  ],
+  "elements": [
+    {
+      "avatarKeys": [],
+      "colors": [
+        "air",
+        "earth",
+        "fire",
+        "water"
+      ],
+      "metaShare": 1,
+      "rate": {
+        "playerGames": 3600,
+        "matches": 1800,
+        "wins": 1800,
+        "winRate": 0.5
+      }
+    }
+  ]
+}

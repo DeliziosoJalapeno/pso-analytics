@@ -1,0 +1,494 @@
+{
+  "replayId": "replay_example",
+  "manifest": {
+    "schemaVersion": 1,
+    "replayId": "replay_example",
+    "tableName": "Example table",
+    "perspectiveParticipantId": "player-1",
+    "perspectiveName": "Player 1",
+    "perspectiveSeat": 1,
+    "recordedFrom": 1767225600000,
+    "recordedTo": 1767225720000,
+    "initialView": {
+      "id": "tbl_example",
+      "revision": 10,
+      "format": "constructed",
+      "perspectiveSeat": 1,
+      "participants": [
+        {
+          "id": "player-1",
+          "name": "Player 1",
+          "role": "player",
+          "seat": 1
+        },
+        {
+          "id": "player-2",
+          "name": "Player 2",
+          "role": "player",
+          "seat": 2
+        }
+      ],
+      "resources": {
+        "1": {
+          "life": 20,
+          "mana": 0,
+          "maxMana": 0,
+          "thresholds": {}
+        },
+        "2": {
+          "life": 20,
+          "mana": 0,
+          "maxMana": 0,
+          "thresholds": {}
+        }
+      },
+      "zoneCounts": {
+        "1": {
+          "spellbook": 40,
+          "atlas": 20,
+          "collection": 0,
+          "hand": 3,
+          "cemetery": 0,
+          "banished": 0
+        },
+        "2": {
+          "spellbook": 40,
+          "atlas": 20,
+          "collection": 0,
+          "hand": 3,
+          "cemetery": 0,
+          "banished": 0
+        }
+      },
+      "privateCards": [
+        {
+          "objectId": "h1",
+          "card": {
+            "id": "spire",
+            "name": "Spire",
+            "type": "Site"
+          },
+          "zone": "hand",
+          "faceUp": true
+        },
+        {
+          "objectId": "h2",
+          "card": {
+            "id": "pudge-butcher",
+            "name": "Pudge Butcher",
+            "type": "Minion",
+            "cost": 2
+          },
+          "zone": "hand",
+          "faceUp": true
+        },
+        {
+          "objectId": "h3",
+          "card": {
+            "id": "arid-desert",
+            "name": "Arid Desert",
+            "type": "Site"
+          },
+          "zone": "hand",
+          "faceUp": true
+        }
+      ],
+      "objects": [
+        {
+          "kind": "card",
+          "objectId": "s1",
+          "card": {
+            "id": "sorcerer",
+            "name": "Sorcerer",
+            "type": "Avatar"
+          },
+          "ownerSeat": 1,
+          "controllerSeat": 1,
+          "zone": "grid",
+          "zoneSeat": null,
+          "faceUp": true,
+          "tapped": false,
+          "transform": {
+            "x": 455,
+            "y": 447,
+            "rotation": 0,
+            "z": 1
+          }
+        },
+        {
+          "kind": "card",
+          "objectId": "a2",
+          "card": {
+            "id": "flamecaller",
+            "name": "Flamecaller",
+            "type": "Avatar"
+          },
+          "ownerSeat": 2,
+          "controllerSeat": 2,
+          "zone": "grid",
+          "zoneSeat": null,
+          "faceUp": true,
+          "tapped": false,
+          "transform": {
+            "x": 455,
+            "y": 99,
+            "rotation": 0,
+            "z": 1
+          }
+        }
+      ],
+      "fixtures": [],
+      "activity": [],
+      "turn": {
+        "activeSeat": null,
+        "startedAt": null
+      }
+    },
+    "events": [
+      {
+        "index": 0,
+        "revision": 11,
+        "at": 1767225600000,
+        "actorParticipantId": "player-1",
+        "actorName": "Player 1",
+        "label": "Player 1 started turn 1",
+        "kind": "pass_turn",
+        "turnBoundary": true,
+        "patch": {
+          "tabletopId": "tbl_example",
+          "baseRevision": 10,
+          "revision": 11,
+          "state": {
+            "turn": {
+              "activeSeat": 1,
+              "startedAt": 1767225600000,
+              "number": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 1,
+        "revision": 12,
+        "at": 1767225615000,
+        "actorParticipantId": "player-1",
+        "actorName": "Player 1",
+        "label": "Player 1 played Spire",
+        "kind": "play_private",
+        "turnBoundary": false,
+        "patch": {
+          "tabletopId": "tbl_example",
+          "baseRevision": 11,
+          "revision": 12,
+          "objects": {
+            "upsert": [
+              {
+                "kind": "card",
+                "objectId": "h1",
+                "card": {
+                  "id": "spire",
+                  "name": "Spire",
+                  "type": "Site"
+                },
+                "ownerSeat": 1,
+                "controllerSeat": 1,
+                "zone": "grid",
+                "zoneSeat": null,
+                "faceUp": true,
+                "tapped": false,
+                "transform": {
+                  "x": 455,
+                  "y": 447,
+                  "rotation": 0,
+                  "z": 1
+                }
+              }
+            ],
+            "remove": []
+          },
+          "privateCards": {
+            "upsert": [],
+            "remove": [
+              "h1"
+            ]
+          },
+          "state": {
+            "zoneCounts": {
+              "1": {
+                "spellbook": 40,
+                "atlas": 20,
+                "collection": 0,
+                "hand": 2,
+                "cemetery": 0,
+                "banished": 0
+              },
+              "2": {
+                "spellbook": 40,
+                "atlas": 20,
+                "collection": 0,
+                "hand": 3,
+                "cemetery": 0,
+                "banished": 0
+              }
+            }
+          }
+        },
+        "cardMoves": [
+          {
+            "objectId": "h1",
+            "sourceZone": "hand",
+            "destinationZone": "grid",
+            "sourceSeat": 1,
+            "destinationSeat": 1
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "revision": 13,
+        "at": 1767225630000,
+        "actorParticipantId": "player-1",
+        "actorName": "Player 1",
+        "label": "Player 2 started turn 2",
+        "kind": "pass_turn",
+        "turnBoundary": true,
+        "patch": {
+          "tabletopId": "tbl_example",
+          "baseRevision": 12,
+          "revision": 13,
+          "state": {
+            "turn": {
+              "activeSeat": 2,
+              "startedAt": 1767225630000,
+              "number": 2
+            }
+          }
+        }
+      },
+      {
+        "index": 3,
+        "revision": 14,
+        "at": 1767225645000,
+        "actorParticipantId": "player-2",
+        "actorName": "Player 2",
+        "label": "Player 2 played Arid Desert",
+        "kind": "play",
+        "turnBoundary": false,
+        "patch": {
+          "tabletopId": "tbl_example",
+          "baseRevision": 13,
+          "revision": 14,
+          "objects": {
+            "upsert": [
+              {
+                "kind": "card",
+                "objectId": "p1",
+                "card": {
+                  "id": "arid-desert",
+                  "name": "Arid Desert",
+                  "type": "Site"
+                },
+                "ownerSeat": 2,
+                "controllerSeat": 2,
+                "zone": "grid",
+                "zoneSeat": null,
+                "faceUp": true,
+                "tapped": false,
+                "transform": {
+                  "x": 455,
+                  "y": 99,
+                  "rotation": 0,
+                  "z": 1
+                }
+              }
+            ],
+            "remove": []
+          },
+          "state": {
+            "zoneCounts": {
+              "1": {
+                "spellbook": 40,
+                "atlas": 20,
+                "collection": 0,
+                "hand": 2,
+                "cemetery": 0,
+                "banished": 0
+              },
+              "2": {
+                "spellbook": 40,
+                "atlas": 20,
+                "collection": 0,
+                "hand": 2,
+                "cemetery": 0,
+                "banished": 0
+              }
+            }
+          }
+        },
+        "cardMoves": [
+          {
+            "objectId": "p1",
+            "sourceZone": "hand",
+            "destinationZone": "grid",
+            "sourceSeat": 2,
+            "destinationSeat": 2
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "revision": 15,
+        "at": 1767225660000,
+        "actorParticipantId": "player-2",
+        "actorName": "Player 2",
+        "label": "Player 2 played Pudge Butcher",
+        "kind": "play",
+        "turnBoundary": false,
+        "patch": {
+          "tabletopId": "tbl_example",
+          "baseRevision": 14,
+          "revision": 15,
+          "objects": {
+            "upsert": [
+              {
+                "kind": "card",
+                "objectId": "p2",
+                "card": {
+                  "id": "pudge-butcher",
+                  "name": "Pudge Butcher",
+                  "type": "Minion",
+                  "cost": 2
+                },
+                "ownerSeat": 2,
+                "controllerSeat": 2,
+                "zone": "grid",
+                "zoneSeat": null,
+                "faceUp": true,
+                "tapped": false,
+                "transform": {
+                  "x": 455,
+                  "y": 215,
+                  "rotation": 0,
+                  "z": 1
+                }
+              }
+            ],
+            "remove": []
+          },
+          "state": {
+            "zoneCounts": {
+              "1": {
+                "spellbook": 40,
+                "atlas": 20,
+                "collection": 0,
+                "hand": 2,
+                "cemetery": 0,
+                "banished": 0
+              },
+              "2": {
+                "spellbook": 40,
+                "atlas": 20,
+                "collection": 0,
+                "hand": 1,
+                "cemetery": 0,
+                "banished": 0
+              }
+            }
+          }
+        },
+        "cardMoves": [
+          {
+            "objectId": "p2",
+            "sourceZone": "hand",
+            "destinationZone": "grid",
+            "sourceSeat": 2,
+            "destinationSeat": 2
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "revision": 16,
+        "at": 1767225675000,
+        "actorParticipantId": "player-2",
+        "actorName": "Player 2",
+        "label": "Player 2 tapped Flamecaller",
+        "kind": "toggle_tap",
+        "turnBoundary": false,
+        "patch": {
+          "tabletopId": "tbl_example",
+          "baseRevision": 15,
+          "revision": 16,
+          "objects": {
+            "upsert": [],
+            "remove": [],
+            "update": [
+              {
+                "id": "a2",
+                "changes": {
+                  "tapped": true
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "index": 6,
+        "revision": 17,
+        "at": 1767225690000,
+        "actorParticipantId": "player-2",
+        "actorName": "Player 2",
+        "label": "Player 2 changed Player 1 life to 17",
+        "kind": "set_resource",
+        "turnBoundary": false,
+        "patch": {
+          "tabletopId": "tbl_example",
+          "baseRevision": 16,
+          "revision": 17,
+          "state": {
+            "resources": {
+              "1": {
+                "life": 17,
+                "mana": 1,
+                "maxMana": 1,
+                "thresholds": {}
+              },
+              "2": {
+                "life": 20,
+                "mana": 1,
+                "maxMana": 1,
+                "thresholds": {}
+              }
+            }
+          }
+        }
+      },
+      {
+        "index": 7,
+        "revision": 18,
+        "at": 1767225705000,
+        "actorParticipantId": "player-2",
+        "actorName": "Player 2",
+        "label": "Player 1 started turn 3",
+        "kind": "pass_turn",
+        "turnBoundary": true,
+        "patch": {
+          "tabletopId": "tbl_example",
+          "baseRevision": 17,
+          "revision": 18,
+          "state": {
+            "turn": {
+              "activeSeat": 1,
+              "startedAt": 1767225720000,
+              "number": 3
+            }
+          }
+        }
+      }
+    ]
+  },
+  "summary": {
+    "note": "Made-up replay for tests and the dev site."
+  }
+}

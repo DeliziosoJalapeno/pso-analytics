@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env.local
+.env.*.local
+# Downloaded replays stay on your machine; never commit them.
+replays/
+!fixtures/replays/
+*.log

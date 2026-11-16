@@ -1,0 +1,13 @@
+{
+  "generatedAt": 1793367095095,
+  "releasedThrough": "2026-09-30",
+  "dataAvailable": true,
+  "cohort": {
+    "playerGames": 331,
+    "matches": 320,
+    "wins": 161,
+    "winRate": 0.486404833836858
+  },
+  "unresolvedPlayerGames": 0,
+  "unresolvedTurnPlayerGames": 0
+}

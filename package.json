@@ -1,0 +1,35 @@
+{
+  "name": "pso-analytics",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace @pso-analytics/dev",
+    "typecheck": "tsc -p packages/ui && tsc -p packages/replay && tsc -p apps/dev && tsc -p examples",
+    "test": "npm test --workspace @pso-analytics/replay",
+    "build": "npm run build --workspace @pso-analytics/dev",
+    "check": "npm run typecheck && npm test && npm run build",
+    "example": "tsx examples/played-by-turn.ts fixtures/replays"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^4.3.4",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "tsx": "^4.19.2",
+    "typescript": "~5.9.3",
+    "vite": "^5.4.11"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@pso-analytics/replay": "*"
+  }
+}

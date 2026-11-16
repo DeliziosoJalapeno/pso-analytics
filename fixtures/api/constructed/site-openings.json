@@ -1,0 +1,396 @@
+{
+  "releasedThrough": "2026-09-30",
+  "dataAvailable": true,
+  "totalGames": 1800,
+  "generatedAt": 1793367095079,
+  "totalPlayerGames": 3600,
+  "trackedPlayerGames": 3600,
+  "sites": [
+    {
+      "playerGames": 3600,
+      "squares": [
+        {
+          "forward": 0,
+          "right": -1,
+          "share": 0.32861111111111113,
+          "rate": {
+            "playerGames": 1183,
+            "matches": 975,
+            "wins": 564,
+            "winRate": 0.47675401521555366
+          }
+        },
+        {
+          "forward": 0,
+          "right": 1,
+          "share": 0.32555555555555554,
+          "rate": {
+            "playerGames": 1172,
+            "matches": 967,
+            "wins": 603,
+            "winRate": 0.514505119453925
+          }
+        },
+        {
+          "forward": 1,
+          "right": 0,
+          "share": 0.3458333333333333,
+          "rate": {
+            "playerGames": 1245,
+            "matches": 1039,
+            "wins": 633,
+            "winRate": 0.5084337349397591
+          }
+        }
+      ]
+    },
+    {
+      "playerGames": 3600,
+      "squares": [
+        {
+          "forward": 0,
+          "right": -2,
+          "share": 0.18333333333333332,
+          "rate": {
+            "playerGames": 660,
+            "matches": 598,
+            "wins": 359,
+            "winRate": 0.543939393939394
+          }
+        },
+        {
+          "forward": 0,
+          "right": 2,
+          "share": 0.20027777777777778,
+          "rate": {
+            "playerGames": 721,
+            "matches": 648,
+            "wins": 359,
+            "winRate": 0.49791955617198336
+          }
+        },
+        {
+          "forward": 1,
+          "right": -1,
+          "share": 0.21472222222222223,
+          "rate": {
+            "playerGames": 773,
+            "matches": 693,
+            "wins": 363,
+            "winRate": 0.46959896507115134
+          }
+        },
+        {
+          "forward": 1,
+          "right": 1,
+          "share": 0.19527777777777777,
+          "rate": {
+            "playerGames": 703,
+            "matches": 623,
+            "wins": 360,
+            "winRate": 0.5120910384068279
+          }
+        },
+        {
+          "forward": 2,
+          "right": 0,
+          "share": 0.2063888888888889,
+          "rate": {
+            "playerGames": 743,
+            "matches": 670,
+            "wins": 359,
+            "winRate": 0.4831763122476447
+          }
+        }
+      ]
+    }
+  ],
+  "openingPlayerGames": 3600,
+  "openings": [
+    {
+      "offsets": [
+        {
+          "forward": 1,
+          "right": -1
+        },
+        {
+          "forward": 1,
+          "right": 0
+        }
+      ],
+      "share": 0.07805555555555556,
+      "rate": {
+        "playerGames": 281,
+        "matches": 267,
+        "wins": 130,
+        "winRate": 0.4626334519572954
+      }
+    },
+    {
+      "offsets": [
+        {
+          "forward": 0,
+          "right": 1
+        },
+        {
+          "forward": 2,
+          "right": 0
+        }
+      ],
+      "share": 0.07111111111111111,
+      "rate": {
+        "playerGames": 256,
+        "matches": 245,
+        "wins": 117,
+        "winRate": 0.45703125
+      }
+    },
+    {
+      "offsets": [
+        {
+          "forward": 1,
+          "right": 0
+        },
+        {
+          "forward": 2,
+          "right": 0
+        }
+      ],
+      "share": 0.07111111111111111,
+      "rate": {
+        "playerGames": 256,
+        "matches": 249,
+        "wins": 129,
+        "winRate": 0.50390625
+      }
+    },
+    {
+      "offsets": [
+        {
+          "forward": 0,
+          "right": -1
+        },
+        {
+          "forward": 0,
+          "right": 2
+        }
+      ],
+      "share": 0.06916666666666667,
+      "rate": {
+        "playerGames": 249,
+        "matches": 244,
+        "wins": 119,
+        "winRate": 0.4779116465863454
+      }
+    },
+    {
+      "offsets": [
+        {
+          "forward": 0,
+          "right": 1
+        },
+        {
+          "forward": 1,
+          "right": -1
+        }
+      ],
+      "share": 0.06861111111111111,
+      "rate": {
+        "playerGames": 247,
+        "matches": 244,
+        "wins": 128,
+        "winRate": 0.5182186234817814
+      }
+    },
+    {
+      "offsets": [
+        {
+          "forward": 0,
+          "right": -1
+        },
+        {
+          "forward": 1,
+          "right": -1
+        }
+      ],
+      "share": 0.06805555555555555,
+      "rate": {
+        "playerGames": 245,
+        "matches": 238,
+        "wins": 105,
+        "winRate": 0.42857142857142855
+      }
+    },
+    {
+      "offsets": [
+        {
+          "forward": 1,
+          "right": 0
+        },
+        {
+          "forward": 1,
+          "right": 1
+        }
+      ],
+      "share": 0.06722222222222222,
+      "rate": {
+        "playerGames": 242,
+        "matches": 230,
+        "wins": 122,
+        "winRate": 0.5041322314049587
+      }
+    },
+    {
+      "offsets": [
+        {
+          "forward": 0,
+          "right": 1
+        },
+        {
+          "forward": 0,
+          "right": 2
+        }
+      ],
+      "share": 0.0661111111111111,
+      "rate": {
+        "playerGames": 238,
+        "matches": 232,
+        "wins": 120,
+        "winRate": 0.5042016806722689
+      }
+    },
+    {
+      "offsets": [
+        {
+          "forward": 0,
+          "right": 1
+        },
+        {
+          "forward": 1,
+          "right": 1
+        }
+      ],
+      "share": 0.06583333333333333,
+      "rate": {
+        "playerGames": 237,
+        "matches": 227,
+        "wins": 123,
+        "winRate": 0.5189873417721519
+      }
+    },
+    {
+      "offsets": [
+        {
+          "forward": 0,
+          "right": -2
+        },
+        {
+          "forward": 0,
+          "right": -1
+        }
+      ],
+      "share": 0.065,
+      "rate": {
+        "playerGames": 234,
+        "matches": 220,
+        "wins": 112,
+        "winRate": 0.47863247863247865
+      }
+    },
+    {
+      "offsets": [
+        {
+          "forward": 0,
+          "right": 2
+        },
+        {
+          "forward": 1,
+          "right": 0
+        }
+      ],
+      "share": 0.065,
+      "rate": {
+        "playerGames": 234,
+        "matches": 227,
+        "wins": 120,
+        "winRate": 0.5128205128205128
+      }
+    },
+    {
+      "offsets": [
+        {
+          "forward": 0,
+          "right": -2
+        },
+        {
+          "forward": 1,
+          "right": 0
+        }
+      ],
+      "share": 0.06444444444444444,
+      "rate": {
+        "playerGames": 232,
+        "matches": 225,
+        "wins": 132,
+        "winRate": 0.5689655172413793
+      }
+    },
+    {
+      "offsets": [
+        {
+          "forward": 0,
+          "right": -1
+        },
+        {
+          "forward": 2,
+          "right": 0
+        }
+      ],
+      "share": 0.06416666666666666,
+      "rate": {
+        "playerGames": 231,
+        "matches": 224,
+        "wins": 113,
+        "winRate": 0.48917748917748916
+      }
+    },
+    {
+      "offsets": [
+        {
+          "forward": 0,
+          "right": -1
+        },
+        {
+          "forward": 1,
+          "right": 1
+        }
+      ],
+      "share": 0.06222222222222222,
+      "rate": {
+        "playerGames": 224,
+        "matches": 211,
+        "wins": 115,
+        "winRate": 0.5133928571428571
+      }
+    },
+    {
+      "offsets": [
+        {
+          "forward": 0,
+          "right": -2
+        },
+        {
+          "forward": 0,
+          "right": 1
+        }
+      ],
+      "share": 0.05388888888888889,
+      "rate": {
+        "playerGames": 194,
+        "matches": 188,
+        "wins": 115,
+        "winRate": 0.5927835051546392
+      }
+    }
+  ]
+}

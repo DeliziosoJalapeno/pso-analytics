@@ -1,0 +1,7635 @@
+{
+  "releasedThrough": "2026-09-30",
+  "dataAvailable": true,
+  "totalGames": 1800,
+  "generatedAt": 1793367094740,
+  "totalPlayerGames": 3600,
+  "cards": [
+    {
+      "cardKey": "mudslide",
+      "cardName": "Mudslide",
+      "deckShare": 0.6122222222222222,
+      "inDeck": {
+        "playerGames": 2204,
+        "matches": 1527,
+        "wins": 1090,
+        "winRate": 0.4945553539019964
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 2204,
+        "matches": 1527,
+        "wins": 1090,
+        "winRate": 0.4945553539019964
+      },
+      "inDeckUnplayed": {
+        "playerGames": 2204,
+        "matches": 1527,
+        "wins": 1090,
+        "winRate": 0.4945553539019964
+      }
+    },
+    {
+      "cardKey": "rubble",
+      "cardName": "Rubble",
+      "deckShare": 0.5772222222222222,
+      "inDeck": {
+        "playerGames": 2078,
+        "matches": 1485,
+        "wins": 1029,
+        "winRate": 0.4951876804619827
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 2078,
+        "matches": 1485,
+        "wins": 1029,
+        "winRate": 0.4951876804619827
+      },
+      "inDeckUnplayed": {
+        "playerGames": 2078,
+        "matches": 1485,
+        "wins": 1029,
+        "winRate": 0.4951876804619827
+      }
+    },
+    {
+      "cardKey": "mirage",
+      "cardName": "Mirage",
+      "deckShare": 0.5688888888888889,
+      "inDeck": {
+        "playerGames": 2048,
+        "matches": 1461,
+        "wins": 1060,
+        "winRate": 0.517578125
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 2048,
+        "matches": 1461,
+        "wins": 1060,
+        "winRate": 0.517578125
+      },
+      "inDeckUnplayed": {
+        "playerGames": 2048,
+        "matches": 1461,
+        "wins": 1060,
+        "winRate": 0.517578125
+      }
+    },
+    {
+      "cardKey": "diluvian kraken",
+      "cardName": "Diluvian Kraken",
+      "deckShare": 0.5647222222222222,
+      "inDeck": {
+        "playerGames": 2033,
+        "matches": 1434,
+        "wins": 1020,
+        "winRate": 0.5017215937038859
+      },
+      "played": {
+        "playerGames": 574,
+        "matches": 523,
+        "wins": 296,
+        "winRate": 0.5156794425087108
+      },
+      "openingHand": {
+        "playerGames": 451,
+        "matches": 418,
+        "wins": 225,
+        "winRate": 0.49889135254988914
+      },
+      "inHand": {
+        "playerGames": 1174,
+        "matches": 977,
+        "wins": 589,
+        "winRate": 0.5017035775127768
+      },
+      "notInHand": {
+        "playerGames": 859,
+        "matches": 752,
+        "wins": 431,
+        "winRate": 0.5017462165308498
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1459,
+        "matches": 1140,
+        "wins": 724,
+        "winRate": 0.4962302947224126
+      }
+    },
+    {
+      "cardKey": "holy ground",
+      "cardName": "Holy Ground",
+      "deckShare": 0.5611111111111111,
+      "inDeck": {
+        "playerGames": 2020,
+        "matches": 1450,
+        "wins": 1011,
+        "winRate": 0.5004950495049505
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 2020,
+        "matches": 1450,
+        "wins": 1011,
+        "winRate": 0.5004950495049505
+      },
+      "inDeckUnplayed": {
+        "playerGames": 2020,
+        "matches": 1450,
+        "wins": 1011,
+        "winRate": 0.5004950495049505
+      }
+    },
+    {
+      "cardKey": "stream",
+      "cardName": "Stream",
+      "deckShare": 0.5575,
+      "inDeck": {
+        "playerGames": 2007,
+        "matches": 1462,
+        "wins": 1011,
+        "winRate": 0.5037369207772795
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 2007,
+        "matches": 1462,
+        "wins": 1011,
+        "winRate": 0.5037369207772795
+      },
+      "inDeckUnplayed": {
+        "playerGames": 2007,
+        "matches": 1462,
+        "wins": 1011,
+        "winRate": 0.5037369207772795
+      }
+    },
+    {
+      "cardKey": "sold out cemetery",
+      "cardName": "Sold-out Cemetery",
+      "deckShare": 0.555,
+      "inDeck": {
+        "playerGames": 1998,
+        "matches": 1452,
+        "wins": 993,
+        "winRate": 0.496996996996997
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1998,
+        "matches": 1452,
+        "wins": 993,
+        "winRate": 0.496996996996997
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1998,
+        "matches": 1452,
+        "wins": 993,
+        "winRate": 0.496996996996997
+      }
+    },
+    {
+      "cardKey": "cloud spirit",
+      "cardName": "Cloud Spirit",
+      "deckShare": 0.5438888888888889,
+      "inDeck": {
+        "playerGames": 1958,
+        "matches": 1473,
+        "wins": 957,
+        "winRate": 0.4887640449438202
+      },
+      "played": {
+        "playerGames": 553,
+        "matches": 507,
+        "wins": 279,
+        "winRate": 0.5045207956600362
+      },
+      "openingHand": {
+        "playerGames": 464,
+        "matches": 440,
+        "wins": 241,
+        "winRate": 0.5193965517241379
+      },
+      "inHand": {
+        "playerGames": 1166,
+        "matches": 996,
+        "wins": 578,
+        "winRate": 0.4957118353344768
+      },
+      "notInHand": {
+        "playerGames": 792,
+        "matches": 706,
+        "wins": 379,
+        "winRate": 0.47853535353535354
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1405,
+        "matches": 1150,
+        "wins": 678,
+        "winRate": 0.4825622775800712
+      }
+    },
+    {
+      "cardKey": "crossroads",
+      "cardName": "Crossroads",
+      "deckShare": 0.5355555555555556,
+      "inDeck": {
+        "playerGames": 1928,
+        "matches": 1425,
+        "wins": 971,
+        "winRate": 0.5036307053941909
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1928,
+        "matches": 1425,
+        "wins": 971,
+        "winRate": 0.5036307053941909
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1928,
+        "matches": 1425,
+        "wins": 971,
+        "winRate": 0.5036307053941909
+      }
+    },
+    {
+      "cardKey": "iron shackles",
+      "cardName": "Iron Shackles",
+      "deckShare": 0.5080555555555556,
+      "inDeck": {
+        "playerGames": 1829,
+        "matches": 1373,
+        "wins": 893,
+        "winRate": 0.4882449425915801
+      },
+      "played": {
+        "playerGames": 514,
+        "matches": 476,
+        "wins": 240,
+        "winRate": 0.4669260700389105
+      },
+      "openingHand": {
+        "playerGames": 395,
+        "matches": 378,
+        "wins": 189,
+        "winRate": 0.47848101265822784
+      },
+      "inHand": {
+        "playerGames": 1043,
+        "matches": 887,
+        "wins": 508,
+        "winRate": 0.48705656759348037
+      },
+      "notInHand": {
+        "playerGames": 786,
+        "matches": 704,
+        "wins": 385,
+        "winRate": 0.48982188295165396
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1315,
+        "matches": 1075,
+        "wins": 653,
+        "winRate": 0.49657794676806083
+      }
+    },
+    {
+      "cardKey": "magellan globe",
+      "cardName": "Magellan Globe",
+      "deckShare": 0.44972222222222225,
+      "inDeck": {
+        "playerGames": 1619,
+        "matches": 1249,
+        "wins": 795,
+        "winRate": 0.49104385423100677
+      },
+      "played": {
+        "playerGames": 477,
+        "matches": 445,
+        "wins": 243,
+        "winRate": 0.5094339622641509
+      },
+      "openingHand": {
+        "playerGames": 367,
+        "matches": 354,
+        "wins": 180,
+        "winRate": 0.4904632152588556
+      },
+      "inHand": {
+        "playerGames": 945,
+        "matches": 822,
+        "wins": 465,
+        "winRate": 0.49206349206349204
+      },
+      "notInHand": {
+        "playerGames": 674,
+        "matches": 611,
+        "wins": 330,
+        "winRate": 0.4896142433234421
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1142,
+        "matches": 957,
+        "wins": 552,
+        "winRate": 0.48336252189141854
+      }
+    },
+    {
+      "cardKey": "sleep",
+      "cardName": "Sleep",
+      "deckShare": 0.4477777777777778,
+      "inDeck": {
+        "playerGames": 1612,
+        "matches": 1247,
+        "wins": 815,
+        "winRate": 0.5055831265508685
+      },
+      "played": {
+        "playerGames": 466,
+        "matches": 439,
+        "wins": 244,
+        "winRate": 0.5236051502145923
+      },
+      "openingHand": {
+        "playerGames": 379,
+        "matches": 365,
+        "wins": 191,
+        "winRate": 0.503957783641161
+      },
+      "inHand": {
+        "playerGames": 972,
+        "matches": 847,
+        "wins": 493,
+        "winRate": 0.507201646090535
+      },
+      "notInHand": {
+        "playerGames": 640,
+        "matches": 591,
+        "wins": 322,
+        "winRate": 0.503125
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1146,
+        "matches": 964,
+        "wins": 571,
+        "winRate": 0.49825479930191974
+      }
+    },
+    {
+      "cardKey": "noisome twosome",
+      "cardName": "Noisome Twosome",
+      "deckShare": 0.44472222222222224,
+      "inDeck": {
+        "playerGames": 1601,
+        "matches": 1258,
+        "wins": 797,
+        "winRate": 0.4978138663335415
+      },
+      "played": {
+        "playerGames": 407,
+        "matches": 377,
+        "wins": 206,
+        "winRate": 0.5061425061425061
+      },
+      "openingHand": {
+        "playerGames": 355,
+        "matches": 336,
+        "wins": 170,
+        "winRate": 0.4788732394366197
+      },
+      "inHand": {
+        "playerGames": 916,
+        "matches": 797,
+        "wins": 461,
+        "winRate": 0.5032751091703057
+      },
+      "notInHand": {
+        "playerGames": 685,
+        "matches": 624,
+        "wins": 336,
+        "winRate": 0.4905109489051095
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1194,
+        "matches": 1014,
+        "wins": 591,
+        "winRate": 0.4949748743718593
+      }
+    },
+    {
+      "cardKey": "snowball",
+      "cardName": "Snowball",
+      "deckShare": 0.4330555555555556,
+      "inDeck": {
+        "playerGames": 1559,
+        "matches": 1224,
+        "wins": 786,
+        "winRate": 0.504169339320077
+      },
+      "played": {
+        "playerGames": 433,
+        "matches": 407,
+        "wins": 218,
+        "winRate": 0.5034642032332564
+      },
+      "openingHand": {
+        "playerGames": 328,
+        "matches": 306,
+        "wins": 184,
+        "winRate": 0.5609756097560976
+      },
+      "inHand": {
+        "playerGames": 864,
+        "matches": 762,
+        "wins": 434,
+        "winRate": 0.5023148148148148
+      },
+      "notInHand": {
+        "playerGames": 695,
+        "matches": 631,
+        "wins": 352,
+        "winRate": 0.5064748201438849
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1126,
+        "matches": 946,
+        "wins": 568,
+        "winRate": 0.5044404973357016
+      }
+    },
+    {
+      "cardKey": "truesight crossbow",
+      "cardName": "Truesight Crossbow",
+      "deckShare": 0.41583333333333333,
+      "inDeck": {
+        "playerGames": 1497,
+        "matches": 1206,
+        "wins": 741,
+        "winRate": 0.49498997995991983
+      },
+      "played": {
+        "playerGames": 370,
+        "matches": 347,
+        "wins": 188,
+        "winRate": 0.5081081081081081
+      },
+      "openingHand": {
+        "playerGames": 324,
+        "matches": 307,
+        "wins": 171,
+        "winRate": 0.5277777777777778
+      },
+      "inHand": {
+        "playerGames": 856,
+        "matches": 756,
+        "wins": 428,
+        "winRate": 0.5
+      },
+      "notInHand": {
+        "playerGames": 641,
+        "matches": 576,
+        "wins": 313,
+        "winRate": 0.48829953198127923
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1127,
+        "matches": 965,
+        "wins": 553,
+        "winRate": 0.4906832298136646
+      }
+    },
+    {
+      "cardKey": "rolling boulder",
+      "cardName": "Rolling Boulder",
+      "deckShare": 0.4011111111111111,
+      "inDeck": {
+        "playerGames": 1444,
+        "matches": 1146,
+        "wins": 734,
+        "winRate": 0.5083102493074793
+      },
+      "played": {
+        "playerGames": 358,
+        "matches": 336,
+        "wins": 192,
+        "winRate": 0.5363128491620112
+      },
+      "openingHand": {
+        "playerGames": 305,
+        "matches": 291,
+        "wins": 160,
+        "winRate": 0.5245901639344263
+      },
+      "inHand": {
+        "playerGames": 807,
+        "matches": 712,
+        "wins": 418,
+        "winRate": 0.5179677819083024
+      },
+      "notInHand": {
+        "playerGames": 637,
+        "matches": 578,
+        "wins": 316,
+        "winRate": 0.49607535321821034
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1086,
+        "matches": 915,
+        "wins": 542,
+        "winRate": 0.4990791896869245
+      }
+    },
+    {
+      "cardKey": "miracle workers",
+      "cardName": "Miracle Workers",
+      "deckShare": 0.3852777777777778,
+      "inDeck": {
+        "playerGames": 1387,
+        "matches": 1146,
+        "wins": 690,
+        "winRate": 0.4974765681326604
+      },
+      "played": {
+        "playerGames": 333,
+        "matches": 319,
+        "wins": 181,
+        "winRate": 0.5435435435435435
+      },
+      "openingHand": {
+        "playerGames": 287,
+        "matches": 277,
+        "wins": 149,
+        "winRate": 0.519163763066202
+      },
+      "inHand": {
+        "playerGames": 776,
+        "matches": 714,
+        "wins": 400,
+        "winRate": 0.5154639175257731
+      },
+      "notInHand": {
+        "playerGames": 611,
+        "matches": 573,
+        "wins": 290,
+        "winRate": 0.4746317512274959
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1054,
+        "matches": 919,
+        "wins": 509,
+        "winRate": 0.4829222011385199
+      }
+    },
+    {
+      "cardKey": "rustic village",
+      "cardName": "Rustic Village",
+      "deckShare": 0.37666666666666665,
+      "inDeck": {
+        "playerGames": 1356,
+        "matches": 1104,
+        "wins": 672,
+        "winRate": 0.49557522123893805
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1356,
+        "matches": 1104,
+        "wins": 672,
+        "winRate": 0.49557522123893805
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1356,
+        "matches": 1104,
+        "wins": 672,
+        "winRate": 0.49557522123893805
+      }
+    },
+    {
+      "cardKey": "lone tower",
+      "cardName": "Lone Tower",
+      "deckShare": 0.37555555555555553,
+      "inDeck": {
+        "playerGames": 1352,
+        "matches": 1099,
+        "wins": 691,
+        "winRate": 0.511094674556213
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1352,
+        "matches": 1099,
+        "wins": 691,
+        "winRate": 0.511094674556213
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1352,
+        "matches": 1099,
+        "wins": 691,
+        "winRate": 0.511094674556213
+      }
+    },
+    {
+      "cardKey": "crawling congregation",
+      "cardName": "Crawling Congregation",
+      "deckShare": 0.37527777777777777,
+      "inDeck": {
+        "playerGames": 1351,
+        "matches": 1084,
+        "wins": 672,
+        "winRate": 0.49740932642487046
+      },
+      "played": {
+        "playerGames": 388,
+        "matches": 374,
+        "wins": 180,
+        "winRate": 0.4639175257731959
+      },
+      "openingHand": {
+        "playerGames": 289,
+        "matches": 278,
+        "wins": 144,
+        "winRate": 0.4982698961937716
+      },
+      "inHand": {
+        "playerGames": 763,
+        "matches": 679,
+        "wins": 374,
+        "winRate": 0.49017038007863695
+      },
+      "notInHand": {
+        "playerGames": 588,
+        "matches": 544,
+        "wins": 298,
+        "winRate": 0.5068027210884354
+      },
+      "inDeckUnplayed": {
+        "playerGames": 963,
+        "matches": 830,
+        "wins": 492,
+        "winRate": 0.5109034267912772
+      }
+    },
+    {
+      "cardKey": "evil presence",
+      "cardName": "Evil Presence",
+      "deckShare": 0.3725,
+      "inDeck": {
+        "playerGames": 1341,
+        "matches": 1076,
+        "wins": 695,
+        "winRate": 0.5182699478001491
+      },
+      "played": {
+        "playerGames": 383,
+        "matches": 353,
+        "wins": 205,
+        "winRate": 0.5352480417754569
+      },
+      "openingHand": {
+        "playerGames": 284,
+        "matches": 264,
+        "wins": 150,
+        "winRate": 0.528169014084507
+      },
+      "inHand": {
+        "playerGames": 760,
+        "matches": 663,
+        "wins": 392,
+        "winRate": 0.5157894736842106
+      },
+      "notInHand": {
+        "playerGames": 581,
+        "matches": 529,
+        "wins": 303,
+        "winRate": 0.5215146299483648
+      },
+      "inDeckUnplayed": {
+        "playerGames": 958,
+        "matches": 826,
+        "wins": 490,
+        "winRate": 0.511482254697286
+      }
+    },
+    {
+      "cardKey": "occult ritual",
+      "cardName": "Occult Ritual",
+      "deckShare": 0.37,
+      "inDeck": {
+        "playerGames": 1332,
+        "matches": 1103,
+        "wins": 684,
+        "winRate": 0.5135135135135135
+      },
+      "played": {
+        "playerGames": 308,
+        "matches": 295,
+        "wins": 164,
+        "winRate": 0.5324675324675324
+      },
+      "openingHand": {
+        "playerGames": 283,
+        "matches": 275,
+        "wins": 139,
+        "winRate": 0.4911660777385159
+      },
+      "inHand": {
+        "playerGames": 744,
+        "matches": 673,
+        "wins": 392,
+        "winRate": 0.5268817204301075
+      },
+      "notInHand": {
+        "playerGames": 588,
+        "matches": 548,
+        "wins": 292,
+        "winRate": 0.4965986394557823
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1024,
+        "matches": 883,
+        "wins": 520,
+        "winRate": 0.5078125
+      }
+    },
+    {
+      "cardKey": "vindictive nation",
+      "cardName": "Vindictive Nation",
+      "deckShare": 0.3636111111111111,
+      "inDeck": {
+        "playerGames": 1309,
+        "matches": 1047,
+        "wins": 648,
+        "winRate": 0.4950343773873186
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1309,
+        "matches": 1047,
+        "wins": 648,
+        "winRate": 0.4950343773873186
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1309,
+        "matches": 1047,
+        "wins": 648,
+        "winRate": 0.4950343773873186
+      }
+    },
+    {
+      "cardKey": "plague pits",
+      "cardName": "Plague Pits",
+      "deckShare": 0.3630555555555556,
+      "inDeck": {
+        "playerGames": 1307,
+        "matches": 1093,
+        "wins": 664,
+        "winRate": 0.5080336648814078
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1307,
+        "matches": 1093,
+        "wins": 664,
+        "winRate": 0.5080336648814078
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1307,
+        "matches": 1093,
+        "wins": 664,
+        "winRate": 0.5080336648814078
+      }
+    },
+    {
+      "cardKey": "watery grave",
+      "cardName": "Watery Grave",
+      "deckShare": 0.3625,
+      "inDeck": {
+        "playerGames": 1305,
+        "matches": 1059,
+        "wins": 636,
+        "winRate": 0.48735632183908045
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1305,
+        "matches": 1059,
+        "wins": 636,
+        "winRate": 0.48735632183908045
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1305,
+        "matches": 1059,
+        "wins": 636,
+        "winRate": 0.48735632183908045
+      }
+    },
+    {
+      "cardKey": "planar gate",
+      "cardName": "Planar Gate",
+      "deckShare": 0.35638888888888887,
+      "inDeck": {
+        "playerGames": 1283,
+        "matches": 1084,
+        "wins": 644,
+        "winRate": 0.5019485580670304
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1283,
+        "matches": 1084,
+        "wins": 644,
+        "winRate": 0.5019485580670304
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1283,
+        "matches": 1084,
+        "wins": 644,
+        "winRate": 0.5019485580670304
+      }
+    },
+    {
+      "cardKey": "watchtower",
+      "cardName": "Watchtower",
+      "deckShare": 0.35388888888888886,
+      "inDeck": {
+        "playerGames": 1274,
+        "matches": 1039,
+        "wins": 647,
+        "winRate": 0.5078492935635793
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1274,
+        "matches": 1039,
+        "wins": 647,
+        "winRate": 0.5078492935635793
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1274,
+        "matches": 1039,
+        "wins": 647,
+        "winRate": 0.5078492935635793
+      }
+    },
+    {
+      "cardKey": "road to perdition",
+      "cardName": "Road to Perdition",
+      "deckShare": 0.3536111111111111,
+      "inDeck": {
+        "playerGames": 1273,
+        "matches": 1057,
+        "wins": 657,
+        "winRate": 0.5161036920659858
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1273,
+        "matches": 1057,
+        "wins": 657,
+        "winRate": 0.5161036920659858
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1273,
+        "matches": 1057,
+        "wins": 657,
+        "winRate": 0.5161036920659858
+      }
+    },
+    {
+      "cardKey": "sphinx sarcophagus",
+      "cardName": "Sphinx Sarcophagus",
+      "deckShare": 0.3536111111111111,
+      "inDeck": {
+        "playerGames": 1273,
+        "matches": 1057,
+        "wins": 624,
+        "winRate": 0.49018067556952083
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1273,
+        "matches": 1057,
+        "wins": 624,
+        "winRate": 0.49018067556952083
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1273,
+        "matches": 1057,
+        "wins": 624,
+        "winRate": 0.49018067556952083
+      }
+    },
+    {
+      "cardKey": "bureau of occult control",
+      "cardName": "Bureau of Occult Control",
+      "deckShare": 0.34833333333333333,
+      "inDeck": {
+        "playerGames": 1254,
+        "matches": 1013,
+        "wins": 612,
+        "winRate": 0.4880382775119617
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1254,
+        "matches": 1013,
+        "wins": 612,
+        "winRate": 0.4880382775119617
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1254,
+        "matches": 1013,
+        "wins": 612,
+        "winRate": 0.4880382775119617
+      }
+    },
+    {
+      "cardKey": "boneyard",
+      "cardName": "Boneyard",
+      "deckShare": 0.3427777777777778,
+      "inDeck": {
+        "playerGames": 1234,
+        "matches": 1014,
+        "wins": 631,
+        "winRate": 0.5113452188006483
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1234,
+        "matches": 1014,
+        "wins": 631,
+        "winRate": 0.5113452188006483
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1234,
+        "matches": 1014,
+        "wins": 631,
+        "winRate": 0.5113452188006483
+      }
+    },
+    {
+      "cardKey": "forge",
+      "cardName": "Forge",
+      "deckShare": 0.3413888888888889,
+      "inDeck": {
+        "playerGames": 1229,
+        "matches": 985,
+        "wins": 610,
+        "winRate": 0.4963384865744508
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1229,
+        "matches": 985,
+        "wins": 610,
+        "winRate": 0.4963384865744508
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1229,
+        "matches": 985,
+        "wins": 610,
+        "winRate": 0.4963384865744508
+      }
+    },
+    {
+      "cardKey": "island leviathan",
+      "cardName": "Island Leviathan",
+      "deckShare": 0.3413888888888889,
+      "inDeck": {
+        "playerGames": 1229,
+        "matches": 1030,
+        "wins": 615,
+        "winRate": 0.500406834825061
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1229,
+        "matches": 1030,
+        "wins": 615,
+        "winRate": 0.500406834825061
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1229,
+        "matches": 1030,
+        "wins": 615,
+        "winRate": 0.500406834825061
+      }
+    },
+    {
+      "cardKey": "the empyrean",
+      "cardName": "The Empyrean",
+      "deckShare": 0.335,
+      "inDeck": {
+        "playerGames": 1206,
+        "matches": 1021,
+        "wins": 615,
+        "winRate": 0.5099502487562189
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1206,
+        "matches": 1021,
+        "wins": 615,
+        "winRate": 0.5099502487562189
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1206,
+        "matches": 1021,
+        "wins": 615,
+        "winRate": 0.5099502487562189
+      }
+    },
+    {
+      "cardKey": "rift valley",
+      "cardName": "Rift Valley",
+      "deckShare": 0.33055555555555555,
+      "inDeck": {
+        "playerGames": 1190,
+        "matches": 1006,
+        "wins": 571,
+        "winRate": 0.47983193277310926
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1190,
+        "matches": 1006,
+        "wins": 571,
+        "winRate": 0.47983193277310926
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1190,
+        "matches": 1006,
+        "wins": 571,
+        "winRate": 0.47983193277310926
+      }
+    },
+    {
+      "cardKey": "sirian templar",
+      "cardName": "Sirian Templar",
+      "deckShare": 0.32944444444444443,
+      "inDeck": {
+        "playerGames": 1186,
+        "matches": 1004,
+        "wins": 608,
+        "winRate": 0.5126475548060708
+      },
+      "played": {
+        "playerGames": 335,
+        "matches": 321,
+        "wins": 164,
+        "winRate": 0.48955223880597015
+      },
+      "openingHand": {
+        "playerGames": 253,
+        "matches": 246,
+        "wins": 124,
+        "winRate": 0.4901185770750988
+      },
+      "inHand": {
+        "playerGames": 657,
+        "matches": 610,
+        "wins": 325,
+        "winRate": 0.4946727549467275
+      },
+      "notInHand": {
+        "playerGames": 529,
+        "matches": 495,
+        "wins": 283,
+        "winRate": 0.5349716446124764
+      },
+      "inDeckUnplayed": {
+        "playerGames": 851,
+        "matches": 759,
+        "wins": 444,
+        "winRate": 0.5217391304347826
+      }
+    },
+    {
+      "cardKey": "edge of the world",
+      "cardName": "Edge of the World",
+      "deckShare": 0.3277777777777778,
+      "inDeck": {
+        "playerGames": 1180,
+        "matches": 966,
+        "wins": 602,
+        "winRate": 0.5101694915254237
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1180,
+        "matches": 966,
+        "wins": 602,
+        "winRate": 0.5101694915254237
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1180,
+        "matches": 966,
+        "wins": 602,
+        "winRate": 0.5101694915254237
+      }
+    },
+    {
+      "cardKey": "bower of bliss",
+      "cardName": "Bower of Bliss",
+      "deckShare": 0.3275,
+      "inDeck": {
+        "playerGames": 1179,
+        "matches": 992,
+        "wins": 599,
+        "winRate": 0.5080576759966073
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1179,
+        "matches": 992,
+        "wins": 599,
+        "winRate": 0.5080576759966073
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1179,
+        "matches": 992,
+        "wins": 599,
+        "winRate": 0.5080576759966073
+      }
+    },
+    {
+      "cardKey": "wizard s den",
+      "cardName": "Wizard's Den",
+      "deckShare": 0.32555555555555554,
+      "inDeck": {
+        "playerGames": 1172,
+        "matches": 991,
+        "wins": 606,
+        "winRate": 0.5170648464163823
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1172,
+        "matches": 991,
+        "wins": 606,
+        "winRate": 0.5170648464163823
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1172,
+        "matches": 991,
+        "wins": 606,
+        "winRate": 0.5170648464163823
+      }
+    },
+    {
+      "cardKey": "primordial spring",
+      "cardName": "Primordial Spring",
+      "deckShare": 0.3252777777777778,
+      "inDeck": {
+        "playerGames": 1171,
+        "matches": 995,
+        "wins": 583,
+        "winRate": 0.49786507258753204
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1171,
+        "matches": 995,
+        "wins": 583,
+        "winRate": 0.49786507258753204
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1171,
+        "matches": 995,
+        "wins": 583,
+        "winRate": 0.49786507258753204
+      }
+    },
+    {
+      "cardKey": "arid desert",
+      "cardName": "Arid Desert",
+      "deckShare": 0.32472222222222225,
+      "inDeck": {
+        "playerGames": 1169,
+        "matches": 999,
+        "wins": 602,
+        "winRate": 0.5149700598802395
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1169,
+        "matches": 999,
+        "wins": 602,
+        "winRate": 0.5149700598802395
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1169,
+        "matches": 999,
+        "wins": 602,
+        "winRate": 0.5149700598802395
+      }
+    },
+    {
+      "cardKey": "defiler spire",
+      "cardName": "Defiler Spire",
+      "deckShare": 0.3202777777777778,
+      "inDeck": {
+        "playerGames": 1153,
+        "matches": 993,
+        "wins": 563,
+        "winRate": 0.48829141370338247
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1153,
+        "matches": 993,
+        "wins": 563,
+        "winRate": 0.48829141370338247
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1153,
+        "matches": 993,
+        "wins": 563,
+        "winRate": 0.48829141370338247
+      }
+    },
+    {
+      "cardKey": "wuthering heights",
+      "cardName": "Wuthering Heights",
+      "deckShare": 0.32,
+      "inDeck": {
+        "playerGames": 1152,
+        "matches": 954,
+        "wins": 602,
+        "winRate": 0.5225694444444444
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1152,
+        "matches": 954,
+        "wins": 602,
+        "winRate": 0.5225694444444444
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1152,
+        "matches": 954,
+        "wins": 602,
+        "winRate": 0.5225694444444444
+      }
+    },
+    {
+      "cardKey": "astral alcazar",
+      "cardName": "Astral Alcazar",
+      "deckShare": 0.31972222222222224,
+      "inDeck": {
+        "playerGames": 1151,
+        "matches": 954,
+        "wins": 586,
+        "winRate": 0.5091225021720244
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1151,
+        "matches": 954,
+        "wins": 586,
+        "winRate": 0.5091225021720244
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1151,
+        "matches": 954,
+        "wins": 586,
+        "winRate": 0.5091225021720244
+      }
+    },
+    {
+      "cardKey": "hellmouth",
+      "cardName": "Hellmouth",
+      "deckShare": 0.3186111111111111,
+      "inDeck": {
+        "playerGames": 1147,
+        "matches": 957,
+        "wins": 573,
+        "winRate": 0.4995640802092415
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1147,
+        "matches": 957,
+        "wins": 573,
+        "winRate": 0.4995640802092415
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1147,
+        "matches": 957,
+        "wins": 573,
+        "winRate": 0.4995640802092415
+      }
+    },
+    {
+      "cardKey": "altar of malachai",
+      "cardName": "Altar of Malachai",
+      "deckShare": 0.31833333333333336,
+      "inDeck": {
+        "playerGames": 1146,
+        "matches": 968,
+        "wins": 573,
+        "winRate": 0.5
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1146,
+        "matches": 968,
+        "wins": 573,
+        "winRate": 0.5
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1146,
+        "matches": 968,
+        "wins": 573,
+        "winRate": 0.5
+      }
+    },
+    {
+      "cardKey": "free city",
+      "cardName": "Free City",
+      "deckShare": 0.31777777777777777,
+      "inDeck": {
+        "playerGames": 1144,
+        "matches": 970,
+        "wins": 591,
+        "winRate": 0.5166083916083916
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1144,
+        "matches": 970,
+        "wins": 591,
+        "winRate": 0.5166083916083916
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1144,
+        "matches": 970,
+        "wins": 591,
+        "winRate": 0.5166083916083916
+      }
+    },
+    {
+      "cardKey": "shallow grave",
+      "cardName": "Shallow Grave",
+      "deckShare": 0.3169444444444444,
+      "inDeck": {
+        "playerGames": 1141,
+        "matches": 973,
+        "wins": 576,
+        "winRate": 0.5048203330411919
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1141,
+        "matches": 973,
+        "wins": 576,
+        "winRate": 0.5048203330411919
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1141,
+        "matches": 973,
+        "wins": 576,
+        "winRate": 0.5048203330411919
+      }
+    },
+    {
+      "cardKey": "mirror realm",
+      "cardName": "Mirror Realm",
+      "deckShare": 0.30944444444444447,
+      "inDeck": {
+        "playerGames": 1114,
+        "matches": 940,
+        "wins": 542,
+        "winRate": 0.4865350089766607
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1114,
+        "matches": 940,
+        "wins": 542,
+        "winRate": 0.4865350089766607
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1114,
+        "matches": 940,
+        "wins": 542,
+        "winRate": 0.4865350089766607
+      }
+    },
+    {
+      "cardKey": "gnome hollows",
+      "cardName": "Gnome Hollows",
+      "deckShare": 0.3075,
+      "inDeck": {
+        "playerGames": 1107,
+        "matches": 929,
+        "wins": 558,
+        "winRate": 0.5040650406504065
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1107,
+        "matches": 929,
+        "wins": 558,
+        "winRate": 0.5040650406504065
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1107,
+        "matches": 929,
+        "wins": 558,
+        "winRate": 0.5040650406504065
+      }
+    },
+    {
+      "cardKey": "static servant",
+      "cardName": "Static Servant",
+      "deckShare": 0.30416666666666664,
+      "inDeck": {
+        "playerGames": 1095,
+        "matches": 921,
+        "wins": 542,
+        "winRate": 0.4949771689497717
+      },
+      "played": {
+        "playerGames": 287,
+        "matches": 279,
+        "wins": 142,
+        "winRate": 0.49477351916376305
+      },
+      "openingHand": {
+        "playerGames": 217,
+        "matches": 213,
+        "wins": 112,
+        "winRate": 0.5161290322580645
+      },
+      "inHand": {
+        "playerGames": 589,
+        "matches": 543,
+        "wins": 297,
+        "winRate": 0.5042444821731749
+      },
+      "notInHand": {
+        "playerGames": 506,
+        "matches": 476,
+        "wins": 245,
+        "winRate": 0.4841897233201581
+      },
+      "inDeckUnplayed": {
+        "playerGames": 808,
+        "matches": 719,
+        "wins": 400,
+        "winRate": 0.49504950495049505
+      }
+    },
+    {
+      "cardKey": "vesuvius",
+      "cardName": "Vesuvius",
+      "deckShare": 0.3038888888888889,
+      "inDeck": {
+        "playerGames": 1094,
+        "matches": 905,
+        "wins": 554,
+        "winRate": 0.506398537477148
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1094,
+        "matches": 905,
+        "wins": 554,
+        "winRate": 0.506398537477148
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1094,
+        "matches": 905,
+        "wins": 554,
+        "winRate": 0.506398537477148
+      }
+    },
+    {
+      "cardKey": "active volcano",
+      "cardName": "Active Volcano",
+      "deckShare": 0.3030555555555556,
+      "inDeck": {
+        "playerGames": 1091,
+        "matches": 918,
+        "wins": 533,
+        "winRate": 0.48854262144821264
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1091,
+        "matches": 918,
+        "wins": 533,
+        "winRate": 0.48854262144821264
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1091,
+        "matches": 918,
+        "wins": 533,
+        "winRate": 0.48854262144821264
+      }
+    },
+    {
+      "cardKey": "haystack",
+      "cardName": "Haystack",
+      "deckShare": 0.295,
+      "inDeck": {
+        "playerGames": 1062,
+        "matches": 948,
+        "wins": 522,
+        "winRate": 0.4915254237288136
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1062,
+        "matches": 948,
+        "wins": 522,
+        "winRate": 0.4915254237288136
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1062,
+        "matches": 948,
+        "wins": 522,
+        "winRate": 0.4915254237288136
+      }
+    },
+    {
+      "cardKey": "myrrh s trophy room",
+      "cardName": "Myrrh's Trophy Room",
+      "deckShare": 0.2911111111111111,
+      "inDeck": {
+        "playerGames": 1048,
+        "matches": 900,
+        "wins": 525,
+        "winRate": 0.5009541984732825
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1048,
+        "matches": 900,
+        "wins": 525,
+        "winRate": 0.5009541984732825
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1048,
+        "matches": 900,
+        "wins": 525,
+        "winRate": 0.5009541984732825
+      }
+    },
+    {
+      "cardKey": "vaults of zul",
+      "cardName": "Vaults of Zul",
+      "deckShare": 0.2902777777777778,
+      "inDeck": {
+        "playerGames": 1045,
+        "matches": 906,
+        "wins": 499,
+        "winRate": 0.47751196172248805
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1045,
+        "matches": 906,
+        "wins": 499,
+        "winRate": 0.47751196172248805
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1045,
+        "matches": 906,
+        "wins": 499,
+        "winRate": 0.47751196172248805
+      }
+    },
+    {
+      "cardKey": "mobbed court",
+      "cardName": "Mobbed Court",
+      "deckShare": 0.28805555555555556,
+      "inDeck": {
+        "playerGames": 1037,
+        "matches": 890,
+        "wins": 530,
+        "winRate": 0.5110896817743491
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1037,
+        "matches": 890,
+        "wins": 530,
+        "winRate": 0.5110896817743491
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1037,
+        "matches": 890,
+        "wins": 530,
+        "winRate": 0.5110896817743491
+      }
+    },
+    {
+      "cardKey": "the colour out of space",
+      "cardName": "The Colour Out of Space",
+      "deckShare": 0.28583333333333333,
+      "inDeck": {
+        "playerGames": 1029,
+        "matches": 898,
+        "wins": 528,
+        "winRate": 0.5131195335276968
+      },
+      "played": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "openingHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "inHand": {
+        "playerGames": null,
+        "matches": null,
+        "wins": null,
+        "winRate": null
+      },
+      "notInHand": {
+        "playerGames": 1029,
+        "matches": 898,
+        "wins": 528,
+        "winRate": 0.5131195335276968
+      },
+      "inDeckUnplayed": {
+        "playerGames": 1029,
+        "matches": 898,
+        "wins": 528,
+        "winRate": 0.5131195335276968
+      }
+    },
+    {
+      "cardKey": "vengeful heir",
+      "cardName": "Vengeful Heir",
+      "deckShare": 0.2788888888888889,
+      "inDeck": {
+        "playerGames": 1004,
+        "matches": 859,
+        "wins": 510,
+        "winRate": 0.5079681274900398
+      },
+      "played": {
+        "playerGames": 226,
+        "matches": 208,
+        "wins": 109,
+        "winRate": 0.4823008849557522
+      },
+      "openingHand": {
+        "playerGames": 203,
+        "matches": 192,
+        "wins": 92,
+        "winRate": 0.45320197044334976
+      },
+      "inHand": {
+        "playerGames": 549,
+        "matches": 492,
+        "wins": 261,
+        "winRate": 0.47540983606557374
+      },
+      "notInHand": {
+        "playerGames": 455,
+        "matches": 408,
+        "wins": 249,
+        "winRate": 0.5472527472527473
+      },
+      "inDeckUnplayed": {
+        "playerGames": 778,
+        "matches": 679,
+        "wins": 401,
+        "winRate": 0.5154241645244216
+      }
+    },
+    {
+      "cardKey": "flayer",
+      "cardName": "Flayer",
+      "deckShare": 0.27194444444444443,
+      "inDeck": {
+        "playerGames": 979,
+        "matches": 864,
+        "wins": 479,
+        "winRate": 0.48927477017364657
+      },
+      "played": {
+        "playerGames": 258,
+        "matches": 250,
+        "wins": 125,
+        "winRate": 0.4844961240310077
+      },
+      "openingHand": {
+        "playerGames": 200,
+        "matches": 196,
+        "wins": 91,
+        "winRate": 0.455
+      },
+      "inHand": {
+        "playerGames": 533,
+        "matches": 507,
+        "wins": 263,
+        "winRate": 0.49343339587242024
+      },
+      "notInHand": {
+        "playerGames": 446,
+        "matches": 427,
+        "wins": 216,
+        "winRate": 0.484304932735426
+      },
+      "inDeckUnplayed": {
+        "playerGames": 721,
+        "matches": 655,
+        "wins": 354,
+        "winRate": 0.4909847434119279
+      }
+    },
+    {
+      "cardKey": "search party",
+      "cardName": "Search Party",
+      "deckShare": 0.2677777777777778,
+      "inDeck": {
+        "playerGames": 964,
+        "matches": 828,
+        "wins": 486,
+        "winRate": 0.504149377593361
+      },
+      "played": {
+        "playerGames": 203,
+        "matches": 195,
+        "wins": 96,
+        "winRate": 0.4729064039408867
+      },
+      "openingHand": {
+        "playerGames": 191,
+        "matches": 184,
+        "wins": 96,
+        "winRate": 0.5026178010471204
+      },
+      "inHand": {
+        "playerGames": 516,
+        "matches": 477,
+        "wins": 251,
+        "winRate": 0.48643410852713176
+      },
+      "notInHand": {
+        "playerGames": 448,
+        "matches": 418,
+        "wins": 235,
+        "winRate": 0.5245535714285714
+      },
+      "inDeckUnplayed": {
+        "playerGames": 761,
+        "matches": 674,
+        "wins": 390,
+        "winRate": 0.5124835742444153
+      }
+    },
+    {
+      "cardKey": "bosk troll",
+      "cardName": "Bosk Troll",
+      "deckShare": 0.26555555555555554,
+      "inDeck": {
+        "playerGames": 956,
+        "matches": 797,
+        "wins": 471,
+        "winRate": 0.49267782426778245
+      },
+      "played": {
+        "playerGames": 201,
+        "matches": 190,
+        "wins": 100,
+        "winRate": 0.4975124378109453
+      },
+      "openingHand": {
+        "playerGames": 183,
+        "matches": 173,
+        "wins": 82,
+        "winRate": 0.44808743169398907
+      },
+      "inHand": {
+        "playerGames": 505,
+        "matches": 452,
+        "wins": 244,
+        "winRate": 0.48316831683168315
+      },
+      "notInHand": {
+        "playerGames": 451,
+        "matches": 416,
+        "wins": 227,
+        "winRate": 0.5033259423503326
+      },
+      "inDeckUnplayed": {
+        "playerGames": 755,
+        "matches": 658,
+        "wins": 371,
+        "winRate": 0.4913907284768212
+      }
+    },
+    {
+      "cardKey": "divine lance",
+      "cardName": "Divine Lance",
+      "deckShare": 0.26305555555555554,
+      "inDeck": {
+        "playerGames": 947,
+        "matches": 828,
+        "wins": 454,
+        "winRate": 0.47940865892291445
+      },
+      "played": {
+        "playerGames": 225,
+        "matches": 220,
+        "wins": 102,
+        "winRate": 0.4533333333333333
+      },
+      "openingHand": {
+        "playerGames": 186,
+        "matches": 184,
+        "wins": 83,
+        "winRate": 0.44623655913978494
+      },
+      "inHand": {
+        "playerGames": 505,
+        "matches": 479,
+        "wins": 233,
+        "winRate": 0.4613861386138614
+      },
+      "notInHand": {
+        "playerGames": 442,
+        "matches": 421,
+        "wins": 221,
+        "winRate": 0.5
+      },
+      "inDeckUnplayed": {
+        "playerGames": 722,
+        "matches": 654,
+        "wins": 352,
+        "winRate": 0.48753462603878117
+      }
+    },
+    {
+      "cardKey": "puppet master",
+      "cardName": "Puppet Master",
+      "deckShare": 0.2627777777777778,
+      "inDeck": {
+        "playerGames": 946,
+        "matches": 816,
+        "wins": 467,
+        "winRate": 0.49365750528541225
+      },
+      "played": {
+        "playerGames": 229,
+        "matches": 220,
+        "wins": 121,
+        "winRate": 0.5283842794759825
+      },
+      "openingHand": {
+        "playerGames": 187,
+        "matches": 183,
+        "wins": 100,
+        "winRate": 0.5347593582887701
+      },
+      "inHand": {
+        "playerGames": 511,
+        "matches": 476,
+        "wins": 250,
+        "winRate": 0.4892367906066536
+      },
+      "notInHand": {
+        "playerGames": 435,
+        "matches": 402,
+        "wins": 217,
+        "winRate": 0.49885057471264366
+      },
+      "inDeckUnplayed": {
+        "playerGames": 717,
+        "matches": 631,
+        "wins": 346,
+        "winRate": 0.4825662482566248
+      }
+    },
+    {
+      "cardKey": "skeleton",
+      "cardName": "Skeleton",
+      "deckShare": 0.26166666666666666,
+      "inDeck": {
+        "playerGames": 942,
+        "matches": 830,
+        "wins": 452,
+        "winRate": 0.47983014861995754
+      },
+      "played": {
+        "playerGames": 203,
+        "matches": 196,
+        "wins": 99,
+        "winRate": 0.4876847290640394
+      },
+      "openingHand": {
+        "playerGames": 180,
+        "matches": 176,
+        "wins": 80,
+        "winRate": 0.4444444444444444
+      },
+      "inHand": {
+        "playerGames": 509,
+        "matches": 469,
+        "wins": 239,
+        "winRate": 0.46954813359528486
+      },
+      "notInHand": {
+        "playerGames": 433,
+        "matches": 404,
+        "wins": 213,
+        "winRate": 0.49191685912240185
+      },
+      "inDeckUnplayed": {
+        "playerGames": 739,
+        "matches": 670,
+        "wins": 353,
+        "winRate": 0.4776725304465494
+      }
+    },
+    {
+      "cardKey": "old salt anchorman",
+      "cardName": "Old Salt Anchorman",
+      "deckShare": 0.2611111111111111,
+      "inDeck": {
+        "playerGames": 940,
+        "matches": 824,
+        "wins": 446,
+        "winRate": 0.474468085106383
+      },
+      "played": {
+        "playerGames": 241,
+        "matches": 237,
+        "wins": 119,
+        "winRate": 0.49377593360995853
+      },
+      "openingHand": {
+        "playerGames": 175,
+        "matches": 170,
+        "wins": 91,
+        "winRate": 0.52
+      },
+      "inHand": {
+        "playerGames": 495,
+        "matches": 465,
+        "wins": 234,
+        "winRate": 0.4727272727272727
+      },
+      "notInHand": {
+        "playerGames": 445,
+        "matches": 423,
+        "wins": 212,
+        "winRate": 0.4764044943820225
+      },
+      "inDeckUnplayed": {
+        "playerGames": 699,
+        "matches": 638,
+        "wins": 327,
+        "winRate": 0.4678111587982833
+      }
+    },
+    {
+      "cardKey": "tactical move",
+      "cardName": "Tactical Move",
+      "deckShare": 0.25972222222222224,
+      "inDeck": {
+        "playerGames": 935,
+        "matches": 815,
+        "wins": 477,
+        "winRate": 0.5101604278074866
+      },
+      "played": {
+        "playerGames": 197,
+        "matches": 186,
+        "wins": 92,
+        "winRate": 0.467005076142132
+      },
+      "openingHand": {
+        "playerGames": 194,
+        "matches": 187,
+        "wins": 93,
+        "winRate": 0.4793814432989691
+      },
+      "inHand": {
+        "playerGames": 515,
+        "matches": 477,
+        "wins": 262,
+        "winRate": 0.5087378640776699
+      },
+      "notInHand": {
+        "playerGames": 420,
+        "matches": 392,
+        "wins": 215,
+        "winRate": 0.5119047619047619
+      },
+      "inDeckUnplayed": {
+        "playerGames": 738,
+        "matches": 665,
+        "wins": 385,
+        "winRate": 0.521680216802168
+      }
+    },
+    {
+      "cardKey": "war horse",
+      "cardName": "War Horse",
+      "deckShare": 0.2588888888888889,
+      "inDeck": {
+        "playerGames": 932,
+        "matches": 845,
+        "wins": 456,
+        "winRate": 0.4892703862660944
+      },
+      "played": {
+        "playerGames": 238,
+        "matches": 232,
+        "wins": 120,
+        "winRate": 0.5042016806722689
+      },
+      "openingHand": {
+        "playerGames": 181,
+        "matches": 177,
+        "wins": 93,
+        "winRate": 0.5138121546961326
+      },
+      "inHand": {
+        "playerGames": 486,
+        "matches": 464,
+        "wins": 233,
+        "winRate": 0.4794238683127572
+      },
+      "notInHand": {
+        "playerGames": 446,
+        "matches": 425,
+        "wins": 223,
+        "winRate": 0.5
+      },
+      "inDeckUnplayed": {
+        "playerGames": 694,
+        "matches": 645,
+        "wins": 336,
+        "winRate": 0.484149855907781
+      }
+    },
+    {
+      "cardKey": "bury",
+      "cardName": "Bury",
+      "deckShare": 0.255,
+      "inDeck": {
+        "playerGames": 918,
+        "matches": 799,
+        "wins": 426,
+        "winRate": 0.46405228758169936
+      },
+      "played": {
+        "playerGames": 216,
+        "matches": 208,
+        "wins": 99,
+        "winRate": 0.4583333333333333
+      },
+      "openingHand": {
+        "playerGames": 184,
+        "matches": 177,
+        "wins": 85,
+        "winRate": 0.46195652173913043
+      },
+      "inHand": {
+        "playerGames": 498,
+        "matches": 459,
+        "wins": 240,
+        "winRate": 0.4819277108433735
+      },
+      "notInHand": {
+        "playerGames": 420,
+        "matches": 385,
+        "wins": 186,
+        "winRate": 0.44285714285714284
+      },
+      "inDeckUnplayed": {
+        "playerGames": 702,
+        "matches": 631,
+        "wins": 327,
+        "winRate": 0.4658119658119658
+      }
+    },
+    {
+      "cardKey": "peacemaker arbalest",
+      "cardName": "Peacemaker Arbalest",
+      "deckShare": 0.25472222222222224,
+      "inDeck": {
+        "playerGames": 917,
+        "matches": 799,
+        "wins": 459,
+        "winRate": 0.5005452562704471
+      },
+      "played": {
+        "playerGames": 233,
+        "matches": 229,
+        "wins": 119,
+        "winRate": 0.5107296137339056
+      },
+      "openingHand": {
+        "playerGames": 189,
+        "matches": 185,
+        "wins": 92,
+        "winRate": 0.48677248677248675
+      },
+      "inHand": {
+        "playerGames": 504,
+        "matches": 469,
+        "wins": 247,
+        "winRate": 0.49007936507936506
+      },
+      "notInHand": {
+        "playerGames": 413,
+        "matches": 386,
+        "wins": 212,
+        "winRate": 0.513317191283293
+      },
+      "inDeckUnplayed": {
+        "playerGames": 684,
+        "matches": 620,
+        "wins": 340,
+        "winRate": 0.49707602339181284
+      }
+    },
+    {
+      "cardKey": "nightmare",
+      "cardName": "Nightmare",
+      "deckShare": 0.25416666666666665,
+      "inDeck": {
+        "playerGames": 915,
+        "matches": 774,
+        "wins": 458,
+        "winRate": 0.5005464480874317
+      },
+      "played": {
+        "playerGames": 189,
+        "matches": 182,
+        "wins": 92,
+        "winRate": 0.48677248677248675
+      },
+      "openingHand": {
+        "playerGames": 181,
+        "matches": 170,
+        "wins": 91,
+        "winRate": 0.5027624309392266
+      },
+      "inHand": {
+        "playerGames": 482,
+        "matches": 438,
+        "wins": 239,
+        "winRate": 0.495850622406639
+      },
+      "notInHand": {
+        "playerGames": 433,
+        "matches": 398,
+        "wins": 219,
+        "winRate": 0.5057736720554272
+      },
+      "inDeckUnplayed": {
+        "playerGames": 726,
+        "matches": 638,
+        "wins": 366,
+        "winRate": 0.5041322314049587
+      }
+    },
+    {
+      "cardKey": "clamor of harpies",
+      "cardName": "Clamor of Harpies",
+      "deckShare": 0.2538888888888889,
+      "inDeck": {
+        "playerGames": 914,
+        "matches": 793,
+        "wins": 419,
+        "winRate": 0.45842450765864334
+      },
+      "played": {
+        "playerGames": 212,
+        "matches": 205,
+        "wins": 85,
+        "winRate": 0.4009433962264151
+      },
+      "openingHand": {
+        "playerGames": 186,
+        "matches": 180,
+        "wins": 85,
+        "winRate": 0.45698924731182794
+      },
+      "inHand": {
+        "playerGames": 489,
+        "matches": 451,
+        "wins": 217,
+        "winRate": 0.4437627811860941
+      },
+      "notInHand": {
+        "playerGames": 425,
+        "matches": 404,
+        "wins": 202,
+        "winRate": 0.4752941176470588
+      },
+      "inDeckUnplayed": {
+        "playerGames": 702,
+        "matches": 628,
+        "wins": 334,
+        "winRate": 0.4757834757834758
+      }
+    },
+    {
+      "cardKey": "maiden mother crone",
+      "cardName": "Maiden, Mother, Crone",
+      "deckShare": 0.2538888888888889,
+      "inDeck": {
+        "playerGames": 914,
+        "matches": 778,
+        "wins": 465,
+        "winRate": 0.5087527352297593
+      },
+      "played": {
+        "playerGames": 169,
+        "matches": 166,
+        "wins": 83,
+        "winRate": 0.4911242603550296
+      },
+      "openingHand": {
+        "playerGames": 193,
+        "matches": 187,
+        "wins": 89,
+        "winRate": 0.46113989637305697
+      },
+      "inHand": {
+        "playerGames": 499,
+        "matches": 459,
+        "wins": 258,
+        "winRate": 0.5170340681362725
+      },
+      "notInHand": {
+        "playerGames": 415,
+        "matches": 377,
+        "wins": 207,
+        "winRate": 0.4987951807228916
+      },
+      "inDeckUnplayed": {
+        "playerGames": 745,
+        "matches": 652,
+        "wins": 382,
+        "winRate": 0.512751677852349
+      }
+    },
+    {
+      "cardKey": "fenvale muse",
+      "cardName": "Fenvale Muse",
+      "deckShare": 0.2536111111111111,
+      "inDeck": {
+        "playerGames": 913,
+        "matches": 800,
+        "wins": 454,
+        "winRate": 0.49726177437020813
+      },
+      "played": {
+        "playerGames": 176,
+        "matches": 173,
+        "wins": 89,
+        "winRate": 0.5056818181818182
+      },
+      "openingHand": {
+        "playerGames": 177,
+        "matches": 170,
+        "wins": 88,
+        "winRate": 0.4971751412429379
+      },
+      "inHand": {
+        "playerGames": 485,
+        "matches": 451,
+        "wins": 239,
+        "winRate": 0.4927835051546392
+      },
+      "notInHand": {
+        "playerGames": 428,
+        "matches": 404,
+        "wins": 215,
+        "winRate": 0.5023364485981309
+      },
+      "inDeckUnplayed": {
+        "playerGames": 737,
+        "matches": 664,
+        "wins": 365,
+        "winRate": 0.49525101763907736
+      }
+    },
+    {
+      "cardKey": "dreadwing",
+      "cardName": "Dreadwing",
+      "deckShare": 0.25083333333333335,
+      "inDeck": {
+        "playerGames": 903,
+        "matches": 757,
+        "wins": 447,
+        "winRate": 0.4950166112956811
+      },
+      "played": {
+        "playerGames": 201,
+        "matches": 193,
+        "wins": 105,
+        "winRate": 0.5223880597014925
+      },
+      "openingHand": {
+        "playerGames": 170,
+        "matches": 166,
+        "wins": 87,
+        "winRate": 0.5117647058823529
+      },
+      "inHand": {
+        "playerGames": 467,
+        "matches": 421,
+        "wins": 228,
+        "winRate": 0.48822269807280516
+      },
+      "notInHand": {
+        "playerGames": 436,
+        "matches": 404,
+        "wins": 219,
+        "winRate": 0.5022935779816514
+      },
+      "inDeckUnplayed": {
+        "playerGames": 702,
+        "matches": 611,
+        "wins": 342,
+        "winRate": 0.48717948717948717
+      }
+    },
+    {
+      "cardKey": "azuridge caravan",
+      "cardName": "Azuridge Caravan",
+      "deckShare": 0.25055555555555553,
+      "inDeck": {
+        "playerGames": 902,
+        "matches": 811,
+        "wins": 459,
+        "winRate": 0.508869179600887
+      },
+      "played": {
+        "playerGames": 172,
+        "matches": 170,
+        "wins": 97,
+        "winRate": 0.563953488372093
+      },
+      "openingHand": {
+        "playerGames": 160,
+        "matches": 158,
+        "wins": 80,
+        "winRate": 0.5
+      },
+      "inHand": {
+        "playerGames": 458,
+        "matches": 435,
+        "wins": 238,
+        "winRate": 0.519650655021834
+      },
+      "notInHand": {
+        "playerGames": 444,
+        "matches": 423,
+        "wins": 221,
+        "winRate": 0.49774774774774777
+      },
+      "inDeckUnplayed": {
+        "playerGames": 730,
+        "matches": 670,
+        "wins": 362,
+        "winRate": 0.4958904109589041
+      }
+    },
+    {
+      "cardKey": "ribble boggart",
+      "cardName": "Ribble Boggart",
+      "deckShare": 0.24861111111111112,
+      "inDeck": {
+        "playerGames": 895,
+        "matches": 761,
+        "wins": 458,
+        "winRate": 0.511731843575419
+      },
+      "played": {
+        "playerGames": 214,
+        "matches": 208,
+        "wins": 106,
+        "winRate": 0.4953271028037383
+      },
+      "openingHand": {
+        "playerGames": 179,
+        "matches": 173,
+        "wins": 89,
+        "winRate": 0.4972067039106145
+      },
+      "inHand": {
+        "playerGames": 482,
+        "matches": 439,
+        "wins": 246,
+        "winRate": 0.5103734439834025
+      },
+      "notInHand": {
+        "playerGames": 413,
+        "matches": 387,
+        "wins": 212,
+        "winRate": 0.513317191283293
+      },
+      "inDeckUnplayed": {
+        "playerGames": 681,
+        "matches": 602,
+        "wins": 352,
+        "winRate": 0.5168869309838473
+      }
+    },
+    {
+      "cardKey": "earthquake",
+      "cardName": "Earthquake",
+      "deckShare": 0.24833333333333332,
+      "inDeck": {
+        "playerGames": 894,
+        "matches": 772,
+        "wins": 457,
+        "winRate": 0.5111856823266219
+      },
+      "played": {
+        "playerGames": 208,
+        "matches": 204,
+        "wins": 104,
+        "winRate": 0.5
+      },
+      "openingHand": {
+        "playerGames": 180,
+        "matches": 173,
+        "wins": 99,
+        "winRate": 0.55
+      },
+      "inHand": {
+        "playerGames": 477,
+        "matches": 439,
+        "wins": 246,
+        "winRate": 0.5157232704402516
+      },
+      "notInHand": {
+        "playerGames": 417,
+        "matches": 394,
+        "wins": 211,
+        "winRate": 0.5059952038369304
+      },
+      "inDeckUnplayed": {
+        "playerGames": 686,
+        "matches": 624,
+        "wins": 353,
+        "winRate": 0.5145772594752187
+      }
+    },
+    {
+      "cardKey": "sunken treasure",
+      "cardName": "Sunken Treasure",
+      "deckShare": 0.24833333333333332,
+      "inDeck": {
+        "playerGames": 894,
+        "matches": 777,
+        "wins": 452,
+        "winRate": 0.5055928411633109
+      },
+      "played": {
+        "playerGames": 183,
+        "matches": 177,
+        "wins": 90,
+        "winRate": 0.4918032786885246
+      },
+      "openingHand": {
+        "playerGames": 172,
+        "matches": 169,
+        "wins": 83,
+        "winRate": 0.48255813953488375
+      },
+      "inHand": {
+        "playerGames": 467,
+        "matches": 439,
+        "wins": 238,
+        "winRate": 0.5096359743040685
+      },
+      "notInHand": {
+        "playerGames": 427,
+        "matches": 405,
+        "wins": 214,
+        "winRate": 0.5011709601873536
+      },
+      "inDeckUnplayed": {
+        "playerGames": 711,
+        "matches": 632,
+        "wins": 362,
+        "winRate": 0.509142053445851
+      }
+    },
+    {
+      "cardKey": "merlin s staff",
+      "cardName": "Merlin's Staff",
+      "deckShare": 0.24416666666666667,
+      "inDeck": {
+        "playerGames": 879,
+        "matches": 794,
+        "wins": 432,
+        "winRate": 0.49146757679180886
+      },
+      "played": {
+        "playerGames": 207,
+        "matches": 202,
+        "wins": 95,
+        "winRate": 0.45893719806763283
+      },
+      "openingHand": {
+        "playerGames": 170,
+        "matches": 167,
+        "wins": 83,
+        "winRate": 0.48823529411764705
+      },
+      "inHand": {
+        "playerGames": 475,
+        "matches": 453,
+        "wins": 230,
+        "winRate": 0.4842105263157895
+      },
+      "notInHand": {
+        "playerGames": 404,
+        "matches": 385,
+        "wins": 202,
+        "winRate": 0.5
+      },
+      "inDeckUnplayed": {
+        "playerGames": 672,
+        "matches": 618,
+        "wins": 337,
+        "winRate": 0.5014880952380952
+      }
+    },
+    {
+      "cardKey": "star seeds of uhr",
+      "cardName": "Star-seeds of Uhr",
+      "deckShare": 0.24388888888888888,
+      "inDeck": {
+        "playerGames": 878,
+        "matches": 759,
+        "wins": 439,
+        "winRate": 0.5
+      },
+      "played": {
+        "playerGames": 202,
+        "matches": 195,
+        "wins": 105,
+        "winRate": 0.5198019801980198
+      },
+      "openingHand": {
+        "playerGames": 174,
+        "matches": 167,
+        "wins": 89,
+        "winRate": 0.5114942528735632
+      },
+      "inHand": {
+        "playerGames": 483,
+        "matches": 444,
+        "wins": 243,
+        "winRate": 0.5031055900621118
+      },
+      "notInHand": {
+        "playerGames": 395,
+        "matches": 368,
+        "wins": 196,
+        "winRate": 0.4962025316455696
+      },
+      "inDeckUnplayed": {
+        "playerGames": 676,
+        "matches": 609,
+        "wins": 334,
+        "winRate": 0.4940828402366864
+      }
+    },
+    {
+      "cardKey": "cave in",
+      "cardName": "Cave-In",
+      "deckShare": 0.2436111111111111,
+      "inDeck": {
+        "playerGames": 877,
+        "matches": 763,
+        "wins": 423,
+        "winRate": 0.4823261117445838
+      },
+      "played": {
+        "playerGames": 233,
+        "matches": 220,
+        "wins": 108,
+        "winRate": 0.463519313304721
+      },
+      "openingHand": {
+        "playerGames": 179,
+        "matches": 174,
+        "wins": 97,
+        "winRate": 0.5418994413407822
+      },
+      "inHand": {
+        "playerGames": 476,
+        "matches": 440,
+        "wins": 221,
+        "winRate": 0.4642857142857143
+      },
+      "notInHand": {
+        "playerGames": 401,
+        "matches": 378,
+        "wins": 202,
+        "winRate": 0.5037406483790524
+      },
+      "inDeckUnplayed": {
+        "playerGames": 644,
+        "matches": 592,
+        "wins": 315,
+        "winRate": 0.4891304347826087
+      }
+    },
+    {
+      "cardKey": "infernal legion",
+      "cardName": "Infernal Legion",
+      "deckShare": 0.24333333333333335,
+      "inDeck": {
+        "playerGames": 876,
+        "matches": 792,
+        "wins": 425,
+        "winRate": 0.4851598173515982
+      },
+      "played": {
+        "playerGames": 216,
+        "matches": 210,
+        "wins": 120,
+        "winRate": 0.5555555555555556
+      },
+      "openingHand": {
+        "playerGames": 173,
+        "matches": 167,
+        "wins": 89,
+        "winRate": 0.5144508670520231
+      },
+      "inHand": {
+        "playerGames": 460,
+        "matches": 437,
+        "wins": 236,
+        "winRate": 0.5130434782608696
+      },
+      "notInHand": {
+        "playerGames": 416,
+        "matches": 401,
+        "wins": 189,
+        "winRate": 0.4543269230769231
+      },
+      "inDeckUnplayed": {
+        "playerGames": 660,
+        "matches": 623,
+        "wins": 305,
+        "winRate": 0.4621212121212121
+      }
+    },
+    {
+      "cardKey": "jihad",
+      "cardName": "Jihad",
+      "deckShare": 0.24305555555555555,
+      "inDeck": {
+        "playerGames": 875,
+        "matches": 781,
+        "wins": 437,
+        "winRate": 0.49942857142857144
+      },
+      "played": {
+        "playerGames": 195,
+        "matches": 189,
+        "wins": 102,
+        "winRate": 0.5230769230769231
+      },
+      "openingHand": {
+        "playerGames": 171,
+        "matches": 169,
+        "wins": 85,
+        "winRate": 0.49707602339181284
+      },
+      "inHand": {
+        "playerGames": 460,
+        "matches": 438,
+        "wins": 231,
+        "winRate": 0.5021739130434782
+      },
+      "notInHand": {
+        "playerGames": 415,
+        "matches": 393,
+        "wins": 206,
+        "winRate": 0.4963855421686747
+      },
+      "inDeckUnplayed": {
+        "playerGames": 680,
+        "matches": 621,
+        "wins": 335,
+        "winRate": 0.49264705882352944
+      }
+    },
+    {
+      "cardKey": "belfry",
+      "cardName": "Belfry",
+      "deckShare": 0.24055555555555555,
+      "inDeck": {
+        "playerGames": 866,
+        "matches": 769,
+        "wins": 433,
+        "winRate": 0.5
+      },
+      "played": {
+        "playerGames": 200,
+        "matches": 200,
+        "wins": 96,
+        "winRate": 0.48
+      },
+      "openingHand": {
+        "playerGames": 179,
+        "matches": 176,
+        "wins": 82,
+        "winRate": 0.4581005586592179
+      },
+      "inHand": {
+        "playerGames": 461,
+        "matches": 438,
+        "wins": 225,
+        "winRate": 0.4880694143167028
+      },
+      "notInHand": {
+        "playerGames": 405,
+        "matches": 389,
+        "wins": 208,
+        "winRate": 0.5135802469135803
+      },
+      "inDeckUnplayed": {
+        "playerGames": 666,
+        "matches": 611,
+        "wins": 337,
+        "winRate": 0.506006006006006
+      }
+    },
+    {
+      "cardKey": "assorted animals",
+      "cardName": "Assorted Animals",
+      "deckShare": 0.23944444444444443,
+      "inDeck": {
+        "playerGames": 862,
+        "matches": 761,
+        "wins": 450,
+        "winRate": 0.5220417633410673
+      },
+      "played": {
+        "playerGames": 196,
+        "matches": 188,
+        "wins": 108,
+        "winRate": 0.5510204081632653
+      },
+      "openingHand": {
+        "playerGames": 173,
+        "matches": 167,
+        "wins": 89,
+        "winRate": 0.5144508670520231
+      },
+      "inHand": {
+        "playerGames": 462,
+        "matches": 430,
+        "wins": 245,
+        "winRate": 0.5303030303030303
+      },
+      "notInHand": {
+        "playerGames": 400,
+        "matches": 376,
+        "wins": 205,
+        "winRate": 0.5125
+      },
+      "inDeckUnplayed": {
+        "playerGames": 666,
+        "matches": 604,
+        "wins": 342,
+        "winRate": 0.5135135135135135
+      }
+    },
+    {
+      "cardKey": "eclipse",
+      "cardName": "Eclipse",
+      "deckShare": 0.2386111111111111,
+      "inDeck": {
+        "playerGames": 859,
+        "matches": 750,
+        "wins": 446,
+        "winRate": 0.519208381839348
+      },
+      "played": {
+        "playerGames": 238,
+        "matches": 230,
+        "wins": 108,
+        "winRate": 0.453781512605042
+      },
+      "openingHand": {
+        "playerGames": 167,
+        "matches": 164,
+        "wins": 84,
+        "winRate": 0.5029940119760479
+      },
+      "inHand": {
+        "playerGames": 466,
+        "matches": 436,
+        "wins": 234,
+        "winRate": 0.5021459227467812
+      },
+      "notInHand": {
+        "playerGames": 393,
+        "matches": 372,
+        "wins": 212,
+        "winRate": 0.539440203562341
+      },
+      "inDeckUnplayed": {
+        "playerGames": 621,
+        "matches": 562,
+        "wins": 338,
+        "winRate": 0.5442834138486312
+      }
+    },
+    {
+      "cardKey": "land surveyor",
+      "cardName": "Land Surveyor",
+      "deckShare": 0.2386111111111111,
+      "inDeck": {
+        "playerGames": 859,
+        "matches": 763,
+        "wins": 428,
+        "winRate": 0.49825378346915017
+      },
+      "played": {
+        "playerGames": 202,
+        "matches": 197,
+        "wins": 102,
+        "winRate": 0.504950495049505
+      },
+      "openingHand": {
+        "playerGames": 165,
+        "matches": 162,
+        "wins": 86,
+        "winRate": 0.5212121212121212
+      },
+      "inHand": {
+        "playerGames": 458,
+        "matches": 441,
+        "wins": 230,
+        "winRate": 0.5021834061135371
+      },
+      "notInHand": {
+        "playerGames": 401,
+        "matches": 379,
+        "wins": 198,
+        "winRate": 0.4937655860349127
+      },
+      "inDeckUnplayed": {
+        "playerGames": 657,
+        "matches": 603,
+        "wins": 326,
+        "winRate": 0.4961948249619482
+      }
+    },
+    {
+      "cardKey": "fowl bones",
+      "cardName": "Fowl Bones",
+      "deckShare": 0.23805555555555555,
+      "inDeck": {
+        "playerGames": 857,
+        "matches": 749,
+        "wins": 450,
+        "winRate": 0.5250875145857643
+      },
+      "played": {
+        "playerGames": 181,
+        "matches": 180,
+        "wins": 103,
+        "winRate": 0.569060773480663
+      },
+      "openingHand": {
+        "playerGames": 159,
+        "matches": 157,
+        "wins": 82,
+        "winRate": 0.5157232704402516
+      },
+      "inHand": {
+        "playerGames": 444,
+        "matches": 420,
+        "wins": 233,
+        "winRate": 0.5247747747747747
+      },
+      "notInHand": {
+        "playerGames": 413,
+        "matches": 396,
+        "wins": 217,
+        "winRate": 0.5254237288135594
+      },
+      "inDeckUnplayed": {
+        "playerGames": 676,
+        "matches": 609,
+        "wins": 347,
+        "winRate": 0.5133136094674556
+      }
+    },
+    {
+      "cardKey": "vivien the enchantress",
+      "cardName": "Vivien the Enchantress",
+      "deckShare": 0.23694444444444446,
+      "inDeck": {
+        "playerGames": 853,
+        "matches": 733,
+        "wins": 440,
+        "winRate": 0.5158264947245017
+      },
+      "played": {
+        "playerGames": 194,
+        "matches": 187,
+        "wins": 105,
+        "winRate": 0.5412371134020618
+      },
+      "openingHand": {
+        "playerGames": 154,
+        "matches": 149,
+        "wins": 88,
+        "winRate": 0.5714285714285714
+      },
+      "inHand": {
+        "playerGames": 435,
+        "matches": 401,
+        "wins": 231,
+        "winRate": 0.5310344827586206
+      },
+      "notInHand": {
+        "playerGames": 418,
+        "matches": 387,
+        "wins": 209,
+        "winRate": 0.5
+      },
+      "inDeckUnplayed": {
+        "playerGames": 659,
+        "matches": 594,
+        "wins": 335,
+        "winRate": 0.5083459787556904
+      }
+    },
+    {
+      "cardKey": "sea raider",
+      "cardName": "Sea Raider",
+      "deckShare": 0.2361111111111111,
+      "inDeck": {
+        "playerGames": 850,
+        "matches": 736,
+        "wins": 436,
+        "winRate": 0.5129411764705882
+      },
+      "played": {
+        "playerGames": 189,
+        "matches": 187,
+        "wins": 100,
+        "winRate": 0.5291005291005291
+      },
+      "openingHand": {
+        "playerGames": 168,
+        "matches": 156,
+        "wins": 83,
+        "winRate": 0.49404761904761907
+      },
+      "inHand": {
+        "playerGames": 453,
+        "matches": 418,
+        "wins": 240,
+        "winRate": 0.5298013245033113
+      },
+      "notInHand": {
+        "playerGames": 397,
+        "matches": 367,
+        "wins": 196,
+        "winRate": 0.49370277078085645
+      },
+      "inDeckUnplayed": {
+        "playerGames": 661,
+        "matches": 595,
+        "wins": 336,
+        "winRate": 0.5083207261724659
+      }
+    },
+    {
+      "cardKey": "lord of destruction",
+      "cardName": "Lord of Destruction",
+      "deckShare": 0.23527777777777778,
+      "inDeck": {
+        "playerGames": 847,
+        "matches": 746,
+        "wins": 432,
+        "winRate": 0.5100354191263282
+      },
+      "played": {
+        "playerGames": 211,
+        "matches": 207,
+        "wins": 102,
+        "winRate": 0.4834123222748815
+      },
+      "openingHand": {
+        "playerGames": 171,
+        "matches": 166,
+        "wins": 97,
+        "winRate": 0.5672514619883041
+      },
+      "inHand": {
+        "playerGames": 447,
+        "matches": 419,
+        "wins": 233,
+        "winRate": 0.5212527964205816
+      },
+      "notInHand": {
+        "playerGames": 400,
+        "matches": 378,
+        "wins": 199,
+        "winRate": 0.4975
+      },
+      "inDeckUnplayed": {
+        "playerGames": 636,
+        "matches": 574,
+        "wins": 330,
+        "winRate": 0.5188679245283019
+      }
+    },
+    {
+      "cardKey": "headless haunt",
+      "cardName": "Headless Haunt",
+      "deckShare": 0.23444444444444446,
+      "inDeck": {
+        "playerGames": 844,
+        "matches": 761,
+        "wins": 422,
+        "winRate": 0.5
+      },
+      "played": {
+        "playerGames": 199,
+        "matches": 194,
+        "wins": 96,
+        "winRate": 0.4824120603015075
+      },
+      "openingHand": {
+        "playerGames": 163,
+        "matches": 162,
+        "wins": 85,
+        "winRate": 0.5214723926380368
+      },
+      "inHand": {
+        "playerGames": 443,
+        "matches": 423,
+        "wins": 214,
+        "winRate": 0.48306997742663654
+      },
+      "notInHand": {
+        "playerGames": 401,
+        "matches": 386,
+        "wins": 208,
+        "winRate": 0.5187032418952618
+      },
+      "inDeckUnplayed": {
+        "playerGames": 645,
+        "matches": 596,
+        "wins": 326,
+        "winRate": 0.5054263565891473
+      }
+    },
+    {
+      "cardKey": "bone jumble",
+      "cardName": "Bone Jumble",
+      "deckShare": 0.2338888888888889,
+      "inDeck": {
+        "playerGames": 842,
+        "matches": 728,
+        "wins": 415,
+        "winRate": 0.49287410926365793
+      },
+      "played": {
+        "playerGames": 220,
+        "matches": 216,
+        "wins": 121,
+        "winRate": 0.55
+      },
+      "openingHand": {
+        "playerGames": 166,
+        "matches": 163,
+        "wins": 80,
+        "winRate": 0.4819277108433735
+      },
+      "inHand": {
+        "playerGames": 452,
+        "matches": 424,
+        "wins": 224,
+        "winRate": 0.49557522123893805
+      },
+      "notInHand": {
+        "playerGames": 390,
+        "matches": 380,
+        "wins": 191,
+        "winRate": 0.4897435897435897
+      },
+      "inDeckUnplayed": {
+        "playerGames": 622,
+        "matches": 565,
+        "wins": 294,
+        "winRate": 0.47266881028938906
+      }
+    },
+    {
+      "cardKey": "pigs of the sounder",
+      "cardName": "Pigs of the Sounder",
+      "deckShare": 0.23333333333333334,
+      "inDeck": {
+        "playerGames": 840,
+        "matches": 746,
+        "wins": 412,
+        "winRate": 0.49047619047619045
+      },
+      "played": {
+        "playerGames": 169,
+        "matches": 162,
+        "wins": 91,
+        "winRate": 0.5384615384615384
+      },
+      "openingHand": {
+        "playerGames": 152,
+        "matches": 145,
+        "wins": 77,
+        "winRate": 0.506578947368421
+      },
+      "inHand": {
+        "playerGames": 427,
+        "matches": 396,
+        "wins": 220,
+        "winRate": 0.5152224824355972
+      },
+      "notInHand": {
+        "playerGames": 413,
+        "matches": 388,
+        "wins": 192,
+        "winRate": 0.4648910411622276
+      },
+      "inDeckUnplayed": {
+        "playerGames": 671,
+        "matches": 616,
+        "wins": 321,
+        "winRate": 0.4783904619970194
+      }
+    },
+    {
+      "cardKey": "seirawan hydra",
+      "cardName": "Seirawan Hydra",
+      "deckShare": 0.23333333333333334,
+      "inDeck": {
+        "playerGames": 840,
+        "matches": 738,
+        "wins": 415,
+        "winRate": 0.49404761904761907
+      },
+      "played": {
+        "playerGames": 212,
+        "matches": 201,
+        "wins": 99,
+        "winRate": 0.4669811320754717
+      },
+      "openingHand": {
+        "playerGames": 169,
+        "matches": 163,
+        "wins": 77,
+        "winRate": 0.4556213017751479
+      },
+      "inHand": {
+        "playerGames": 457,
+        "matches": 420,
+        "wins": 224,
+        "winRate": 0.49015317286652077
+      },
+      "notInHand": {
+        "playerGames": 383,
+        "matches": 358,
+        "wins": 191,
+        "winRate": 0.49869451697127937
+      },
+      "inDeckUnplayed": {
+        "playerGames": 628,
+        "matches": 580,
+        "wins": 316,
+        "winRate": 0.5031847133757962
+      }
+    },
+    {
+      "cardKey": "power of flight",
+      "cardName": "Power of Flight",
+      "deckShare": 0.23277777777777778,
+      "inDeck": {
+        "playerGames": 838,
+        "matches": 727,
+        "wins": 415,
+        "winRate": 0.49522673031026254
+      },
+      "played": {
+        "playerGames": 172,
+        "matches": 165,
+        "wins": 89,
+        "winRate": 0.5174418604651163
+      },
+      "openingHand": {
+        "playerGames": 158,
+        "matches": 154,
+        "wins": 75,
+        "winRate": 0.47468354430379744
+      },
+      "inHand": {
+        "playerGames": 451,
+        "matches": 414,
+        "wins": 231,
+        "winRate": 0.5121951219512195
+      },
+      "notInHand": {
+        "playerGames": 387,
+        "matches": 361,
+        "wins": 184,
+        "winRate": 0.4754521963824289
+      },
+      "inDeckUnplayed": {
+        "playerGames": 666,
+        "matches": 592,
+        "wins": 326,
+        "winRate": 0.4894894894894895
+      }
+    },
+    {
+      "cardKey": "stone rain",
+      "cardName": "Stone Rain",
+      "deckShare": 0.2325,
+      "inDeck": {
+        "playerGames": 837,
+        "matches": 755,
+        "wins": 410,
+        "winRate": 0.48984468339307047
+      },
+      "played": {
+        "playerGames": 172,
+        "matches": 172,
+        "wins": 94,
+        "winRate": 0.5465116279069767
+      },
+      "openingHand": {
+        "playerGames": 158,
+        "matches": 158,
+        "wins": 88,
+        "winRate": 0.5569620253164557
+      },
+      "inHand": {
+        "playerGames": 433,
+        "matches": 417,
+        "wins": 211,
+        "winRate": 0.48729792147806006
+      },
+      "notInHand": {
+        "playerGames": 404,
+        "matches": 386,
+        "wins": 199,
+        "winRate": 0.49257425742574257
+      },
+      "inDeckUnplayed": {
+        "playerGames": 665,
+        "matches": 617,
+        "wins": 316,
+        "winRate": 0.47518796992481205
+      }
+    },
+    {
+      "cardKey": "arjaro exorcist",
+      "cardName": "Arjaro Exorcist",
+      "deckShare": 0.23222222222222222,
+      "inDeck": {
+        "playerGames": 836,
+        "matches": 751,
+        "wins": 426,
+        "winRate": 0.5095693779904307
+      },
+      "played": {
+        "playerGames": 214,
+        "matches": 205,
+        "wins": 112,
+        "winRate": 0.5233644859813084
+      },
+      "openingHand": {
+        "playerGames": 164,
+        "matches": 162,
+        "wins": 76,
+        "winRate": 0.4634146341463415
+      },
+      "inHand": {
+        "playerGames": 435,
+        "matches": 414,
+        "wins": 223,
+        "winRate": 0.5126436781609195
+      },
+      "notInHand": {
+        "playerGames": 401,
+        "matches": 380,
+        "wins": 203,
+        "winRate": 0.5062344139650873
+      },
+      "inDeckUnplayed": {
+        "playerGames": 622,
+        "matches": 572,
+        "wins": 314,
+        "winRate": 0.5048231511254019
+      }
+    },
+    {
+      "cardKey": "band of thieves",
+      "cardName": "Band of Thieves",
+      "deckShare": 0.23222222222222222,
+      "inDeck": {
+        "playerGames": 836,
+        "matches": 765,
+        "wins": 389,
+        "winRate": 0.465311004784689
+      },
+      "played": {
+        "playerGames": 197,
+        "matches": 191,
+        "wins": 103,
+        "winRate": 0.5228426395939086
+      },
+      "openingHand": {
+        "playerGames": 160,
+        "matches": 155,
+        "wins": 76,
+        "winRate": 0.475
+      },
+      "inHand": {
+        "playerGames": 445,
+        "matches": 426,
+        "wins": 208,
+        "winRate": 0.46741573033707867
+      },
+      "notInHand": {
+        "playerGames": 391,
+        "matches": 377,
+        "wins": 181,
+        "winRate": 0.4629156010230179
+      },
+      "inDeckUnplayed": {
+        "playerGames": 639,
+        "matches": 592,
+        "wins": 286,
+        "winRate": 0.4475743348982786
+      }
+    },
+    {
+      "cardKey": "seasoned sellsword",
+      "cardName": "Seasoned Sellsword",
+      "deckShare": 0.23222222222222222,
+      "inDeck": {
+        "playerGames": 836,
+        "matches": 749,
+        "wins": 394,
+        "winRate": 0.47129186602870815
+      },
+      "played": {
+        "playerGames": 175,
+        "matches": 174,
+        "wins": 86,
+        "winRate": 0.49142857142857144
+      },
+      "openingHand": {
+        "playerGames": 156,
+        "matches": 154,
+        "wins": 71,
+        "winRate": 0.4551282051282051
+      },
+      "inHand": {
+        "playerGames": 433,
+        "matches": 415,
+        "wins": 207,
+        "winRate": 0.4780600461893764
+      },
+      "notInHand": {
+        "playerGames": 403,
+        "matches": 386,
+        "wins": 187,
+        "winRate": 0.4640198511166253
+      },
+      "inDeckUnplayed": {
+        "playerGames": 661,
+        "matches": 604,
+        "wins": 308,
+        "winRate": 0.4659606656580938
+      }
+    },
+    {
+      "cardKey": "thundering giant",
+      "cardName": "Thundering Giant",
+      "deckShare": 0.23222222222222222,
+      "inDeck": {
+        "playerGames": 836,
+        "matches": 744,
+        "wins": 419,
+        "winRate": 0.5011961722488039
+      },
+      "played": {
+        "playerGames": 198,
+        "matches": 189,
+        "wins": 89,
+        "winRate": 0.4494949494949495
+      },
+      "openingHand": {
+        "playerGames": 166,
+        "matches": 162,
+        "wins": 70,
+        "winRate": 0.42168674698795183
+      },
+      "inHand": {
+        "playerGames": 452,
+        "matches": 423,
+        "wins": 212,
+        "winRate": 0.4690265486725664
+      },
+      "notInHand": {
+        "playerGames": 384,
+        "matches": 359,
+        "wins": 207,
+        "winRate": 0.5390625
+      },
+      "inDeckUnplayed": {
+        "playerGames": 638,
+        "matches": 587,
+        "wins": 330,
+        "winRate": 0.5172413793103449
+      }
+    },
+    {
+      "cardKey": "entombed",
+      "cardName": "Entombed",
+      "deckShare": 0.23194444444444445,
+      "inDeck": {
+        "playerGames": 835,
+        "matches": 710,
+        "wins": 409,
+        "winRate": 0.48982035928143713
+      },
+      "played": {
+        "playerGames": 229,
+        "matches": 221,
+        "wins": 116,
+        "winRate": 0.5065502183406113
+      },
+      "openingHand": {
+        "playerGames": 159,
+        "matches": 152,
+        "wins": 88,
+        "winRate": 0.5534591194968553
+      },
+      "inHand": {
+        "playerGames": 446,
+        "matches": 405,
+        "wins": 210,
+        "winRate": 0.47085201793721976
+      },
+      "notInHand": {
+        "playerGames": 389,
+        "matches": 360,
+        "wins": 199,
+        "winRate": 0.5115681233933161
+      },
+      "inDeckUnplayed": {
+        "playerGames": 606,
+        "matches": 542,
+        "wins": 293,
+        "winRate": 0.4834983498349835
+      }
+    },
+    {
+      "cardKey": "grigori rasputin",
+      "cardName": "Grigori Rasputin",
+      "deckShare": 0.2313888888888889,
+      "inDeck": {
+        "playerGames": 833,
+        "matches": 724,
+        "wins": 406,
+        "winRate": 0.48739495798319327
+      },
+      "played": {
+        "playerGames": 174,
+        "matches": 171,
+        "wins": 91,
+        "winRate": 0.5229885057471264
+      },
+      "openingHand": {
+        "playerGames": 166,
+        "matches": 159,
+        "wins": 91,
+        "winRate": 0.5481927710843374
+      },
+      "inHand": {
+        "playerGames": 441,
+        "matches": 410,
+        "wins": 225,
+        "winRate": 0.5102040816326531
+      },
+      "notInHand": {
+        "playerGames": 392,
+        "matches": 366,
+        "wins": 181,
+        "winRate": 0.461734693877551
+      },
+      "inDeckUnplayed": {
+        "playerGames": 659,
+        "matches": 594,
+        "wins": 315,
+        "winRate": 0.4779969650986343
+      }
+    },
+    {
+      "cardKey": "flame of the first ones",
+      "cardName": "Flame of the First Ones",
+      "deckShare": 0.23055555555555557,
+      "inDeck": {
+        "playerGames": 830,
+        "matches": 731,
+        "wins": 417,
+        "winRate": 0.5024096385542168
+      },
+      "played": {
+        "playerGames": 211,
+        "matches": 198,
+        "wins": 110,
+        "winRate": 0.5213270142180095
+      },
+      "openingHand": {
+        "playerGames": 163,
+        "matches": 160,
+        "wins": 87,
+        "winRate": 0.5337423312883436
+      },
+      "inHand": {
+        "playerGames": 444,
+        "matches": 416,
+        "wins": 228,
+        "winRate": 0.5135135135135135
+      },
+      "notInHand": {
+        "playerGames": 386,
+        "matches": 366,
+        "wins": 189,
+        "winRate": 0.4896373056994819
+      },
+      "inDeckUnplayed": {
+        "playerGames": 619,
+        "matches": 571,
+        "wins": 307,
+        "winRate": 0.49596122778675283
+      }
+    },
+    {
+      "cardKey": "roaming monster",
+      "cardName": "Roaming Monster",
+      "deckShare": 0.23027777777777778,
+      "inDeck": {
+        "playerGames": 829,
+        "matches": 751,
+        "wins": 432,
+        "winRate": 0.5211097708082026
+      },
+      "played": {
+        "playerGames": 178,
+        "matches": 173,
+        "wins": 92,
+        "winRate": 0.5168539325842697
+      },
+      "openingHand": {
+        "playerGames": 163,
+        "matches": 162,
+        "wins": 82,
+        "winRate": 0.5030674846625767
+      },
+      "inHand": {
+        "playerGames": 450,
+        "matches": 430,
+        "wins": 234,
+        "winRate": 0.52
+      },
+      "notInHand": {
+        "playerGames": 379,
+        "matches": 363,
+        "wins": 198,
+        "winRate": 0.5224274406332454
+      },
+      "inDeckUnplayed": {
+        "playerGames": 651,
+        "matches": 606,
+        "wins": 340,
+        "winRate": 0.522273425499232
+      }
+    },
+    {
+      "cardKey": "sea witch",
+      "cardName": "Sea Witch",
+      "deckShare": 0.23,
+      "inDeck": {
+        "playerGames": 828,
+        "matches": 732,
+        "wins": 416,
+        "winRate": 0.5024154589371981
+      },
+      "played": {
+        "playerGames": 176,
+        "matches": 170,
+        "wins": 91,
+        "winRate": 0.5170454545454546
+      },
+      "openingHand": {
+        "playerGames": 148,
+        "matches": 145,
+        "wins": 82,
+        "winRate": 0.5540540540540541
+      },
+      "inHand": {
+        "playerGames": 428,
+        "matches": 405,
+        "wins": 215,
+        "winRate": 0.5023364485981309
+      },
+      "notInHand": {
+        "playerGames": 400,
+        "matches": 385,
+        "wins": 201,
+        "winRate": 0.5025
+      },
+      "inDeckUnplayed": {
+        "playerGames": 652,
+        "matches": 593,
+        "wins": 325,
+        "winRate": 0.49846625766871167
+      }
+    },
+    {
+      "cardKey": "pollimorph",
+      "cardName": "Pollimorph",
+      "deckShare": 0.22944444444444445,
+      "inDeck": {
+        "playerGames": 826,
+        "matches": 743,
+        "wins": 410,
+        "winRate": 0.4963680387409201
+      },
+      "played": {
+        "playerGames": 170,
+        "matches": 168,
+        "wins": 88,
+        "winRate": 0.5176470588235295
+      },
+      "openingHand": {
+        "playerGames": 166,
+        "matches": 162,
+        "wins": 89,
+        "winRate": 0.536144578313253
+      },
+      "inHand": {
+        "playerGames": 447,
+        "matches": 424,
+        "wins": 224,
+        "winRate": 0.5011185682326622
+      },
+      "notInHand": {
+        "playerGames": 379,
+        "matches": 365,
+        "wins": 186,
+        "winRate": 0.49076517150395776
+      },
+      "inDeckUnplayed": {
+        "playerGames": 656,
+        "matches": 606,
+        "wins": 322,
+        "winRate": 0.49085365853658536
+      }
+    },
+    {
+      "cardKey": "the round table",
+      "cardName": "The Round Table",
+      "deckShare": 0.22944444444444445,
+      "inDeck": {
+        "playerGames": 826,
+        "matches": 728,
+        "wins": 441,
+        "winRate": 0.5338983050847458
+      },
+      "played": {
+        "playerGames": 202,
+        "matches": 197,
+        "wins": 109,
+        "winRate": 0.5396039603960396
+      },
+      "openingHand": {
+        "playerGames": 163,
+        "matches": 159,
+        "wins": 96,
+        "winRate": 0.588957055214724
+      },
+      "inHand": {
+        "playerGames": 431,
+        "matches": 405,
+        "wins": 231,
+        "winRate": 0.5359628770301624
+      },
+      "notInHand": {
+        "playerGames": 395,
+        "matches": 375,
+        "wins": 210,
+        "winRate": 0.5316455696202531
+      },
+      "inDeckUnplayed": {
+        "playerGames": 624,
+        "matches": 571,
+        "wins": 332,
+        "winRate": 0.532051282051282
+      }
+    },
+    {
+      "cardKey": "yourke crossbowmen",
+      "cardName": "Yourke Crossbowmen",
+      "deckShare": 0.22916666666666666,
+      "inDeck": {
+        "playerGames": 825,
+        "matches": 726,
+        "wins": 413,
+        "winRate": 0.5006060606060606
+      },
+      "played": {
+        "playerGames": 193,
+        "matches": 190,
+        "wins": 88,
+        "winRate": 0.45595854922279794
+      },
+      "openingHand": {
+        "playerGames": 155,
+        "matches": 153,
+        "wins": 75,
+        "winRate": 0.4838709677419355
+      },
+      "inHand": {
+        "playerGames": 437,
+        "matches": 410,
+        "wins": 221,
+        "winRate": 0.505720823798627
+      },
+      "notInHand": {
+        "playerGames": 388,
+        "matches": 369,
+        "wins": 192,
+        "winRate": 0.4948453608247423
+      },
+      "inDeckUnplayed": {
+        "playerGames": 632,
+        "matches": 572,
+        "wins": 325,
+        "winRate": 0.5142405063291139
+      }
+    },
+    {
+      "cardKey": "scatter",
+      "cardName": "Scatter",
+      "deckShare": 0.22833333333333333,
+      "inDeck": {
+        "playerGames": 822,
+        "matches": 724,
+        "wins": 404,
+        "winRate": 0.49148418491484186
+      },
+      "played": {
+        "playerGames": 226,
+        "matches": 220,
+        "wins": 99,
+        "winRate": 0.43805309734513276
+      },
+      "openingHand": {
+        "playerGames": 176,
+        "matches": 168,
+        "wins": 68,
+        "winRate": 0.38636363636363635
+      },
+      "inHand": {
+        "playerGames": 444,
+        "matches": 412,
+        "wins": 205,
+        "winRate": 0.4617117117117117
+      },
+      "notInHand": {
+        "playerGames": 378,
+        "matches": 363,
+        "wins": 199,
+        "winRate": 0.5264550264550265
+      },
+      "inDeckUnplayed": {
+        "playerGames": 596,
+        "matches": 550,
+        "wins": 305,
+        "winRate": 0.511744966442953
+      }
+    },
+    {
+      "cardKey": "bone rabble",
+      "cardName": "Bone Rabble",
+      "deckShare": 0.22666666666666666,
+      "inDeck": {
+        "playerGames": 816,
+        "matches": 741,
+        "wins": 420,
+        "winRate": 0.5147058823529411
+      },
+      "played": {
+        "playerGames": 185,
+        "matches": 183,
+        "wins": 95,
+        "winRate": 0.5135135135135135
+      },
+      "openingHand": {
+        "playerGames": 167,
+        "matches": 166,
+        "wins": 88,
+        "winRate": 0.5269461077844312
+      },
+      "inHand": {
+        "playerGames": 436,
+        "matches": 417,
+        "wins": 230,
+        "winRate": 0.5275229357798165
+      },
+      "notInHand": {
+        "playerGames": 380,
+        "matches": 359,
+        "wins": 190,
+        "winRate": 0.5
+      },
+      "inDeckUnplayed": {
+        "playerGames": 631,
+        "matches": 585,
+        "wins": 325,
+        "winRate": 0.5150554675118859
+      }
+    },
+    {
+      "cardKey": "feast for crows",
+      "cardName": "Feast for Crows",
+      "deckShare": 0.2263888888888889,
+      "inDeck": {
+        "playerGames": 815,
+        "matches": 707,
+        "wins": 386,
+        "winRate": 0.4736196319018405
+      },
+      "played": {
+        "playerGames": 183,
+        "matches": 177,
+        "wins": 80,
+        "winRate": 0.4371584699453552
+      },
+      "openingHand": {
+        "playerGames": 152,
+        "matches": 150,
+        "wins": 71,
+        "winRate": 0.46710526315789475
+      },
+      "inHand": {
+        "playerGames": 429,
+        "matches": 398,
+        "wins": 194,
+        "winRate": 0.4522144522144522
+      },
+      "notInHand": {
+        "playerGames": 386,
+        "matches": 356,
+        "wins": 192,
+        "winRate": 0.49740932642487046
+      },
+      "inDeckUnplayed": {
+        "playerGames": 632,
+        "matches": 568,
+        "wins": 306,
+        "winRate": 0.48417721518987344
+      }
+    },
+    {
+      "cardKey": "draconian bonekite",
+      "cardName": "Draconian Bonekite",
+      "deckShare": 0.22555555555555556,
+      "inDeck": {
+        "playerGames": 812,
+        "matches": 729,
+        "wins": 398,
+        "winRate": 0.49014778325123154
+      },
+      "played": {
+        "playerGames": 208,
+        "matches": 208,
+        "wins": 104,
+        "winRate": 0.5
+      },
+      "openingHand": {
+        "playerGames": 148,
+        "matches": 144,
+        "wins": 71,
+        "winRate": 0.4797297297297297
+      },
+      "inHand": {
+        "playerGames": 418,
+        "matches": 397,
+        "wins": 207,
+        "winRate": 0.49521531100478466
+      },
+      "notInHand": {
+        "playerGames": 394,
+        "matches": 377,
+        "wins": 191,
+        "winRate": 0.4847715736040609
+      },
+      "inDeckUnplayed": {
+        "playerGames": 604,
+        "matches": 566,
+        "wins": 294,
+        "winRate": 0.4867549668874172
+      }
+    },
+    {
+      "cardKey": "willing tribute",
+      "cardName": "Willing Tribute",
+      "deckShare": 0.22555555555555556,
+      "inDeck": {
+        "playerGames": 812,
+        "matches": 723,
+        "wins": 411,
+        "winRate": 0.5061576354679803
+      },
+      "played": {
+        "playerGames": 205,
+        "matches": 201,
+        "wins": 105,
+        "winRate": 0.5121951219512195
+      },
+      "openingHand": {
+        "playerGames": 153,
+        "matches": 152,
+        "wins": 81,
+        "winRate": 0.5294117647058824
+      },
+      "inHand": {
+        "playerGames": 429,
+        "matches": 400,
+        "wins": 222,
+        "winRate": 0.5174825174825175
+      },
+      "notInHand": {
+        "playerGames": 383,
+        "matches": 363,
+        "wins": 189,
+        "winRate": 0.4934725848563969
+      },
+      "inDeckUnplayed": {
+        "playerGames": 607,
+        "matches": 558,
+        "wins": 306,
+        "winRate": 0.5041186161449753
+      }
+    },
+    {
+      "cardKey": "undertaker engine",
+      "cardName": "Undertaker Engine",
+      "deckShare": 0.225,
+      "inDeck": {
+        "playerGames": 810,
+        "matches": 723,
+        "wins": 408,
+        "winRate": 0.5037037037037037
+      },
+      "played": {
+        "playerGames": 207,
+        "matches": 195,
+        "wins": 114,
+        "winRate": 0.5507246376811594
+      },
+      "openingHand": {
+        "playerGames": 155,
+        "matches": 151,
+        "wins": 80,
+        "winRate": 0.5161290322580645
+      },
+      "inHand": {
+        "playerGames": 417,
+        "matches": 391,
+        "wins": 212,
+        "winRate": 0.5083932853717026
+      },
+      "notInHand": {
+        "playerGames": 393,
+        "matches": 368,
+        "wins": 196,
+        "winRate": 0.49872773536895676
+      },
+      "inDeckUnplayed": {
+        "playerGames": 603,
+        "matches": 556,
+        "wins": 294,
+        "winRate": 0.48756218905472637
+      }
+    },
+    {
+      "cardKey": "anui undine",
+      "cardName": "Anui Undine",
+      "deckShare": 0.22444444444444445,
+      "inDeck": {
+        "playerGames": 808,
+        "matches": 752,
+        "wins": 399,
+        "winRate": 0.4938118811881188
+      },
+      "played": {
+        "playerGames": 179,
+        "matches": 177,
+        "wins": 85,
+        "winRate": 0.4748603351955307
+      },
+      "openingHand": {
+        "playerGames": 146,
+        "matches": 145,
+        "wins": 71,
+        "winRate": 0.4863013698630137
+      },
+      "inHand": {
+        "playerGames": 417,
+        "matches": 404,
+        "wins": 198,
+        "winRate": 0.4748201438848921
+      },
+      "notInHand": {
+        "playerGames": 391,
+        "matches": 377,
+        "wins": 201,
+        "winRate": 0.5140664961636828
+      },
+      "inDeckUnplayed": {
+        "playerGames": 629,
+        "matches": 591,
+        "wins": 314,
+        "winRate": 0.49920508744038156
+      }
+    },
+    {
+      "cardKey": "snow leopard",
+      "cardName": "Snow Leopard",
+      "deckShare": 0.22416666666666665,
+      "inDeck": {
+        "playerGames": 807,
+        "matches": 728,
+        "wins": 386,
+        "winRate": 0.47831474597273854
+      },
+      "played": {
+        "playerGames": 179,
+        "matches": 173,
+        "wins": 93,
+        "winRate": 0.5195530726256983
+      },
+      "openingHand": {
+        "playerGames": 152,
+        "matches": 150,
+        "wins": 80,
+        "winRate": 0.5263157894736842
+      },
+      "inHand": {
+        "playerGames": 418,
+        "matches": 397,
+        "wins": 209,
+        "winRate": 0.5
+      },
+      "notInHand": {
+        "playerGames": 389,
+        "matches": 369,
+        "wins": 177,
+        "winRate": 0.455012853470437
+      },
+      "inDeckUnplayed": {
+        "playerGames": 628,
+        "matches": 584,
+        "wins": 293,
+        "winRate": 0.46656050955414013
+      }
+    },
+    {
+      "cardKey": "midnight rogue",
+      "cardName": "Midnight Rogue",
+      "deckShare": 0.2238888888888889,
+      "inDeck": {
+        "playerGames": 806,
+        "matches": 700,
+        "wins": 398,
+        "winRate": 0.49379652605459057
+      },
+      "played": {
+        "playerGames": 202,
+        "matches": 195,
+        "wins": 92,
+        "winRate": 0.45544554455445546
+      },
+      "openingHand": {
+        "playerGames": 159,
+        "matches": 154,
+        "wins": 79,
+        "winRate": 0.4968553459119497
+      },
+      "inHand": {
+        "playerGames": 424,
+        "matches": 392,
+        "wins": 218,
+        "winRate": 0.5141509433962265
+      },
+      "notInHand": {
+        "playerGames": 382,
+        "matches": 358,
+        "wins": 180,
+        "winRate": 0.4712041884816754
+      },
+      "inDeckUnplayed": {
+        "playerGames": 604,
+        "matches": 544,
+        "wins": 306,
+        "winRate": 0.5066225165562914
+      }
+    },
+    {
+      "cardKey": "sea serpent",
+      "cardName": "Sea Serpent",
+      "deckShare": 0.2238888888888889,
+      "inDeck": {
+        "playerGames": 806,
+        "matches": 723,
+        "wins": 397,
+        "winRate": 0.49255583126550867
+      },
+      "played": {
+        "playerGames": 193,
+        "matches": 188,
+        "wins": 94,
+        "winRate": 0.48704663212435234
+      },
+      "openingHand": {
+        "playerGames": 158,
+        "matches": 156,
+        "wins": 84,
+        "winRate": 0.5316455696202531
+      },
+      "inHand": {
+        "playerGames": 428,
+        "matches": 408,
+        "wins": 207,
+        "winRate": 0.48364485981308414
+      },
+      "notInHand": {
+        "playerGames": 378,
+        "matches": 367,
+        "wins": 190,
+        "winRate": 0.5026455026455027
+      },
+      "inDeckUnplayed": {
+        "playerGames": 613,
+        "matches": 566,
+        "wins": 303,
+        "winRate": 0.49429037520391517
+      }
+    },
+    {
+      "cardKey": "dead of night demon",
+      "cardName": "Dead of Night Demon",
+      "deckShare": 0.22305555555555556,
+      "inDeck": {
+        "playerGames": 803,
+        "matches": 715,
+        "wins": 416,
+        "winRate": 0.5180572851805728
+      },
+      "played": {
+        "playerGames": 184,
+        "matches": 180,
+        "wins": 99,
+        "winRate": 0.5380434782608695
+      },
+      "openingHand": {
+        "playerGames": 152,
+        "matches": 150,
+        "wins": 73,
+        "winRate": 0.48026315789473684
+      },
+      "inHand": {
+        "playerGames": 427,
+        "matches": 403,
+        "wins": 218,
+        "winRate": 0.5105386416861827
+      },
+      "notInHand": {
+        "playerGames": 376,
+        "matches": 358,
+        "wins": 198,
+        "winRate": 0.526595744680851
+      },
+      "inDeckUnplayed": {
+        "playerGames": 619,
+        "matches": 576,
+        "wins": 317,
+        "winRate": 0.5121163166397416
+      }
+    },
+    {
+      "cardKey": "lady iseult",
+      "cardName": "Lady Iseult",
+      "deckShare": 0.22138888888888889,
+      "inDeck": {
+        "playerGames": 797,
+        "matches": 687,
+        "wins": 411,
+        "winRate": 0.5156838143036386
+      },
+      "played": {
+        "playerGames": 206,
+        "matches": 197,
+        "wins": 108,
+        "winRate": 0.5242718446601942
+      },
+      "openingHand": {
+        "playerGames": 154,
+        "matches": 151,
+        "wins": 76,
+        "winRate": 0.4935064935064935
+      },
+      "inHand": {
+        "playerGames": 428,
+        "matches": 392,
+        "wins": 219,
+        "winRate": 0.5116822429906542
+      },
+      "notInHand": {
+        "playerGames": 369,
+        "matches": 344,
+        "wins": 192,
+        "winRate": 0.5203252032520326
+      },
+      "inDeckUnplayed": {
+        "playerGames": 591,
+        "matches": 536,
+        "wins": 303,
+        "winRate": 0.5126903553299492
+      }
+    },
+    {
+      "cardKey": "sentinel trap",
+      "cardName": "Sentinel Trap",
+      "deckShare": 0.22111111111111112,
+      "inDeck": {
+        "playerGames": 796,
+        "matches": 701,
+        "wins": 405,
+        "winRate": 0.5087939698492462
+      },
+      "played": {
+        "playerGames": 169,
+        "matches": 166,
+        "wins": 91,
+        "winRate": 0.5384615384615384
+      },
+      "openingHand": {
+        "playerGames": 153,
+        "matches": 147,
+        "wins": 73,
+        "winRate": 0.477124183006536
+      },
+      "inHand": {
+        "playerGames": 424,
+        "matches": 393,
+        "wins": 225,
+        "winRate": 0.5306603773584906
+      },
+      "notInHand": {
+        "playerGames": 372,
+        "matches": 358,
+        "wins": 180,
+        "winRate": 0.4838709677419355
+      },
+      "inDeckUnplayed": {
+        "playerGames": 627,
+        "matches": 573,
+        "wins": 314,
+        "winRate": 0.5007974481658692
+      }
+    },
+    {
+      "cardKey": "charge",
+      "cardName": "Charge",
+      "deckShare": 0.22083333333333333,
+      "inDeck": {
+        "playerGames": 795,
+        "matches": 725,
+        "wins": 391,
+        "winRate": 0.4918238993710692
+      },
+      "played": {
+        "playerGames": 162,
+        "matches": 160,
+        "wins": 69,
+        "winRate": 0.42592592592592593
+      },
+      "openingHand": {
+        "playerGames": 141,
+        "matches": 137,
+        "wins": 66,
+        "winRate": 0.46808510638297873
+      },
+      "inHand": {
+        "playerGames": 415,
+        "matches": 392,
+        "wins": 201,
+        "winRate": 0.4843373493975904
+      },
+      "notInHand": {
+        "playerGames": 380,
+        "matches": 356,
+        "wins": 190,
+        "winRate": 0.5
+      },
+      "inDeckUnplayed": {
+        "playerGames": 633,
+        "matches": 585,
+        "wins": 322,
+        "winRate": 0.5086887835703001
+      }
+    },
+    {
+      "cardKey": "trial by fire",
+      "cardName": "Trial by Fire",
+      "deckShare": 0.22083333333333333,
+      "inDeck": {
+        "playerGames": 795,
+        "matches": 728,
+        "wins": 384,
+        "winRate": 0.4830188679245283
+      },
+      "played": {
+        "playerGames": 203,
+        "matches": 198,
+        "wins": 103,
+        "winRate": 0.5073891625615764
+      },
+      "openingHand": {
+        "playerGames": 165,
+        "matches": 162,
+        "wins": 84,
+        "winRate": 0.509090909090909
+      },
+      "inHand": {
+        "playerGames": 436,
+        "matches": 424,
+        "wins": 217,
+        "winRate": 0.49770642201834864
+      },
+      "notInHand": {
+        "playerGames": 359,
+        "matches": 352,
+        "wins": 167,
+        "winRate": 0.46518105849582175
+      },
+      "inDeckUnplayed": {
+        "playerGames": 592,
+        "matches": 559,
+        "wins": 281,
+        "winRate": 0.47466216216216217
+      }
+    },
+    {
+      "cardKey": "wyvern",
+      "cardName": "Wyvern",
+      "deckShare": 0.22083333333333333,
+      "inDeck": {
+        "playerGames": 795,
+        "matches": 724,
+        "wins": 420,
+        "winRate": 0.5283018867924528
+      },
+      "played": {
+        "playerGames": 207,
+        "matches": 202,
+        "wins": 96,
+        "winRate": 0.463768115942029
+      },
+      "openingHand": {
+        "playerGames": 164,
+        "matches": 161,
+        "wins": 80,
+        "winRate": 0.4878048780487805
+      },
+      "inHand": {
+        "playerGames": 446,
+        "matches": 427,
+        "wins": 226,
+        "winRate": 0.5067264573991032
+      },
+      "notInHand": {
+        "playerGames": 349,
+        "matches": 339,
+        "wins": 194,
+        "winRate": 0.5558739255014327
+      },
+      "inDeckUnplayed": {
+        "playerGames": 588,
+        "matches": 553,
+        "wins": 324,
+        "winRate": 0.5510204081632653
+      }
+    },
+    {
+      "cardKey": "battering ram",
+      "cardName": "Battering Ram",
+      "deckShare": 0.22055555555555556,
+      "inDeck": {
+        "playerGames": 794,
+        "matches": 725,
+        "wins": 410,
+        "winRate": 0.5163727959697733
+      },
+      "played": {
+        "playerGames": 183,
+        "matches": 181,
+        "wins": 104,
+        "winRate": 0.5683060109289617
+      },
+      "openingHand": {
+        "playerGames": 157,
+        "matches": 154,
+        "wins": 84,
+        "winRate": 0.535031847133758
+      },
+      "inHand": {
+        "playerGames": 418,
+        "matches": 397,
+        "wins": 221,
+        "winRate": 0.5287081339712919
+      },
+      "notInHand": {
+        "playerGames": 376,
+        "matches": 362,
+        "wins": 189,
+        "winRate": 0.5026595744680851
+      },
+      "inDeckUnplayed": {
+        "playerGames": 611,
+        "matches": 569,
+        "wins": 306,
+        "winRate": 0.5008183306055647
+      }
+    },
+    {
+      "cardKey": "thing in the ice",
+      "cardName": "Thing in the Ice",
+      "deckShare": 0.22027777777777777,
+      "inDeck": {
+        "playerGames": 793,
+        "matches": 711,
+        "wins": 399,
+        "winRate": 0.5031525851197982
+      },
+      "played": {
+        "playerGames": 151,
+        "matches": 148,
+        "wins": 73,
+        "winRate": 0.48344370860927155
+      },
+      "openingHand": {
+        "playerGames": 149,
+        "matches": 142,
+        "wins": 73,
+        "winRate": 0.4899328859060403
+      },
+      "inHand": {
+        "playerGames": 424,
+        "matches": 399,
+        "wins": 211,
+        "winRate": 0.49764150943396224
+      },
+      "notInHand": {
+        "playerGames": 369,
+        "matches": 350,
+        "wins": 188,
+        "winRate": 0.5094850948509485
+      },
+      "inDeckUnplayed": {
+        "playerGames": 642,
+        "matches": 586,
+        "wins": 326,
+        "winRate": 0.5077881619937694
+      }
+    },
+    {
+      "cardKey": "castle s ablaze",
+      "cardName": "Castle's Ablaze!",
+      "deckShare": 0.21861111111111112,
+      "inDeck": {
+        "playerGames": 787,
+        "matches": 705,
+        "wins": 403,
+        "winRate": 0.5120711562897078
+      },
+      "played": {
+        "playerGames": 210,
+        "matches": 205,
+        "wins": 120,
+        "winRate": 0.5714285714285714
+      },
+      "openingHand": {
+        "playerGames": 158,
+        "matches": 153,
+        "wins": 88,
+        "winRate": 0.5569620253164557
+      },
+      "inHand": {
+        "playerGames": 418,
+        "matches": 396,
+        "wins": 218,
+        "winRate": 0.5215311004784688
+      },
+      "notInHand": {
+        "playerGames": 369,
+        "matches": 350,
+        "wins": 185,
+        "winRate": 0.5013550135501355
+      },
+      "inDeckUnplayed": {
+        "playerGames": 577,
+        "matches": 527,
+        "wins": 283,
+        "winRate": 0.4904679376083189
+      }
+    },
+    {
+      "cardKey": "ogre goons",
+      "cardName": "Ogre Goons",
+      "deckShare": 0.21833333333333332,
+      "inDeck": {
+        "playerGames": 786,
+        "matches": 696,
+        "wins": 392,
+        "winRate": 0.49872773536895676
+      },
+      "played": {
+        "playerGames": 182,
+        "matches": 181,
+        "wins": 87,
+        "winRate": 0.47802197802197804
+      },
+      "openingHand": {
+        "playerGames": 160,
+        "matches": 152,
+        "wins": 72,
+        "winRate": 0.45
+      },
+      "inHand": {
+        "playerGames": 424,
+        "matches": 389,
+        "wins": 213,
+        "winRate": 0.5023584905660378
+      },
+      "notInHand": {
+        "playerGames": 362,
+        "matches": 345,
+        "wins": 179,
+        "winRate": 0.494475138121547
+      },
+      "inDeckUnplayed": {
+        "playerGames": 604,
+        "matches": 554,
+        "wins": 305,
+        "winRate": 0.5049668874172185
+      }
+    },
+    {
+      "cardKey": "the doom of dilmun",
+      "cardName": "The Doom of Dilmun",
+      "deckShare": 0.21805555555555556,
+      "inDeck": {
+        "playerGames": 785,
+        "matches": 703,
+        "wins": 397,
+        "winRate": 0.5057324840764331
+      },
+      "played": {
+        "playerGames": 186,
+        "matches": 180,
+        "wins": 93,
+        "winRate": 0.5
+      },
+      "openingHand": {
+        "playerGames": 145,
+        "matches": 141,
+        "wins": 72,
+        "winRate": 0.496551724137931
+      },
+      "inHand": {
+        "playerGames": 417,
+        "matches": 393,
+        "wins": 200,
+        "winRate": 0.47961630695443647
+      },
+      "notInHand": {
+        "playerGames": 368,
+        "matches": 347,
+        "wins": 197,
+        "winRate": 0.5353260869565217
+      },
+      "inDeckUnplayed": {
+        "playerGames": 599,
+        "matches": 556,
+        "wins": 304,
+        "winRate": 0.5075125208681135
+      }
+    },
+    {
+      "cardKey": "second wind",
+      "cardName": "Second Wind",
+      "deckShare": 0.2175,
+      "inDeck": {
+        "playerGames": 783,
+        "matches": 691,
+        "wins": 423,
+        "winRate": 0.5402298850574713
+      },
+      "played": {
+        "playerGames": 176,
+        "matches": 171,
+        "wins": 95,
+        "winRate": 0.5397727272727273
+      },
+      "openingHand": {
+        "playerGames": 157,
+        "matches": 154,
+        "wins": 84,
+        "winRate": 0.535031847133758
+      },
+      "inHand": {
+        "playerGames": 409,
+        "matches": 386,
+        "wins": 225,
+        "winRate": 0.5501222493887531
+      },
+      "notInHand": {
+        "playerGames": 374,
+        "matches": 352,
+        "wins": 198,
+        "winRate": 0.5294117647058824
+      },
+      "inDeckUnplayed": {
+        "playerGames": 607,
+        "matches": 555,
+        "wins": 328,
+        "winRate": 0.5403624382207578
+      }
+    },
+    {
+      "cardKey": "the great drowning of men",
+      "cardName": "The Great Drowning of Men",
+      "deckShare": 0.2175,
+      "inDeck": {
+        "playerGames": 783,
+        "matches": 695,
+        "wins": 411,
+        "winRate": 0.524904214559387
+      },
+      "played": {
+        "playerGames": 157,
+        "matches": 154,
+        "wins": 81,
+        "winRate": 0.5159235668789809
+      },
+      "openingHand": {
+        "playerGames": 147,
+        "matches": 141,
+        "wins": 81,
+        "winRate": 0.5510204081632653
+      },
+      "inHand": {
+        "playerGames": 417,
+        "matches": 393,
+        "wins": 220,
+        "winRate": 0.5275779376498801
+      },
+      "notInHand": {
+        "playerGames": 366,
+        "matches": 350,
+        "wins": 191,
+        "winRate": 0.5218579234972678
+      },
+      "inDeckUnplayed": {
+        "playerGames": 626,
+        "matches": 573,
+        "wins": 330,
+        "winRate": 0.5271565495207667
+      }
+    },
+    {
+      "cardKey": "demon hunter",
+      "cardName": "Demon Hunter",
+      "deckShare": 0.21694444444444444,
+      "inDeck": {
+        "playerGames": 781,
+        "matches": 682,
+        "wins": 378,
+        "winRate": 0.4839948783610755
+      },
+      "played": {
+        "playerGames": 187,
+        "matches": 179,
+        "wins": 89,
+        "winRate": 0.47593582887700536
+      },
+      "openingHand": {
+        "playerGames": 153,
+        "matches": 148,
+        "wins": 74,
+        "winRate": 0.48366013071895425
+      },
+      "inHand": {
+        "playerGames": 421,
+        "matches": 391,
+        "wins": 191,
+        "winRate": 0.45368171021377673
+      },
+      "notInHand": {
+        "playerGames": 360,
+        "matches": 341,
+        "wins": 187,
+        "winRate": 0.5194444444444445
+      },
+      "inDeckUnplayed": {
+        "playerGames": 594,
+        "matches": 534,
+        "wins": 289,
+        "winRate": 0.48653198653198654
+      }
+    },
+    {
+      "cardKey": "aramos mercenaries",
+      "cardName": "Aramos Mercenaries",
+      "deckShare": 0.21638888888888888,
+      "inDeck": {
+        "playerGames": 779,
+        "matches": 692,
+        "wins": 388,
+        "winRate": 0.4980744544287548
+      },
+      "played": {
+        "playerGames": 174,
+        "matches": 170,
+        "wins": 83,
+        "winRate": 0.47701149425287354
+      },
+      "openingHand": {
+        "playerGames": 151,
+        "matches": 149,
+        "wins": 66,
+        "winRate": 0.4370860927152318
+      },
+      "inHand": {
+        "playerGames": 417,
+        "matches": 392,
+        "wins": 202,
+        "winRate": 0.4844124700239808
+      },
+      "notInHand": {
+        "playerGames": 362,
+        "matches": 342,
+        "wins": 186,
+        "winRate": 0.5138121546961326
+      },
+      "inDeckUnplayed": {
+        "playerGames": 605,
+        "matches": 561,
+        "wins": 305,
+        "winRate": 0.5041322314049587
+      }
+    },
+    {
+      "cardKey": "one shot wizard",
+      "cardName": "One-shot Wizard",
+      "deckShare": 0.21638888888888888,
+      "inDeck": {
+        "playerGames": 779,
+        "matches": 691,
+        "wins": 380,
+        "winRate": 0.4878048780487805
+      },
+      "played": {
+        "playerGames": 177,
+        "matches": 175,
+        "wins": 83,
+        "winRate": 0.4689265536723164
+      },
+      "openingHand": {
+        "playerGames": 145,
+        "matches": 143,
+        "wins": 73,
+        "winRate": 0.503448275862069
+      },
+      "inHand": {
+        "playerGames": 399,
+        "matches": 375,
+        "wins": 196,
+        "winRate": 0.49122807017543857
+      },
+      "notInHand": {
+        "playerGames": 380,
+        "matches": 358,
+        "wins": 184,
+        "winRate": 0.4842105263157895
+      },
+      "inDeckUnplayed": {
+        "playerGames": 602,
+        "matches": 540,
+        "wins": 297,
+        "winRate": 0.49335548172757476
+      }
+    },
+    {
+      "cardKey": "zombie horde",
+      "cardName": "Zombie Horde",
+      "deckShare": 0.2136111111111111,
+      "inDeck": {
+        "playerGames": 769,
+        "matches": 677,
+        "wins": 394,
+        "winRate": 0.5123537061118335
+      },
+      "played": {
+        "playerGames": 154,
+        "matches": 140,
+        "wins": 82,
+        "winRate": 0.5324675324675324
+      },
+      "openingHand": {
+        "playerGames": 142,
+        "matches": 137,
+        "wins": 77,
+        "winRate": 0.5422535211267606
+      },
+      "inHand": {
+        "playerGames": 401,
+        "matches": 369,
+        "wins": 206,
+        "winRate": 0.513715710723192
+      },
+      "notInHand": {
+        "playerGames": 368,
+        "matches": 345,
+        "wins": 188,
+        "winRate": 0.5108695652173914
+      },
+      "inDeckUnplayed": {
+        "playerGames": 615,
+        "matches": 555,
+        "wins": 312,
+        "winRate": 0.5073170731707317
+      }
+    },
+    {
+      "cardKey": "homecoming",
+      "cardName": "Homecoming",
+      "deckShare": 0.21194444444444444,
+      "inDeck": {
+        "playerGames": 763,
+        "matches": 718,
+        "wins": 384,
+        "winRate": 0.5032765399737876
+      },
+      "played": {
+        "playerGames": 193,
+        "matches": 193,
+        "wins": 102,
+        "winRate": 0.5284974093264249
+      },
+      "openingHand": {
+        "playerGames": 148,
+        "matches": 147,
+        "wins": 75,
+        "winRate": 0.5067567567567568
+      },
+      "inHand": {
+        "playerGames": 410,
+        "matches": 402,
+        "wins": 212,
+        "winRate": 0.5170731707317073
+      },
+      "notInHand": {
+        "playerGames": 353,
+        "matches": 346,
+        "wins": 172,
+        "winRate": 0.48725212464589235
+      },
+      "inDeckUnplayed": {
+        "playerGames": 570,
+        "matches": 545,
+        "wins": 282,
+        "winRate": 0.49473684210526314
+      }
+    },
+    {
+      "cardKey": "the wild hunt",
+      "cardName": "The Wild Hunt",
+      "deckShare": 0.21194444444444444,
+      "inDeck": {
+        "playerGames": 763,
+        "matches": 699,
+        "wins": 404,
+        "winRate": 0.5294888597640891
+      },
+      "played": {
+        "playerGames": 145,
+        "matches": 145,
+        "wins": 76,
+        "winRate": 0.5241379310344828
+      },
+      "openingHand": {
+        "playerGames": 145,
+        "matches": 143,
+        "wins": 77,
+        "winRate": 0.5310344827586206
+      },
+      "inHand": {
+        "playerGames": 400,
+        "matches": 387,
+        "wins": 223,
+        "winRate": 0.5575
+      },
+      "notInHand": {
+        "playerGames": 363,
+        "matches": 351,
+        "wins": 181,
+        "winRate": 0.4986225895316804
+      },
+      "inDeckUnplayed": {
+        "playerGames": 618,
+        "matches": 582,
+        "wins": 328,
+        "winRate": 0.5307443365695793
+      }
+    },
+    {
+      "cardKey": "divine healing",
+      "cardName": "Divine Healing",
+      "deckShare": 0.21083333333333334,
+      "inDeck": {
+        "playerGames": 759,
+        "matches": 701,
+        "wins": 392,
+        "winRate": 0.5164690382081687
+      },
+      "played": {
+        "playerGames": 177,
+        "matches": 176,
+        "wins": 96,
+        "winRate": 0.5423728813559322
+      },
+      "openingHand": {
+        "playerGames": 142,
+        "matches": 142,
+        "wins": 65,
+        "winRate": 0.45774647887323944
+      },
+      "inHand": {
+        "playerGames": 389,
+        "matches": 377,
+        "wins": 196,
+        "winRate": 0.5038560411311054
+      },
+      "notInHand": {
+        "playerGames": 370,
+        "matches": 357,
+        "wins": 196,
+        "winRate": 0.5297297297297298
+      },
+      "inDeckUnplayed": {
+        "playerGames": 582,
+        "matches": 549,
+        "wins": 296,
+        "winRate": 0.5085910652920962
+      }
+    },
+    {
+      "cardKey": "virgin in prayer",
+      "cardName": "Virgin in Prayer",
+      "deckShare": 0.21083333333333334,
+      "inDeck": {
+        "playerGames": 759,
+        "matches": 675,
+        "wins": 386,
+        "winRate": 0.5085638998682477
+      },
+      "played": {
+        "playerGames": 180,
+        "matches": 177,
+        "wins": 98,
+        "winRate": 0.5444444444444444
+      },
+      "openingHand": {
+        "playerGames": 152,
+        "matches": 150,
+        "wins": 84,
+        "winRate": 0.5526315789473685
+      },
+      "inHand": {
+        "playerGames": 411,
+        "matches": 388,
+        "wins": 215,
+        "winRate": 0.5231143552311436
+      },
+      "notInHand": {
+        "playerGames": 348,
+        "matches": 332,
+        "wins": 171,
+        "winRate": 0.49137931034482757
+      },
+      "inDeckUnplayed": {
+        "playerGames": 579,
+        "matches": 531,
+        "wins": 288,
+        "winRate": 0.49740932642487046
+      }
+    },
+    {
+      "cardKey": "lucky charm",
+      "cardName": "Lucky Charm",
+      "deckShare": 0.21055555555555555,
+      "inDeck": {
+        "playerGames": 758,
+        "matches": 681,
+        "wins": 374,
+        "winRate": 0.49340369393139843
+      },
+      "played": {
+        "playerGames": 190,
+        "matches": 184,
+        "wins": 98,
+        "winRate": 0.5157894736842106
+      },
+      "openingHand": {
+        "playerGames": 141,
+        "matches": 139,
+        "wins": 69,
+        "winRate": 0.48936170212765956
+      },
+      "inHand": {
+        "playerGames": 393,
+        "matches": 371,
+        "wins": 201,
+        "winRate": 0.5114503816793893
+      },
+      "notInHand": {
+        "playerGames": 365,
+        "matches": 344,
+        "wins": 173,
+        "winRate": 0.473972602739726
+      },
+      "inDeckUnplayed": {
+        "playerGames": 568,
+        "matches": 519,
+        "wins": 276,
+        "winRate": 0.4859154929577465
+      }
+    },
+    {
+      "cardKey": "morgana le fay",
+      "cardName": "Morgana le Fay",
+      "deckShare": 0.21055555555555555,
+      "inDeck": {
+        "playerGames": 758,
+        "matches": 684,
+        "wins": 398,
+        "winRate": 0.525065963060686
+      },
+      "played": {
+        "playerGames": 139,
+        "matches": 139,
+        "wins": 71,
+        "winRate": 0.5107913669064749
+      },
+      "openingHand": {
+        "playerGames": 151,
+        "matches": 150,
+        "wins": 65,
+        "winRate": 0.4304635761589404
+      },
+      "inHand": {
+        "playerGames": 405,
+        "matches": 390,
+        "wins": 213,
+        "winRate": 0.5259259259259259
+      },
+      "notInHand": {
+        "playerGames": 353,
+        "matches": 347,
+        "wins": 185,
+        "winRate": 0.5240793201133145
+      },
+      "inDeckUnplayed": {
+        "playerGames": 619,
+        "matches": 571,
+        "wins": 327,
+        "winRate": 0.5282714054927302
+      }
+    },
+    {
+      "cardKey": "baptize",
+      "cardName": "Baptize",
+      "deckShare": 0.21,
+      "inDeck": {
+        "playerGames": 756,
+        "matches": 668,
+        "wins": 374,
+        "winRate": 0.4947089947089947
+      },
+      "played": {
+        "playerGames": 204,
+        "matches": 193,
+        "wins": 108,
+        "winRate": 0.5294117647058824
+      },
+      "openingHand": {
+        "playerGames": 136,
+        "matches": 130,
+        "wins": 79,
+        "winRate": 0.5808823529411765
+      },
+      "inHand": {
+        "playerGames": 394,
+        "matches": 366,
+        "wins": 203,
+        "winRate": 0.5152284263959391
+      },
+      "notInHand": {
+        "playerGames": 362,
+        "matches": 342,
+        "wins": 171,
+        "winRate": 0.4723756906077348
+      },
+      "inDeckUnplayed": {
+        "playerGames": 552,
+        "matches": 507,
+        "wins": 266,
+        "winRate": 0.48188405797101447
+      }
+    },
+    {
+      "cardKey": "king of the realm",
+      "cardName": "King of the Realm",
+      "deckShare": 0.21,
+      "inDeck": {
+        "playerGames": 756,
+        "matches": 648,
+        "wins": 364,
+        "winRate": 0.48148148148148145
+      },
+      "played": {
+        "playerGames": 152,
+        "matches": 144,
+        "wins": 70,
+        "winRate": 0.4605263157894737
+      },
+      "openingHand": {
+        "playerGames": 143,
+        "matches": 137,
+        "wins": 75,
+        "winRate": 0.5244755244755245
+      },
+      "inHand": {
+        "playerGames": 398,
+        "matches": 371,
+        "wins": 199,
+        "winRate": 0.5
+      },
+      "notInHand": {
+        "playerGames": 358,
+        "matches": 338,
+        "wins": 165,
+        "winRate": 0.46089385474860334
+      },
+      "inDeckUnplayed": {
+        "playerGames": 604,
+        "matches": 540,
+        "wins": 294,
+        "winRate": 0.4867549668874172
+      }
+    },
+    {
+      "cardKey": "plague rat",
+      "cardName": "Plague Rat",
+      "deckShare": 0.2086111111111111,
+      "inDeck": {
+        "playerGames": 751,
+        "matches": 699,
+        "wins": 376,
+        "winRate": 0.5006657789613849
+      },
+      "played": {
+        "playerGames": 165,
+        "matches": 162,
+        "wins": 84,
+        "winRate": 0.509090909090909
+      },
+      "openingHand": {
+        "playerGames": 145,
+        "matches": 140,
+        "wins": 76,
+        "winRate": 0.5241379310344828
+      },
+      "inHand": {
+        "playerGames": 404,
+        "matches": 383,
+        "wins": 200,
+        "winRate": 0.49504950495049505
+      },
+      "notInHand": {
+        "playerGames": 347,
+        "matches": 331,
+        "wins": 176,
+        "winRate": 0.5072046109510087
+      },
+      "inDeckUnplayed": {
+        "playerGames": 586,
+        "matches": 554,
+        "wins": 292,
+        "winRate": 0.49829351535836175
+      }
+    },
+    {
+      "cardKey": "granary rats",
+      "cardName": "Granary Rats",
+      "deckShare": 0.20805555555555555,
+      "inDeck": {
+        "playerGames": 749,
+        "matches": 661,
+        "wins": 376,
+        "winRate": 0.5020026702269693
+      },
+      "played": {
+        "playerGames": 187,
+        "matches": 178,
+        "wins": 100,
+        "winRate": 0.5347593582887701
+      },
+      "openingHand": {
+        "playerGames": 148,
+        "matches": 140,
+        "wins": 76,
+        "winRate": 0.5135135135135135
+      },
+      "inHand": {
+        "playerGames": 401,
+        "matches": 372,
+        "wins": 202,
+        "winRate": 0.5037406483790524
+      },
+      "notInHand": {
+        "playerGames": 348,
+        "matches": 321,
+        "wins": 174,
+        "winRate": 0.5
+      },
+      "inDeckUnplayed": {
+        "playerGames": 562,
+        "matches": 508,
+        "wins": 276,
+        "winRate": 0.49110320284697506
+      }
+    },
+    {
+      "cardKey": "mariner s curse",
+      "cardName": "Mariner's Curse",
+      "deckShare": 0.20805555555555555,
+      "inDeck": {
+        "playerGames": 749,
+        "matches": 682,
+        "wins": 346,
+        "winRate": 0.46194926568758343
+      },
+      "played": {
+        "playerGames": 170,
+        "matches": 165,
+        "wins": 81,
+        "winRate": 0.4764705882352941
+      },
+      "openingHand": {
+        "playerGames": 143,
+        "matches": 138,
+        "wins": 59,
+        "winRate": 0.4125874125874126
+      },
+      "inHand": {
+        "playerGames": 401,
+        "matches": 380,
+        "wins": 195,
+        "winRate": 0.486284289276808
+      },
+      "notInHand": {
+        "playerGames": 348,
+        "matches": 328,
+        "wins": 151,
+        "winRate": 0.4339080459770115
+      },
+      "inDeckUnplayed": {
+        "playerGames": 579,
+        "matches": 536,
+        "wins": 265,
+        "winRate": 0.45768566493955093
+      }
+    },
+    {
+      "cardKey": "pookas",
+      "cardName": "Pookas",
+      "deckShare": 0.20722222222222222,
+      "inDeck": {
+        "playerGames": 746,
+        "matches": 654,
+        "wins": 374,
+        "winRate": 0.5013404825737265
+      },
+      "played": {
+        "playerGames": 190,
+        "matches": 187,
+        "wins": 110,
+        "winRate": 0.5789473684210527
+      },
+      "openingHand": {
+        "playerGames": 142,
+        "matches": 137,
+        "wins": 83,
+        "winRate": 0.5845070422535211
+      },
+      "inHand": {
+        "playerGames": 381,
+        "matches": 360,
+        "wins": 188,
+        "winRate": 0.49343832020997375
+      },
+      "notInHand": {
+        "playerGames": 365,
+        "matches": 347,
+        "wins": 186,
+        "winRate": 0.5095890410958904
+      },
+      "inDeckUnplayed": {
+        "playerGames": 556,
+        "matches": 510,
+        "wins": 264,
+        "winRate": 0.4748201438848921
+      }
+    },
+    {
+      "cardKey": "conqueror worm",
+      "cardName": "Conqueror Worm",
+      "deckShare": 0.2063888888888889,
+      "inDeck": {
+        "playerGames": 743,
+        "matches": 670,
+        "wins": 373,
+        "winRate": 0.5020188425302826
+      },
+      "played": {
+        "playerGames": 201,
+        "matches": 191,
+        "wins": 111,
+        "winRate": 0.5522388059701493
+      },
+      "openingHand": {
+        "playerGames": 141,
+        "matches": 137,
+        "wins": 73,
+        "winRate": 0.5177304964539007
+      },
+      "inHand": {
+        "playerGames": 386,
+        "matches": 364,
+        "wins": 197,
+        "winRate": 0.5103626943005182
+      },
+      "notInHand": {
+        "playerGames": 357,
+        "matches": 334,
+        "wins": 176,
+        "winRate": 0.49299719887955185
+      },
+      "inDeckUnplayed": {
+        "playerGames": 542,
+        "matches": 501,
+        "wins": 262,
+        "winRate": 0.4833948339483395
+      }
+    },
+    {
+      "cardKey": "lightning bolt",
+      "cardName": "Lightning Bolt",
+      "deckShare": 0.2063888888888889,
+      "inDeck": {
+        "playerGames": 743,
+        "matches": 676,
+        "wins": 384,
+        "winRate": 0.5168236877523553
+      },
+      "played": {
+        "playerGames": 211,
+        "matches": 204,
+        "wins": 103,
+        "winRate": 0.4881516587677725
+      },
+      "openingHand": {
+        "playerGames": 133,
+        "matches": 130,
+        "wins": 63,
+        "winRate": 0.47368421052631576
+      },
+      "inHand": {
+        "playerGames": 391,
+        "matches": 372,
+        "wins": 197,
+        "winRate": 0.5038363171355499
+      },
+      "notInHand": {
+        "playerGames": 352,
+        "matches": 338,
+        "wins": 187,
+        "winRate": 0.53125
+      },
+      "inDeckUnplayed": {
+        "playerGames": 532,
+        "matches": 500,
+        "wins": 281,
+        "winRate": 0.5281954887218046
+      }
+    },
+    {
+      "cardKey": "ophanim",
+      "cardName": "Ophanim",
+      "deckShare": 0.2061111111111111,
+      "inDeck": {
+        "playerGames": 742,
+        "matches": 687,
+        "wins": 379,
+        "winRate": 0.5107816711590296
+      },
+      "played": {
+        "playerGames": 166,
+        "matches": 165,
+        "wins": 95,
+        "winRate": 0.572289156626506
+      },
+      "openingHand": {
+        "playerGames": 158,
+        "matches": 156,
+        "wins": 84,
+        "winRate": 0.5316455696202531
+      },
+      "inHand": {
+        "playerGames": 408,
+        "matches": 391,
+        "wins": 220,
+        "winRate": 0.5392156862745098
+      },
+      "notInHand": {
+        "playerGames": 334,
+        "matches": 321,
+        "wins": 159,
+        "winRate": 0.47604790419161674
+      },
+      "inDeckUnplayed": {
+        "playerGames": 576,
+        "matches": 546,
+        "wins": 284,
+        "winRate": 0.4930555555555556
+      }
+    },
+    {
+      "cardKey": "silence",
+      "cardName": "Silence",
+      "deckShare": 0.20555555555555555,
+      "inDeck": {
+        "playerGames": 740,
+        "matches": 673,
+        "wins": 382,
+        "winRate": 0.5162162162162162
+      },
+      "played": {
+        "playerGames": 177,
+        "matches": 174,
+        "wins": 87,
+        "winRate": 0.4915254237288136
+      },
+      "openingHand": {
+        "playerGames": 131,
+        "matches": 129,
+        "wins": 65,
+        "winRate": 0.4961832061068702
+      },
+      "inHand": {
+        "playerGames": 388,
+        "matches": 372,
+        "wins": 205,
+        "winRate": 0.5283505154639175
+      },
+      "notInHand": {
+        "playerGames": 352,
+        "matches": 338,
+        "wins": 177,
+        "winRate": 0.5028409090909091
+      },
+      "inDeckUnplayed": {
+        "playerGames": 563,
+        "matches": 523,
+        "wins": 295,
+        "winRate": 0.5239786856127886
+      }
+    },
+    {
+      "cardKey": "noxious corpse",
+      "cardName": "Noxious Corpse",
+      "deckShare": 0.20527777777777778,
+      "inDeck": {
+        "playerGames": 739,
+        "matches": 661,
+        "wins": 385,
+        "winRate": 0.5209742895805142
+      },
+      "played": {
+        "playerGames": 178,
+        "matches": 176,
+        "wins": 85,
+        "winRate": 0.47752808988764045
+      },
+      "openingHand": {
+        "playerGames": 144,
+        "matches": 139,
+        "wins": 65,
+        "winRate": 0.4513888888888889
+      },
+      "inHand": {
+        "playerGames": 387,
+        "matches": 362,
+        "wins": 194,
+        "winRate": 0.5012919896640827
+      },
+      "notInHand": {
+        "playerGames": 352,
+        "matches": 334,
+        "wins": 191,
+        "winRate": 0.5426136363636364
+      },
+      "inDeckUnplayed": {
+        "playerGames": 561,
+        "matches": 517,
+        "wins": 300,
+        "winRate": 0.5347593582887701
+      }
+    },
+    {
+      "cardKey": "burning hands",
+      "cardName": "Burning Hands",
+      "deckShare": 0.205,
+      "inDeck": {
+        "playerGames": 738,
+        "matches": 680,
+        "wins": 374,
+        "winRate": 0.5067750677506775
+      },
+      "played": {
+        "playerGames": 140,
+        "matches": 134,
+        "wins": 76,
+        "winRate": 0.5428571428571428
+      },
+      "openingHand": {
+        "playerGames": 132,
+        "matches": 130,
+        "wins": 66,
+        "winRate": 0.5
+      },
+      "inHand": {
+        "playerGames": 379,
+        "matches": 358,
+        "wins": 193,
+        "winRate": 0.5092348284960422
+      },
+      "notInHand": {
+        "playerGames": 359,
+        "matches": 344,
+        "wins": 181,
+        "winRate": 0.5041782729805014
+      },
+      "inDeckUnplayed": {
+        "playerGames": 598,
+        "matches": 563,
+        "wins": 298,
+        "winRate": 0.4983277591973244
+      }
+    },
+    {
+      "cardKey": "exhume",
+      "cardName": "Exhume",
+      "deckShare": 0.20055555555555554,
+      "inDeck": {
+        "playerGames": 722,
+        "matches": 647,
+        "wins": 352,
+        "winRate": 0.48753462603878117
+      },
+      "played": {
+        "playerGames": 179,
+        "matches": 178,
+        "wins": 91,
+        "winRate": 0.5083798882681564
+      },
+      "openingHand": {
+        "playerGames": 142,
+        "matches": 140,
+        "wins": 71,
+        "winRate": 0.5
+      },
+      "inHand": {
+        "playerGames": 369,
+        "matches": 353,
+        "wins": 182,
+        "winRate": 0.4932249322493225
+      },
+      "notInHand": {
+        "playerGames": 353,
+        "matches": 341,
+        "wins": 170,
+        "winRate": 0.48158640226628896
+      },
+      "inDeckUnplayed": {
+        "playerGames": 543,
+        "matches": 508,
+        "wins": 261,
+        "winRate": 0.48066298342541436
+      }
+    },
+    {
+      "cardKey": "hellhounds",
+      "cardName": "Hellhounds",
+      "deckShare": 0.20055555555555554,
+      "inDeck": {
+        "playerGames": 722,
+        "matches": 638,
+        "wins": 368,
+        "winRate": 0.5096952908587258
+      },
+      "played": {
+        "playerGames": 160,
+        "matches": 158,
+        "wins": 86,
+        "winRate": 0.5375
+      },
+      "openingHand": {
+        "playerGames": 140,
+        "matches": 136,
+        "wins": 76,
+        "winRate": 0.5428571428571428
+      },
+      "inHand": {
+        "playerGames": 389,
+        "matches": 363,
+        "wins": 200,
+        "winRate": 0.5141388174807198
+      },
+      "notInHand": {
+        "playerGames": 333,
+        "matches": 309,
+        "wins": 168,
+        "winRate": 0.5045045045045045
+      },
+      "inDeckUnplayed": {
+        "playerGames": 562,
+        "matches": 507,
+        "wins": 282,
+        "winRate": 0.501779359430605
+      }
+    },
+    {
+      "cardKey": "scarecrow",
+      "cardName": "Scarecrow",
+      "deckShare": 0.20027777777777778,
+      "inDeck": {
+        "playerGames": 721,
+        "matches": 657,
+        "wins": 366,
+        "winRate": 0.507628294036061
+      },
+      "played": {
+        "playerGames": 157,
+        "matches": 151,
+        "wins": 79,
+        "winRate": 0.5031847133757962
+      },
+      "openingHand": {
+        "playerGames": 136,
+        "matches": 134,
+        "wins": 70,
+        "winRate": 0.5147058823529411
+      },
+      "inHand": {
+        "playerGames": 382,
+        "matches": 359,
+        "wins": 203,
+        "winRate": 0.5314136125654451
+      },
+      "notInHand": {
+        "playerGames": 339,
+        "matches": 322,
+        "wins": 163,
+        "winRate": 0.4808259587020649
+      },
+      "inDeckUnplayed": {
+        "playerGames": 564,
+        "matches": 530,
+        "wins": 287,
+        "winRate": 0.5088652482269503
+      }
+    },
+    {
+      "cardKey": "hunting party",
+      "cardName": "Hunting Party",
+      "deckShare": 0.19833333333333333,
+      "inDeck": {
+        "playerGames": 714,
+        "matches": 641,
+        "wins": 363,
+        "winRate": 0.5084033613445378
+      },
+      "played": {
+        "playerGames": 149,
+        "matches": 143,
+        "wins": 77,
+        "winRate": 0.5167785234899329
+      },
+      "openingHand": {
+        "playerGames": 139,
+        "matches": 134,
+        "wins": 74,
+        "winRate": 0.5323741007194245
+      },
+      "inHand": {
+        "playerGames": 388,
+        "matches": 363,
+        "wins": 194,
+        "winRate": 0.5
+      },
+      "notInHand": {
+        "playerGames": 326,
+        "matches": 314,
+        "wins": 169,
+        "winRate": 0.5184049079754601
+      },
+      "inDeckUnplayed": {
+        "playerGames": 565,
+        "matches": 530,
+        "wins": 286,
+        "winRate": 0.5061946902654867
+      }
+    },
+    {
+      "cardKey": "rimland nomads",
+      "cardName": "Rimland Nomads",
+      "deckShare": 0.19777777777777777,
+      "inDeck": {
+        "playerGames": 712,
+        "matches": 666,
+        "wins": 340,
+        "winRate": 0.47752808988764045
+      },
+      "played": {
+        "playerGames": 156,
+        "matches": 154,
+        "wins": 69,
+        "winRate": 0.4423076923076923
+      },
+      "openingHand": {
+        "playerGames": 132,
+        "matches": 131,
+        "wins": 60,
+        "winRate": 0.45454545454545453
+      },
+      "inHand": {
+        "playerGames": 370,
+        "matches": 365,
+        "wins": 160,
+        "winRate": 0.43243243243243246
+      },
+      "notInHand": {
+        "playerGames": 342,
+        "matches": 336,
+        "wins": 180,
+        "winRate": 0.5263157894736842
+      },
+      "inDeckUnplayed": {
+        "playerGames": 556,
+        "matches": 523,
+        "wins": 271,
+        "winRate": 0.48741007194244607
+      }
+    },
+    {
+      "cardKey": "siege ballista",
+      "cardName": "Siege Ballista",
+      "deckShare": 0.19777777777777777,
+      "inDeck": {
+        "playerGames": 712,
+        "matches": 634,
+        "wins": 354,
+        "winRate": 0.49719101123595505
+      },
+      "played": {
+        "playerGames": 180,
+        "matches": 175,
+        "wins": 91,
+        "winRate": 0.5055555555555555
+      },
+      "openingHand": {
+        "playerGames": 145,
+        "matches": 142,
+        "wins": 73,
+        "winRate": 0.503448275862069
+      },
+      "inHand": {
+        "playerGames": 380,
+        "matches": 360,
+        "wins": 201,
+        "winRate": 0.5289473684210526
+      },
+      "notInHand": {
+        "playerGames": 332,
+        "matches": 317,
+        "wins": 153,
+        "winRate": 0.4608433734939759
+      },
+      "inDeckUnplayed": {
+        "playerGames": 532,
+        "matches": 487,
+        "wins": 263,
+        "winRate": 0.4943609022556391
+      }
+    },
+    {
+      "cardKey": "bridge troll",
+      "cardName": "Bridge Troll",
+      "deckShare": 0.19722222222222222,
+      "inDeck": {
+        "playerGames": 710,
+        "matches": 629,
+        "wins": 360,
+        "winRate": 0.5070422535211268
+      },
+      "played": {
+        "playerGames": 168,
+        "matches": 159,
+        "wins": 84,
+        "winRate": 0.5
+      },
+      "openingHand": {
+        "playerGames": 130,
+        "matches": 127,
+        "wins": 68,
+        "winRate": 0.5230769230769231
+      },
+      "inHand": {
+        "playerGames": 368,
+        "matches": 345,
+        "wins": 195,
+        "winRate": 0.529891304347826
+      },
+      "notInHand": {
+        "playerGames": 342,
+        "matches": 322,
+        "wins": 165,
+        "winRate": 0.4824561403508772
+      },
+      "inDeckUnplayed": {
+        "playerGames": 542,
+        "matches": 499,
+        "wins": 276,
+        "winRate": 0.5092250922509225
+      }
+    },
+    {
+      "cardKey": "frontier settlers",
+      "cardName": "Frontier Settlers",
+      "deckShare": 0.1963888888888889,
+      "inDeck": {
+        "playerGames": 707,
+        "matches": 633,
+        "wins": 350,
+        "winRate": 0.49504950495049505
+      },
+      "played": {
+        "playerGames": 166,
+        "matches": 165,
+        "wins": 80,
+        "winRate": 0.4819277108433735
+      },
+      "openingHand": {
+        "playerGames": 138,
+        "matches": 136,
+        "wins": 63,
+        "winRate": 0.45652173913043476
+      },
+      "inHand": {
+        "playerGames": 376,
+        "matches": 359,
+        "wins": 188,
+        "winRate": 0.5
+      },
+      "notInHand": {
+        "playerGames": 331,
+        "matches": 323,
+        "wins": 162,
+        "winRate": 0.48942598187311176
+      },
+      "inDeckUnplayed": {
+        "playerGames": 541,
+        "matches": 498,
+        "wins": 270,
+        "winRate": 0.49907578558225507
+      }
+    },
+    {
+      "cardKey": "immolation",
+      "cardName": "Immolation",
+      "deckShare": 0.1963888888888889,
+      "inDeck": {
+        "playerGames": 707,
+        "matches": 637,
+        "wins": 360,
+        "winRate": 0.5091937765205092
+      },
+      "played": {
+        "playerGames": 172,
+        "matches": 168,
+        "wins": 83,
+        "winRate": 0.48255813953488375
+      },
+      "openingHand": {
+        "playerGames": 129,
+        "matches": 128,
+        "wins": 55,
+        "winRate": 0.4263565891472868
+      },
+      "inHand": {
+        "playerGames": 376,
+        "matches": 361,
+        "wins": 179,
+        "winRate": 0.47606382978723405
+      },
+      "notInHand": {
+        "playerGames": 331,
+        "matches": 316,
+        "wins": 181,
+        "winRate": 0.5468277945619335
+      },
+      "inDeckUnplayed": {
+        "playerGames": 535,
+        "matches": 492,
+        "wins": 277,
+        "winRate": 0.5177570093457944
+      }
+    },
+    {
+      "cardKey": "wreathed in righteousness",
+      "cardName": "Wreathed in Righteousness",
+      "deckShare": 0.19611111111111112,
+      "inDeck": {
+        "playerGames": 706,
+        "matches": 633,
+        "wins": 350,
+        "winRate": 0.49575070821529743
+      },
+      "played": {
+        "playerGames": 172,
+        "matches": 169,
+        "wins": 79,
+        "winRate": 0.45930232558139533
+      },
+      "openingHand": {
+        "playerGames": 128,
+        "matches": 126,
+        "wins": 65,
+        "winRate": 0.5078125
+      },
+      "inHand": {
+        "playerGames": 365,
+        "matches": 350,
+        "wins": 188,
+        "winRate": 0.5150684931506849
+      },
+      "notInHand": {
+        "playerGames": 341,
+        "matches": 329,
+        "wins": 162,
+        "winRate": 0.4750733137829912
+      },
+      "inDeckUnplayed": {
+        "playerGames": 534,
+        "matches": 496,
+        "wins": 271,
+        "winRate": 0.5074906367041199
+      }
+    },
+    {
+      "cardKey": "shameless squire",
+      "cardName": "Shameless Squire",
+      "deckShare": 0.1947222222222222,
+      "inDeck": {
+        "playerGames": 701,
+        "matches": 639,
+        "wins": 346,
+        "winRate": 0.49358059914407987
+      },
+      "played": {
+        "playerGames": 171,
+        "matches": 168,
+        "wins": 83,
+        "winRate": 0.4853801169590643
+      },
+      "openingHand": {
+        "playerGames": 133,
+        "matches": 131,
+        "wins": 58,
+        "winRate": 0.43609022556390975
+      },
+      "inHand": {
+        "playerGames": 371,
+        "matches": 356,
+        "wins": 171,
+        "winRate": 0.4609164420485175
+      },
+      "notInHand": {
+        "playerGames": 330,
+        "matches": 315,
+        "wins": 175,
+        "winRate": 0.5303030303030303
+      },
+      "inDeckUnplayed": {
+        "playerGames": 530,
+        "matches": 500,
+        "wins": 263,
+        "winRate": 0.4962264150943396
+      }
+    },
+    {
+      "cardKey": "pnakotic manuscript",
+      "cardName": "Pnakotic Manuscript",
+      "deckShare": 0.19444444444444445,
+      "inDeck": {
+        "playerGames": 700,
+        "matches": 642,
+        "wins": 361,
+        "winRate": 0.5157142857142857
+      },
+      "played": {
+        "playerGames": 152,
+        "matches": 152,
+        "wins": 78,
+        "winRate": 0.5131578947368421
+      },
+      "openingHand": {
+        "playerGames": 136,
+        "matches": 136,
+        "wins": 78,
+        "winRate": 0.5735294117647058
+      },
+      "inHand": {
+        "playerGames": 390,
+        "matches": 379,
+        "wins": 196,
+        "winRate": 0.5025641025641026
+      },
+      "notInHand": {
+        "playerGames": 310,
+        "matches": 304,
+        "wins": 165,
+        "winRate": 0.532258064516129
+      },
+      "inDeckUnplayed": {
+        "playerGames": 548,
+        "matches": 511,
+        "wins": 283,
+        "winRate": 0.5164233576642335
+      }
+    },
+    {
+      "cardKey": "rhongomyniad",
+      "cardName": "Rhongomyniad",
+      "deckShare": 0.19361111111111112,
+      "inDeck": {
+        "playerGames": 697,
+        "matches": 620,
+        "wins": 347,
+        "winRate": 0.49784791965566716
+      },
+      "played": {
+        "playerGames": 136,
+        "matches": 136,
+        "wins": 77,
+        "winRate": 0.5661764705882353
+      },
+      "openingHand": {
+        "playerGames": 138,
+        "matches": 136,
+        "wins": 73,
+        "winRate": 0.5289855072463768
+      },
+      "inHand": {
+        "playerGames": 371,
+        "matches": 351,
+        "wins": 182,
+        "winRate": 0.49056603773584906
+      },
+      "notInHand": {
+        "playerGames": 326,
+        "matches": 311,
+        "wins": 165,
+        "winRate": 0.5061349693251533
+      },
+      "inDeckUnplayed": {
+        "playerGames": 561,
+        "matches": 504,
+        "wins": 270,
+        "winRate": 0.48128342245989303
+      }
+    },
+    {
+      "cardKey": "coral reef kelpie",
+      "cardName": "Coral-Reef Kelpie",
+      "deckShare": 0.19305555555555556,
+      "inDeck": {
+        "playerGames": 695,
+        "matches": 612,
+        "wins": 351,
+        "winRate": 0.5050359712230216
+      },
+      "played": {
+        "playerGames": 155,
+        "matches": 151,
+        "wins": 71,
+        "winRate": 0.45806451612903226
+      },
+      "openingHand": {
+        "playerGames": 128,
+        "matches": 125,
+        "wins": 67,
+        "winRate": 0.5234375
+      },
+      "inHand": {
+        "playerGames": 366,
+        "matches": 344,
+        "wins": 174,
+        "winRate": 0.47540983606557374
+      },
+      "notInHand": {
+        "playerGames": 329,
+        "matches": 306,
+        "wins": 177,
+        "winRate": 0.5379939209726444
+      },
+      "inDeckUnplayed": {
+        "playerGames": 540,
+        "matches": 487,
+        "wins": 280,
+        "winRate": 0.5185185185185185
+      }
+    },
+    {
+      "cardKey": "swap",
+      "cardName": "Swap",
+      "deckShare": 0.1922222222222222,
+      "inDeck": {
+        "playerGames": 692,
+        "matches": 613,
+        "wins": 340,
+        "winRate": 0.4913294797687861
+      },
+      "played": {
+        "playerGames": 166,
+        "matches": 163,
+        "wins": 84,
+        "winRate": 0.5060240963855421
+      },
+      "openingHand": {
+        "playerGames": 126,
+        "matches": 124,
+        "wins": 66,
+        "winRate": 0.5238095238095238
+      },
+      "inHand": {
+        "playerGames": 355,
+        "matches": 333,
+        "wins": 185,
+        "winRate": 0.5211267605633803
+      },
+      "notInHand": {
+        "playerGames": 337,
+        "matches": 315,
+        "wins": 155,
+        "winRate": 0.4599406528189911
+      },
+      "inDeckUnplayed": {
+        "playerGames": 526,
+        "matches": 477,
+        "wins": 256,
+        "winRate": 0.4866920152091255
+      }
+    },
+    {
+      "cardKey": "lance",
+      "cardName": "Lance",
+      "deckShare": 0.18833333333333332,
+      "inDeck": {
+        "playerGames": 678,
+        "matches": 618,
+        "wins": 335,
+        "winRate": 0.4941002949852507
+      },
+      "played": {
+        "playerGames": 184,
+        "matches": 176,
+        "wins": 86,
+        "winRate": 0.4673913043478261
+      },
+      "openingHand": {
+        "playerGames": 128,
+        "matches": 125,
+        "wins": 66,
+        "winRate": 0.515625
+      },
+      "inHand": {
+        "playerGames": 343,
+        "matches": 324,
+        "wins": 163,
+        "winRate": 0.4752186588921283
+      },
+      "notInHand": {
+        "playerGames": 335,
+        "matches": 317,
+        "wins": 172,
+        "winRate": 0.5134328358208955
+      },
+      "inDeckUnplayed": {
+        "playerGames": 494,
+        "matches": 463,
+        "wins": 249,
+        "winRate": 0.5040485829959515
+      }
+    },
+    {
+      "cardKey": "sacred scarabs",
+      "cardName": "Sacred Scarabs",
+      "deckShare": 0.18777777777777777,
+      "inDeck": {
+        "playerGames": 676,
+        "matches": 617,
+        "wins": 354,
+        "winRate": 0.5236686390532544
+      },
+      "played": {
+        "playerGames": 124,
+        "matches": 124,
+        "wins": 63,
+        "winRate": 0.5080645161290323
+      },
+      "openingHand": {
+        "playerGames": 122,
+        "matches": 121,
+        "wins": 58,
+        "winRate": 0.47540983606557374
+      },
+      "inHand": {
+        "playerGames": 350,
+        "matches": 341,
+        "wins": 176,
+        "winRate": 0.5028571428571429
+      },
+      "notInHand": {
+        "playerGames": 326,
+        "matches": 317,
+        "wins": 178,
+        "winRate": 0.5460122699386503
+      },
+      "inDeckUnplayed": {
+        "playerGames": 552,
+        "matches": 504,
+        "wins": 291,
+        "winRate": 0.5271739130434783
+      }
+    },
+    {
+      "cardKey": "bull whip",
+      "cardName": "Bull Whip",
+      "deckShare": 0.18722222222222223,
+      "inDeck": {
+        "playerGames": 674,
+        "matches": 608,
+        "wins": 334,
+        "winRate": 0.49554896142433236
+      },
+      "played": {
+        "playerGames": 168,
+        "matches": 163,
+        "wins": 81,
+        "winRate": 0.48214285714285715
+      },
+      "openingHand": {
+        "playerGames": 130,
+        "matches": 128,
+        "wins": 61,
+        "winRate": 0.46923076923076923
+      },
+      "inHand": {
+        "playerGames": 358,
+        "matches": 343,
+        "wins": 172,
+        "winRate": 0.48044692737430167
+      },
+      "notInHand": {
+        "playerGames": 316,
+        "matches": 304,
+        "wins": 162,
+        "winRate": 0.5126582278481012
+      },
+      "inDeckUnplayed": {
+        "playerGames": 506,
+        "matches": 474,
+        "wins": 253,
+        "winRate": 0.5
+      }
+    },
+    {
+      "cardKey": "all mortals gone",
+      "cardName": "All Mortals Gone",
+      "deckShare": 0.18611111111111112,
+      "inDeck": {
+        "playerGames": 670,
+        "matches": 620,
+        "wins": 328,
+        "winRate": 0.48955223880597015
+      },
+      "played": {
+        "playerGames": 187,
+        "matches": 184,
+        "wins": 84,
+        "winRate": 0.44919786096256686
+      },
+      "openingHand": {
+        "playerGames": 130,
+        "matches": 129,
+        "wins": 57,
+        "winRate": 0.43846153846153846
+      },
+      "inHand": {
+        "playerGames": 366,
+        "matches": 351,
+        "wins": 177,
+        "winRate": 0.48360655737704916
+      },
+      "notInHand": {
+        "playerGames": 304,
+        "matches": 294,
+        "wins": 151,
+        "winRate": 0.4967105263157895
+      },
+      "inDeckUnplayed": {
+        "playerGames": 483,
+        "matches": 461,
+        "wins": 244,
+        "winRate": 0.505175983436853
+      }
+    },
+    {
+      "cardKey": "belmotte longbowmen",
+      "cardName": "Belmotte Longbowmen",
+      "deckShare": 0.18583333333333332,
+      "inDeck": {
+        "playerGames": 669,
+        "matches": 596,
+        "wins": 344,
+        "winRate": 0.5142002989536621
+      },
+      "played": {
+        "playerGames": 175,
+        "matches": 170,
+        "wins": 92,
+        "winRate": 0.5257142857142857
+      },
+      "openingHand": {
+        "playerGames": 122,
+        "matches": 119,
+        "wins": 69,
+        "winRate": 0.5655737704918032
+      },
+      "inHand": {
+        "playerGames": 341,
+        "matches": 324,
+        "wins": 171,
+        "winRate": 0.501466275659824
+      },
+      "notInHand": {
+        "playerGames": 328,
+        "matches": 312,
+        "wins": 173,
+        "winRate": 0.5274390243902439
+      },
+      "inDeckUnplayed": {
+        "playerGames": 494,
+        "matches": 456,
+        "wins": 252,
+        "winRate": 0.5101214574898786
+      }
+    },
+    {
+      "cardKey": "kiss of death",
+      "cardName": "Kiss of Death",
+      "deckShare": 0.18583333333333332,
+      "inDeck": {
+        "playerGames": 669,
+        "matches": 611,
+        "wins": 333,
+        "winRate": 0.4977578475336323
+      },
+      "played": {
+        "playerGames": 158,
+        "matches": 157,
+        "wins": 87,
+        "winRate": 0.5506329113924051
+      },
+      "openingHand": {
+        "playerGames": 130,
+        "matches": 126,
+        "wins": 71,
+        "winRate": 0.5461538461538461
+      },
+      "inHand": {
+        "playerGames": 352,
+        "matches": 339,
+        "wins": 183,
+        "winRate": 0.5198863636363636
+      },
+      "notInHand": {
+        "playerGames": 317,
+        "matches": 306,
+        "wins": 150,
+        "winRate": 0.47318611987381703
+      },
+      "inDeckUnplayed": {
+        "playerGames": 511,
+        "matches": 480,
+        "wins": 246,
+        "winRate": 0.48140900195694714
+      }
+    },
+    {
+      "cardKey": "karkemish chimera",
+      "cardName": "Karkemish Chimera",
+      "deckShare": 0.185,
+      "inDeck": {
+        "playerGames": 666,
+        "matches": 601,
+        "wins": 330,
+        "winRate": 0.4954954954954955
+      },
+      "played": {
+        "playerGames": 170,
+        "matches": 168,
+        "wins": 85,
+        "winRate": 0.5
+      },
+      "openingHand": {
+        "playerGames": 118,
+        "matches": 117,
+        "wins": 56,
+        "winRate": 0.4745762711864407
+      },
+      "inHand": {
+        "playerGames": 343,
+        "matches": 329,
+        "wins": 174,
+        "winRate": 0.5072886297376094
+      },
+      "notInHand": {
+        "playerGames": 323,
+        "matches": 310,
+        "wins": 156,
+        "winRate": 0.48297213622291024
+      },
+      "inDeckUnplayed": {
+        "playerGames": 496,
+        "matches": 460,
+        "wins": 245,
+        "winRate": 0.4939516129032258
+      }
+    },
+    {
+      "cardKey": "crown of the victor",
+      "cardName": "Crown of the Victor",
+      "deckShare": 0.18444444444444444,
+      "inDeck": {
+        "playerGames": 664,
+        "matches": 591,
+        "wins": 333,
+        "winRate": 0.5015060240963856
+      },
+      "played": {
+        "playerGames": 148,
+        "matches": 140,
+        "wins": 80,
+        "winRate": 0.5405405405405406
+      },
+      "openingHand": {
+        "playerGames": 124,
+        "matches": 118,
+        "wins": 66,
+        "winRate": 0.532258064516129
+      },
+      "inHand": {
+        "playerGames": 350,
+        "matches": 323,
+        "wins": 177,
+        "winRate": 0.5057142857142857
+      },
+      "notInHand": {
+        "playerGames": 314,
+        "matches": 296,
+        "wins": 156,
+        "winRate": 0.4968152866242038
+      },
+      "inDeckUnplayed": {
+        "playerGames": 516,
+        "matches": 472,
+        "wins": 253,
+        "winRate": 0.4903100775193798
+      }
+    },
+    {
+      "cardKey": "order of the sacred oak",
+      "cardName": "Order of the Sacred Oak",
+      "deckShare": 0.1802777777777778,
+      "inDeck": {
+        "playerGames": 649,
+        "matches": 589,
+        "wins": 327,
+        "winRate": 0.5038520801232665
+      },
+      "played": {
+        "playerGames": 172,
+        "matches": 164,
+        "wins": 84,
+        "winRate": 0.4883720930232558
+      },
+      "openingHand": {
+        "playerGames": 136,
+        "matches": 134,
+        "wins": 62,
+        "winRate": 0.45588235294117646
+      },
+      "inHand": {
+        "playerGames": 354,
+        "matches": 337,
+        "wins": 173,
+        "winRate": 0.4887005649717514
+      },
+      "notInHand": {
+        "playerGames": 295,
+        "matches": 279,
+        "wins": 154,
+        "winRate": 0.5220338983050847
+      },
+      "inDeckUnplayed": {
+        "playerGames": 477,
+        "matches": 442,
+        "wins": 243,
+        "winRate": 0.5094339622641509
+      }
+    },
+    {
+      "cardKey": "sensu of the fang",
+      "cardName": "Sensu of the Fang",
+      "deckShare": 0.18,
+      "inDeck": {
+        "playerGames": 648,
+        "matches": 629,
+        "wins": 327,
+        "winRate": 0.5046296296296297
+      },
+      "played": {
+        "playerGames": 155,
+        "matches": 155,
+        "wins": 71,
+        "winRate": 0.45806451612903226
+      },
+      "openingHand": {
+        "playerGames": 125,
+        "matches": 125,
+        "wins": 52,
+        "winRate": 0.416
+      },
+      "inHand": {
+        "playerGames": 342,
+        "matches": 337,
+        "wins": 169,
+        "winRate": 0.49415204678362573
+      },
+      "notInHand": {
+        "playerGames": 306,
+        "matches": 301,
+        "wins": 158,
+        "winRate": 0.5163398692810458
+      },
+      "inDeckUnplayed": {
+        "playerGames": 493,
+        "matches": 480,
+        "wins": 256,
+        "winRate": 0.5192697768762677
+      }
+    },
+    {
+      "cardKey": "sword and shield",
+      "cardName": "Sword and Shield",
+      "deckShare": 0.17972222222222223,
+      "inDeck": {
+        "playerGames": 647,
+        "matches": 581,
+        "wins": 328,
+        "winRate": 0.5069551777434312
+      },
+      "played": {
+        "playerGames": 160,
+        "matches": 157,
+        "wins": 86,
+        "winRate": 0.5375
+      },
+      "openingHand": {
+        "playerGames": 119,
+        "matches": 118,
+        "wins": 69,
+        "winRate": 0.5798319327731093
+      },
+      "inHand": {
+        "playerGames": 333,
+        "matches": 319,
+        "wins": 172,
+        "winRate": 0.5165165165165165
+      },
+      "notInHand": {
+        "playerGames": 314,
+        "matches": 299,
+        "wins": 156,
+        "winRate": 0.4968152866242038
+      },
+      "inDeckUnplayed": {
+        "playerGames": 487,
+        "matches": 454,
+        "wins": 242,
+        "winRate": 0.49691991786447637
+      }
+    },
+    {
+      "cardKey": "avenging angel",
+      "cardName": "Avenging Angel",
+      "deckShare": 0.17666666666666667,
+      "inDeck": {
+        "playerGames": 636,
+        "matches": 598,
+        "wins": 321,
+        "winRate": 0.5047169811320755
+      },
+      "played": {
+        "playerGames": 142,
+        "matches": 139,
+        "wins": 70,
+        "winRate": 0.49295774647887325
+      },
+      "openingHand": {
+        "playerGames": 124,
+        "matches": 124,
+        "wins": 60,
+        "winRate": 0.4838709677419355
+      },
+      "inHand": {
+        "playerGames": 327,
+        "matches": 319,
+        "wins": 158,
+        "winRate": 0.4831804281345566
+      },
+      "notInHand": {
+        "playerGames": 309,
+        "matches": 302,
+        "wins": 163,
+        "winRate": 0.5275080906148867
+      },
+      "inDeckUnplayed": {
+        "playerGames": 494,
+        "matches": 470,
+        "wins": 251,
+        "winRate": 0.5080971659919028
+      }
+    },
+    {
+      "cardKey": "lord of unland",
+      "cardName": "Lord of Unland",
+      "deckShare": 0.1763888888888889,
+      "inDeck": {
+        "playerGames": 635,
+        "matches": 581,
+        "wins": 320,
+        "winRate": 0.5039370078740157
+      },
+      "played": {
+        "playerGames": 141,
+        "matches": 138,
+        "wins": 71,
+        "winRate": 0.5035460992907801
+      },
+      "openingHand": {
+        "playerGames": 126,
+        "matches": 124,
+        "wins": 62,
+        "winRate": 0.49206349206349204
+      },
+      "inHand": {
+        "playerGames": 342,
+        "matches": 327,
+        "wins": 180,
+        "winRate": 0.5263157894736842
+      },
+      "notInHand": {
+        "playerGames": 293,
+        "matches": 288,
+        "wins": 140,
+        "winRate": 0.4778156996587031
+      },
+      "inDeckUnplayed": {
+        "playerGames": 494,
+        "matches": 466,
+        "wins": 249,
+        "winRate": 0.5040485829959515
+      }
+    },
+    {
+      "cardKey": "felbog frog men",
+      "cardName": "Felbog Frog Men",
+      "deckShare": 0.1738888888888889,
+      "inDeck": {
+        "playerGames": 626,
+        "matches": 578,
+        "wins": 302,
+        "winRate": 0.48242811501597443
+      },
+      "played": {
+        "playerGames": 110,
+        "matches": 110,
+        "wins": 50,
+        "winRate": 0.45454545454545453
+      },
+      "openingHand": {
+        "playerGames": 116,
+        "matches": 111,
+        "wins": 47,
+        "winRate": 0.4051724137931034
+      },
+      "inHand": {
+        "playerGames": 332,
+        "matches": 318,
+        "wins": 151,
+        "winRate": 0.45481927710843373
+      },
+      "notInHand": {
+        "playerGames": 294,
+        "matches": 281,
+        "wins": 151,
+        "winRate": 0.5136054421768708
+      },
+      "inDeckUnplayed": {
+        "playerGames": 516,
+        "matches": 484,
+        "wins": 252,
+        "winRate": 0.4883720930232558
+      }
+    },
+    {
+      "cardKey": "amazon warriors",
+      "cardName": "Amazon Warriors",
+      "deckShare": 0.17305555555555555,
+      "inDeck": {
+        "playerGames": 623,
+        "matches": 584,
+        "wins": 301,
+        "winRate": 0.48314606741573035
+      },
+      "played": {
+        "playerGames": 127,
+        "matches": 127,
+        "wins": 56,
+        "winRate": 0.4409448818897638
+      },
+      "openingHand": {
+        "playerGames": 124,
+        "matches": 122,
+        "wins": 53,
+        "winRate": 0.4274193548387097
+      },
+      "inHand": {
+        "playerGames": 331,
+        "matches": 319,
+        "wins": 155,
+        "winRate": 0.46827794561933533
+      },
+      "notInHand": {
+        "playerGames": 292,
+        "matches": 283,
+        "wins": 146,
+        "winRate": 0.5
+      },
+      "inDeckUnplayed": {
+        "playerGames": 496,
+        "matches": 469,
+        "wins": 245,
+        "winRate": 0.4939516129032258
+      }
+    },
+    {
+      "cardKey": "hearkening kraken",
+      "cardName": "Hearkening Kraken",
+      "deckShare": 0.16527777777777777,
+      "inDeck": {
+        "playerGames": 595,
+        "matches": 539,
+        "wins": 311,
+        "winRate": 0.5226890756302521
+      },
+      "played": {
+        "playerGames": 131,
+        "matches": 126,
+        "wins": 64,
+        "winRate": 0.48854961832061067
+      },
+      "openingHand": {
+        "playerGames": 108,
+        "matches": 107,
+        "wins": 51,
+        "winRate": 0.4722222222222222
+      },
+      "inHand": {
+        "playerGames": 313,
+        "matches": 300,
+        "wins": 151,
+        "winRate": 0.48242811501597443
+      },
+      "notInHand": {
+        "playerGames": 282,
+        "matches": 267,
+        "wins": 160,
+        "winRate": 0.5673758865248227
+      },
+      "inDeckUnplayed": {
+        "playerGames": 464,
+        "matches": 433,
+        "wins": 247,
+        "winRate": 0.5323275862068966
+      }
+    }
+  ]
+}

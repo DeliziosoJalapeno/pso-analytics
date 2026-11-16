@@ -1,0 +1,819 @@
+{
+  "releasedThrough": "2026-09-30",
+  "dataAvailable": true,
+  "totalGames": 1800,
+  "options": [
+    {
+      "name": "Active Volcano",
+      "kind": "card"
+    },
+    {
+      "name": "All Mortals Gone",
+      "kind": "card"
+    },
+    {
+      "name": "Altar of Malachai",
+      "kind": "card"
+    },
+    {
+      "name": "Amazon Warriors",
+      "kind": "card"
+    },
+    {
+      "name": "Anui Undine",
+      "kind": "card"
+    },
+    {
+      "name": "Aramos Mercenaries",
+      "kind": "card"
+    },
+    {
+      "name": "archimago",
+      "kind": "avatar"
+    },
+    {
+      "name": "Arid Desert",
+      "kind": "card"
+    },
+    {
+      "name": "Arjaro Exorcist",
+      "kind": "card"
+    },
+    {
+      "name": "Assorted Animals",
+      "kind": "card"
+    },
+    {
+      "name": "Astral Alcazar",
+      "kind": "card"
+    },
+    {
+      "name": "avatar of air",
+      "kind": "avatar"
+    },
+    {
+      "name": "avatar of earth",
+      "kind": "avatar"
+    },
+    {
+      "name": "avatar of fire",
+      "kind": "avatar"
+    },
+    {
+      "name": "avatar of water",
+      "kind": "avatar"
+    },
+    {
+      "name": "Avenging Angel",
+      "kind": "card"
+    },
+    {
+      "name": "Azuridge Caravan",
+      "kind": "card"
+    },
+    {
+      "name": "Band of Thieves",
+      "kind": "card"
+    },
+    {
+      "name": "Baptize",
+      "kind": "card"
+    },
+    {
+      "name": "Battering Ram",
+      "kind": "card"
+    },
+    {
+      "name": "battlemage",
+      "kind": "avatar"
+    },
+    {
+      "name": "Belfry",
+      "kind": "card"
+    },
+    {
+      "name": "Belmotte Longbowmen",
+      "kind": "card"
+    },
+    {
+      "name": "Bone Jumble",
+      "kind": "card"
+    },
+    {
+      "name": "Bone Rabble",
+      "kind": "card"
+    },
+    {
+      "name": "Boneyard",
+      "kind": "card"
+    },
+    {
+      "name": "Bosk Troll",
+      "kind": "card"
+    },
+    {
+      "name": "Bower of Bliss",
+      "kind": "card"
+    },
+    {
+      "name": "Bridge Troll",
+      "kind": "card"
+    },
+    {
+      "name": "Bull Whip",
+      "kind": "card"
+    },
+    {
+      "name": "Bureau of Occult Control",
+      "kind": "card"
+    },
+    {
+      "name": "Burning Hands",
+      "kind": "card"
+    },
+    {
+      "name": "Bury",
+      "kind": "card"
+    },
+    {
+      "name": "Castle's Ablaze!",
+      "kind": "card"
+    },
+    {
+      "name": "Cave-In",
+      "kind": "card"
+    },
+    {
+      "name": "Charge",
+      "kind": "card"
+    },
+    {
+      "name": "Clamor of Harpies",
+      "kind": "card"
+    },
+    {
+      "name": "Cloud Spirit",
+      "kind": "card"
+    },
+    {
+      "name": "Conqueror Worm",
+      "kind": "card"
+    },
+    {
+      "name": "Coral-Reef Kelpie",
+      "kind": "card"
+    },
+    {
+      "name": "Crawling Congregation",
+      "kind": "card"
+    },
+    {
+      "name": "Crossroads",
+      "kind": "card"
+    },
+    {
+      "name": "Crown of the Victor",
+      "kind": "card"
+    },
+    {
+      "name": "Dead of Night Demon",
+      "kind": "card"
+    },
+    {
+      "name": "deathspeaker",
+      "kind": "avatar"
+    },
+    {
+      "name": "Defiler Spire",
+      "kind": "card"
+    },
+    {
+      "name": "Demon Hunter",
+      "kind": "card"
+    },
+    {
+      "name": "Diluvian Kraken",
+      "kind": "card"
+    },
+    {
+      "name": "Divine Healing",
+      "kind": "card"
+    },
+    {
+      "name": "Divine Lance",
+      "kind": "card"
+    },
+    {
+      "name": "Draconian Bonekite",
+      "kind": "card"
+    },
+    {
+      "name": "Dreadwing",
+      "kind": "card"
+    },
+    {
+      "name": "druid",
+      "kind": "avatar"
+    },
+    {
+      "name": "Earthquake",
+      "kind": "card"
+    },
+    {
+      "name": "Eclipse",
+      "kind": "card"
+    },
+    {
+      "name": "Edge of the World",
+      "kind": "card"
+    },
+    {
+      "name": "elementalist",
+      "kind": "avatar"
+    },
+    {
+      "name": "enchantress",
+      "kind": "avatar"
+    },
+    {
+      "name": "Entombed",
+      "kind": "card"
+    },
+    {
+      "name": "Evil Presence",
+      "kind": "card"
+    },
+    {
+      "name": "Exhume",
+      "kind": "card"
+    },
+    {
+      "name": "Feast for Crows",
+      "kind": "card"
+    },
+    {
+      "name": "Felbog Frog Men",
+      "kind": "card"
+    },
+    {
+      "name": "Fenvale Muse",
+      "kind": "card"
+    },
+    {
+      "name": "Flame of the First Ones",
+      "kind": "card"
+    },
+    {
+      "name": "flamecaller",
+      "kind": "avatar"
+    },
+    {
+      "name": "Flayer",
+      "kind": "card"
+    },
+    {
+      "name": "Forge",
+      "kind": "card"
+    },
+    {
+      "name": "Fowl Bones",
+      "kind": "card"
+    },
+    {
+      "name": "Free City",
+      "kind": "card"
+    },
+    {
+      "name": "Frontier Settlers",
+      "kind": "card"
+    },
+    {
+      "name": "geomancer",
+      "kind": "avatar"
+    },
+    {
+      "name": "Gnome Hollows",
+      "kind": "card"
+    },
+    {
+      "name": "Granary Rats",
+      "kind": "card"
+    },
+    {
+      "name": "Grigori Rasputin",
+      "kind": "card"
+    },
+    {
+      "name": "Haystack",
+      "kind": "card"
+    },
+    {
+      "name": "Headless Haunt",
+      "kind": "card"
+    },
+    {
+      "name": "Hearkening Kraken",
+      "kind": "card"
+    },
+    {
+      "name": "Hellhounds",
+      "kind": "card"
+    },
+    {
+      "name": "Hellmouth",
+      "kind": "card"
+    },
+    {
+      "name": "Holy Ground",
+      "kind": "card"
+    },
+    {
+      "name": "Homecoming",
+      "kind": "card"
+    },
+    {
+      "name": "Hunting Party",
+      "kind": "card"
+    },
+    {
+      "name": "Immolation",
+      "kind": "card"
+    },
+    {
+      "name": "Infernal Legion",
+      "kind": "card"
+    },
+    {
+      "name": "Iron Shackles",
+      "kind": "card"
+    },
+    {
+      "name": "Island Leviathan",
+      "kind": "card"
+    },
+    {
+      "name": "Jihad",
+      "kind": "card"
+    },
+    {
+      "name": "Karkemish Chimera",
+      "kind": "card"
+    },
+    {
+      "name": "King of the Realm",
+      "kind": "card"
+    },
+    {
+      "name": "Kiss of Death",
+      "kind": "card"
+    },
+    {
+      "name": "Lady Iseult",
+      "kind": "card"
+    },
+    {
+      "name": "Lance",
+      "kind": "card"
+    },
+    {
+      "name": "Land Surveyor",
+      "kind": "card"
+    },
+    {
+      "name": "Lightning Bolt",
+      "kind": "card"
+    },
+    {
+      "name": "Lone Tower",
+      "kind": "card"
+    },
+    {
+      "name": "Lord of Destruction",
+      "kind": "card"
+    },
+    {
+      "name": "Lord of Unland",
+      "kind": "card"
+    },
+    {
+      "name": "Lucky Charm",
+      "kind": "card"
+    },
+    {
+      "name": "Magellan Globe",
+      "kind": "card"
+    },
+    {
+      "name": "Maiden, Mother, Crone",
+      "kind": "card"
+    },
+    {
+      "name": "Mariner's Curse",
+      "kind": "card"
+    },
+    {
+      "name": "Merlin's Staff",
+      "kind": "card"
+    },
+    {
+      "name": "Midnight Rogue",
+      "kind": "card"
+    },
+    {
+      "name": "Miracle Workers",
+      "kind": "card"
+    },
+    {
+      "name": "Mirage",
+      "kind": "card"
+    },
+    {
+      "name": "Mirror Realm",
+      "kind": "card"
+    },
+    {
+      "name": "Mobbed Court",
+      "kind": "card"
+    },
+    {
+      "name": "Morgana le Fay",
+      "kind": "card"
+    },
+    {
+      "name": "Mudslide",
+      "kind": "card"
+    },
+    {
+      "name": "Myrrh's Trophy Room",
+      "kind": "card"
+    },
+    {
+      "name": "Nightmare",
+      "kind": "card"
+    },
+    {
+      "name": "Noisome Twosome",
+      "kind": "card"
+    },
+    {
+      "name": "Noxious Corpse",
+      "kind": "card"
+    },
+    {
+      "name": "Occult Ritual",
+      "kind": "card"
+    },
+    {
+      "name": "Ogre Goons",
+      "kind": "card"
+    },
+    {
+      "name": "Old Salt Anchorman",
+      "kind": "card"
+    },
+    {
+      "name": "One-shot Wizard",
+      "kind": "card"
+    },
+    {
+      "name": "Ophanim",
+      "kind": "card"
+    },
+    {
+      "name": "Order of the Sacred Oak",
+      "kind": "card"
+    },
+    {
+      "name": "pathfinder",
+      "kind": "avatar"
+    },
+    {
+      "name": "Peacemaker Arbalest",
+      "kind": "card"
+    },
+    {
+      "name": "Pigs of the Sounder",
+      "kind": "card"
+    },
+    {
+      "name": "Plague Pits",
+      "kind": "card"
+    },
+    {
+      "name": "Plague Rat",
+      "kind": "card"
+    },
+    {
+      "name": "Planar Gate",
+      "kind": "card"
+    },
+    {
+      "name": "Pnakotic Manuscript",
+      "kind": "card"
+    },
+    {
+      "name": "Pollimorph",
+      "kind": "card"
+    },
+    {
+      "name": "Pookas",
+      "kind": "card"
+    },
+    {
+      "name": "Power of Flight",
+      "kind": "card"
+    },
+    {
+      "name": "Primordial Spring",
+      "kind": "card"
+    },
+    {
+      "name": "Puppet Master",
+      "kind": "card"
+    },
+    {
+      "name": "Rhongomyniad",
+      "kind": "card"
+    },
+    {
+      "name": "Ribble Boggart",
+      "kind": "card"
+    },
+    {
+      "name": "Rift Valley",
+      "kind": "card"
+    },
+    {
+      "name": "Rimland Nomads",
+      "kind": "card"
+    },
+    {
+      "name": "Road to Perdition",
+      "kind": "card"
+    },
+    {
+      "name": "Roaming Monster",
+      "kind": "card"
+    },
+    {
+      "name": "Rolling Boulder",
+      "kind": "card"
+    },
+    {
+      "name": "Rubble",
+      "kind": "card"
+    },
+    {
+      "name": "Rustic Village",
+      "kind": "card"
+    },
+    {
+      "name": "Sacred Scarabs",
+      "kind": "card"
+    },
+    {
+      "name": "Scarecrow",
+      "kind": "card"
+    },
+    {
+      "name": "Scatter",
+      "kind": "card"
+    },
+    {
+      "name": "Sea Raider",
+      "kind": "card"
+    },
+    {
+      "name": "Sea Serpent",
+      "kind": "card"
+    },
+    {
+      "name": "Sea Witch",
+      "kind": "card"
+    },
+    {
+      "name": "Search Party",
+      "kind": "card"
+    },
+    {
+      "name": "Seasoned Sellsword",
+      "kind": "card"
+    },
+    {
+      "name": "Second Wind",
+      "kind": "card"
+    },
+    {
+      "name": "seer",
+      "kind": "avatar"
+    },
+    {
+      "name": "Seirawan Hydra",
+      "kind": "card"
+    },
+    {
+      "name": "Sensu of the Fang",
+      "kind": "card"
+    },
+    {
+      "name": "Sentinel Trap",
+      "kind": "card"
+    },
+    {
+      "name": "Shallow Grave",
+      "kind": "card"
+    },
+    {
+      "name": "Shameless Squire",
+      "kind": "card"
+    },
+    {
+      "name": "Siege Ballista",
+      "kind": "card"
+    },
+    {
+      "name": "Silence",
+      "kind": "card"
+    },
+    {
+      "name": "Sirian Templar",
+      "kind": "card"
+    },
+    {
+      "name": "Skeleton",
+      "kind": "card"
+    },
+    {
+      "name": "Sleep",
+      "kind": "card"
+    },
+    {
+      "name": "Snow Leopard",
+      "kind": "card"
+    },
+    {
+      "name": "Snowball",
+      "kind": "card"
+    },
+    {
+      "name": "Sold-out Cemetery",
+      "kind": "card"
+    },
+    {
+      "name": "sorcerer",
+      "kind": "avatar"
+    },
+    {
+      "name": "sparkmage",
+      "kind": "avatar"
+    },
+    {
+      "name": "Sphinx Sarcophagus",
+      "kind": "card"
+    },
+    {
+      "name": "Star-seeds of Uhr",
+      "kind": "card"
+    },
+    {
+      "name": "Static Servant",
+      "kind": "card"
+    },
+    {
+      "name": "Stone Rain",
+      "kind": "card"
+    },
+    {
+      "name": "Stream",
+      "kind": "card"
+    },
+    {
+      "name": "Sunken Treasure",
+      "kind": "card"
+    },
+    {
+      "name": "Swap",
+      "kind": "card"
+    },
+    {
+      "name": "Sword and Shield",
+      "kind": "card"
+    },
+    {
+      "name": "Tactical Move",
+      "kind": "card"
+    },
+    {
+      "name": "The Colour Out of Space",
+      "kind": "card"
+    },
+    {
+      "name": "The Doom of Dilmun",
+      "kind": "card"
+    },
+    {
+      "name": "The Empyrean",
+      "kind": "card"
+    },
+    {
+      "name": "The Great Drowning of Men",
+      "kind": "card"
+    },
+    {
+      "name": "The Round Table",
+      "kind": "card"
+    },
+    {
+      "name": "The Wild Hunt",
+      "kind": "card"
+    },
+    {
+      "name": "Thing in the Ice",
+      "kind": "card"
+    },
+    {
+      "name": "Thundering Giant",
+      "kind": "card"
+    },
+    {
+      "name": "Trial by Fire",
+      "kind": "card"
+    },
+    {
+      "name": "Truesight Crossbow",
+      "kind": "card"
+    },
+    {
+      "name": "Undertaker Engine",
+      "kind": "card"
+    },
+    {
+      "name": "Vaults of Zul",
+      "kind": "card"
+    },
+    {
+      "name": "Vengeful Heir",
+      "kind": "card"
+    },
+    {
+      "name": "Vesuvius",
+      "kind": "card"
+    },
+    {
+      "name": "Vindictive Nation",
+      "kind": "card"
+    },
+    {
+      "name": "Virgin in Prayer",
+      "kind": "card"
+    },
+    {
+      "name": "Vivien the Enchantress",
+      "kind": "card"
+    },
+    {
+      "name": "War Horse",
+      "kind": "card"
+    },
+    {
+      "name": "Watchtower",
+      "kind": "card"
+    },
+    {
+      "name": "Watery Grave",
+      "kind": "card"
+    },
+    {
+      "name": "waveshaper",
+      "kind": "avatar"
+    },
+    {
+      "name": "Willing Tribute",
+      "kind": "card"
+    },
+    {
+      "name": "Wizard's Den",
+      "kind": "card"
+    },
+    {
+      "name": "Wreathed in Righteousness",
+      "kind": "card"
+    },
+    {
+      "name": "Wuthering Heights",
+      "kind": "card"
+    },
+    {
+      "name": "Wyvern",
+      "kind": "card"
+    },
+    {
+      "name": "Yourke Crossbowmen",
+      "kind": "card"
+    },
+    {
+      "name": "Zombie Horde",
+      "kind": "card"
+    }
+  ]
+}
